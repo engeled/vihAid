@@ -1,0 +1,3243 @@
+Registro;Provincia;Edad_años;Edad_meses;Sexo;Año;Grupo_riesgo;D_Grupo_riesgo
+1;Burgos;38;;H;1999;20;Personas que se inyectan drogas
+2;Burgos;46;;H;1999;70;Relaciones Heterosexuales
+3;Burgos;49;;H;1998;70;Relaciones Heterosexuales
+4;Burgos;34;;H;1999;20;Personas que se inyectan drogas
+5;Burgos;42;;H;1999;20;Personas que se inyectan drogas
+6;Burgos;61;;H;1999;10;Varones homosexuales / bisexuales
+7;Burgos;29;;H;1999;20;Personas que se inyectan drogas
+8;Burgos;38;;H;1999;20;Personas que se inyectan drogas
+9;Burgos;25;;H;1999;20;Personas que se inyectan drogas
+10;Burgos;35;;H;1999;20;Personas que se inyectan drogas
+11;Burgos;43;;M;1999;70;Relaciones Heterosexuales
+12;Burgos;31;;H;1998;20;Personas que se inyectan drogas
+13;León;56;;H;1999;70;Relaciones Heterosexuales
+14;León;25;;H;1999;70;Relaciones Heterosexuales
+15;León;35;;H;1999;20;Personas que se inyectan drogas
+16;León;40;;H;2000;70;Relaciones Heterosexuales
+17;León;66;;H;2000;80;Grupo de riesgo desconocido
+18;Avila;32;;M;1999;20;Personas que se inyectan drogas
+19;Palencia;53;;H;1999;70;Relaciones Heterosexuales
+20;Palencia;28;;H;1999;20;Personas que se inyectan drogas
+21;Palencia;54;;H;1999;10;Varones homosexuales / bisexuales
+22;Palencia;28;;H;1999;20;Personas que se inyectan drogas
+23;Palencia;31;;H;2000;20;Personas que se inyectan drogas
+24;Palencia;42;;H;2000;20;Personas que se inyectan drogas
+25;Valladolid;27;;H;1998;20;Personas que se inyectan drogas
+26;Valladolid;26;;H;1999;10;Varones homosexuales / bisexuales
+27;Valladolid;41;;M;1999;20;Personas que se inyectan drogas
+28;Valladolid;39;;M;1999;20;Personas que se inyectan drogas
+29;Valladolid;27;;H;1999;20;Personas que se inyectan drogas
+30;Valladolid;31;;M;2000;20;Personas que se inyectan drogas
+31;Valladolid;25;;H;1999;20;Personas que se inyectan drogas
+32;Valladolid;32;;M;1998;20;Personas que se inyectan drogas
+33;Zamora;27;;H;1999;20;Personas que se inyectan drogas
+34;Valladolid;37;;H;1997;20;Personas que se inyectan drogas
+35;Valladolid;31;;H;1999;20;Personas que se inyectan drogas
+36;Valladolid;30;;H;2000;20;Personas que se inyectan drogas
+37;Valladolid;39;;H;2000;20;Personas que se inyectan drogas
+38;Valladolid;30;;H;2000;20;Personas que se inyectan drogas
+39;Valladolid;42;;H;2000;10;Varones homosexuales / bisexuales
+40;Valladolid;32;;H;2000;20;Personas que se inyectan drogas
+41;Palencia;36;;H;2000;20;Personas que se inyectan drogas
+42;León;33;;H;2000;80;Grupo de riesgo desconocido
+43;León;34;;H;2000;20;Personas que se inyectan drogas
+44;Avila;34;;M;1995;20;Personas que se inyectan drogas
+45;Salamanca;28;;H;2000;20;Personas que se inyectan drogas
+46;Salamanca;30;;M;2000;20;Personas que se inyectan drogas
+47;Salamanca;33;;H;2000;20;Personas que se inyectan drogas
+48;Salamanca;47;;H;2000;70;Relaciones Heterosexuales
+49;Salamanca;40;;H;2000;20;Personas que se inyectan drogas
+50;Salamanca;35;;H;2000;20;Personas que se inyectan drogas
+51;Palencia;37;;H;1997;20;Personas que se inyectan drogas
+52;Palencia;29;;H;2000;30;Personas que se inyectan drogas / Varones homo/bisexuales
+53;Palencia;39;;H;2000;20;Personas que se inyectan drogas
+54;Palencia;35;;H;2000;20;Personas que se inyectan drogas
+55;Burgos;31;;H;2000;20;Personas que se inyectan drogas
+56;Palencia;36;;H;2000;20;Personas que se inyectan drogas
+57;Palencia;37;;H;2000;70;Relaciones Heterosexuales
+58;Palencia;65;;M;2000;70;Relaciones Heterosexuales
+59;Avila;48;;H;2000;70;Relaciones Heterosexuales
+60;Salamanca;30;;H;2000;10;Varones homosexuales / bisexuales
+61;Valladolid;35;;H;2000;20;Personas que se inyectan drogas
+62;Valladolid;36;;H;2000;20;Personas que se inyectan drogas
+63;Valladolid;43;;H;2000;20;Personas que se inyectan drogas
+64;Palencia;37;;H;2000;20;Personas que se inyectan drogas
+65;Avila;34;;H;2000;20;Personas que se inyectan drogas
+66;Valladolid;43;;H;2000;20;Personas que se inyectan drogas
+67;Valladolid;40;;H;1999;20;Personas que se inyectan drogas
+68;Salamanca;37;;M;2000;70;Relaciones Heterosexuales
+69;Salamanca;35;;H;2000;20;Personas que se inyectan drogas
+70;León;30;;H;2000;20;Personas que se inyectan drogas
+71;Valladolid;35;;H;2000;20;Personas que se inyectan drogas
+72;Valladolid;28;;H;2000;20;Personas que se inyectan drogas
+73;Valladolid;37;;H;2000;20;Personas que se inyectan drogas
+74;Valladolid;43;;H;2000;20;Personas que se inyectan drogas
+75;Valladolid;27;;H;2000;20;Personas que se inyectan drogas
+76;Valladolid;37;;H;2000;20;Personas que se inyectan drogas
+77;Valladolid;34;;H;2000;20;Personas que se inyectan drogas
+78;Valladolid;40;;H;2000;70;Relaciones Heterosexuales
+79;Valladolid;44;;H;1996;70;Relaciones Heterosexuales
+80;Valladolid;29;;H;2000;20;Personas que se inyectan drogas
+81;Valladolid;28;;H;2000;10;Varones homosexuales / bisexuales
+82;Valladolid;38;;H;2000;20;Personas que se inyectan drogas
+83;Valladolid;34;;H;2000;20;Personas que se inyectan drogas
+84;Valladolid;42;;M;2000;20;Personas que se inyectan drogas
+85;Valladolid;39;;H;2000;20;Personas que se inyectan drogas
+86;Valladolid;31;;H;2000;20;Personas que se inyectan drogas
+87;Valladolid;27;;H;2000;20;Personas que se inyectan drogas
+88;León;30;;H;2000;70;Relaciones Heterosexuales
+89;Salamanca;34;;H;2000;20;Personas que se inyectan drogas
+90;Salamanca;32;;H;2000;20;Personas que se inyectan drogas
+91;Avila;80;;H;2000;70;Relaciones Heterosexuales
+92;Zamora;39;;H;2000;20;Personas que se inyectan drogas
+93;Burgos;41;;H;2000;30;Personas que se inyectan drogas / Varones homo/bisexuales
+94;Avila;34;;H;2000;20;Personas que se inyectan drogas
+95;Avila;35;;H;2000;10;Varones homosexuales / bisexuales
+96;Valladolid;38;;H;2000;20;Personas que se inyectan drogas
+97;Valladolid;34;;M;2000;20;Personas que se inyectan drogas
+98;Valladolid;38;;H;2000;20;Personas que se inyectan drogas
+99;Valladolid;33;;H;2000;20;Personas que se inyectan drogas
+100;Valladolid;36;;M;2000;20;Personas que se inyectan drogas
+101;Valladolid;32;;H;2000;20;Personas que se inyectan drogas
+102;Valladolid;29;;H;2000;70;Relaciones Heterosexuales
+103;Salamanca;40;;H;2000;20;Personas que se inyectan drogas
+104;Salamanca;34;;M;2000;20;Personas que se inyectan drogas
+105;Valladolid;39;;H;2000;30;Personas que se inyectan drogas / Varones homo/bisexuales
+106;León;36;;M;2000;80;Grupo de riesgo desconocido
+107;León;48;;H;2000;80;Grupo de riesgo desconocido
+108;Burgos;32;;M;2000;20;Personas que se inyectan drogas
+109;Valladolid;27;;M;1998;20;Personas que se inyectan drogas
+110;Valladolid;22;;H;2000;20;Personas que se inyectan drogas
+111;Valladolid;33;;H;2000;10;Varones homosexuales / bisexuales
+112;Valladolid;38;;H;2000;70;Relaciones Heterosexuales
+113;Valladolid;51;;H;2000;10;Varones homosexuales / bisexuales
+114;Valladolid;34;;H;2000;20;Personas que se inyectan drogas
+115;Segovia;37;;H;2000;10;Varones homosexuales / bisexuales
+116;Segovia;39;;H;2000;10;Varones homosexuales / bisexuales
+117;Segovia;39;;H;2000;70;Relaciones Heterosexuales
+118;Segovia;56;;H;2000;70;Relaciones Heterosexuales
+119;Segovia;29;;H;2000;20;Personas que se inyectan drogas
+120;Valladolid;49;;M;2000;70;Relaciones Heterosexuales
+121;Valladolid;36;;H;2000;20;Personas que se inyectan drogas
+122;Valladolid;33;;M;2000;20;Personas que se inyectan drogas
+123;Valladolid;34;;M;2000;70;Relaciones Heterosexuales
+124;Burgos;38;;H;2000;20;Personas que se inyectan drogas
+125;Burgos;24;;H;1992;20;Personas que se inyectan drogas
+126;Burgos;31;;H;2000;20;Personas que se inyectan drogas
+127;Palencia;31;;H;2000;10;Varones homosexuales / bisexuales
+128;Palencia;35;;H;2000;20;Personas que se inyectan drogas
+129;Soria;40;;H;2001;20;Personas que se inyectan drogas
+130;Valladolid;29;;H;2000;20;Personas que se inyectan drogas
+131;León;34;;H;2001;70;Relaciones Heterosexuales
+132;Zamora;33;;H;2001;20;Personas que se inyectan drogas
+133;León;36;;H;2000;20;Personas que se inyectan drogas
+134;Salamanca;46;;H;2001;20;Personas que se inyectan drogas
+135;Burgos;31;;H;1999;20;Personas que se inyectan drogas
+136;Salamanca;30;;H;1999;20;Personas que se inyectan drogas
+137;Salamanca;34;;H;2001;10;Varones homosexuales / bisexuales
+138;Burgos;28;;H;2000;80;Grupo de riesgo desconocido
+139;Burgos;43;;H;1999;20;Personas que se inyectan drogas
+140;Salamanca;29;;H;2000;20;Personas que se inyectan drogas
+141;Burgos;33;;H;2001;20;Personas que se inyectan drogas
+142;Valladolid;50;;H;2001;20;Personas que se inyectan drogas
+143;Soria;36;;H;1999;20;Personas que se inyectan drogas
+144;Soria;36;;H;2001;20;Personas que se inyectan drogas
+145;León;1;;M;2001;60;Hijo de madre a riesgo
+146;Valladolid;29;;H;2001;20;Personas que se inyectan drogas
+147;León;32;;M;2001;20;Personas que se inyectan drogas
+148;Palencia;42;;H;2001;20;Personas que se inyectan drogas
+149;Palencia;38;;H;2002;10;Varones homosexuales / bisexuales
+150;Valladolid;24;;M;2001;20;Personas que se inyectan drogas
+151;Salamanca;44;;H;2001;80;Grupo de riesgo desconocido
+152;Salamanca;34;;H;2000;20;Personas que se inyectan drogas
+153;Valladolid;31;;M;2001;20;Personas que se inyectan drogas
+154;Valladolid;38;;M;1999;20;Personas que se inyectan drogas
+155;Valladolid;35;;H;2001;20;Personas que se inyectan drogas
+156;Valladolid;38;;H;2001;70;Relaciones Heterosexuales
+157;Valladolid;23;;M;1996;20;Personas que se inyectan drogas
+158;Valladolid;32;;H;2000;20;Personas que se inyectan drogas
+159;Valladolid;31;;H;2000;20;Personas que se inyectan drogas
+160;Valladolid;34;;H;2000;20;Personas que se inyectan drogas
+161;Valladolid;36;;H;2001;30;Personas que se inyectan drogas / Varones homo/bisexuales
+162;Valladolid;35;;H;2000;70;Relaciones Heterosexuales
+163;Valladolid;25;;H;2001;20;Personas que se inyectan drogas
+164;Valladolid;41;;H;2001;20;Personas que se inyectan drogas
+165;Valladolid;42;;H;2001;70;Relaciones Heterosexuales
+166;Valladolid;42;;H;2001;20;Personas que se inyectan drogas
+167;Salamanca;29;;H;2002;70;Relaciones Heterosexuales
+168;Valladolid;42;;H;2001;20;Personas que se inyectan drogas
+169;Palencia;36;;M;2001;20;Personas que se inyectan drogas
+170;León;36;;H;2001;70;Relaciones Heterosexuales
+171;Valladolid;29;;M;2001;20;Personas que se inyectan drogas
+172;Salamanca;33;;H;2001;20;Personas que se inyectan drogas
+173;Salamanca;33;;H;2001;80;Grupo de riesgo desconocido
+174;Salamanca;31;;H;2001;20;Personas que se inyectan drogas
+175;Avila;28;;M;2001;70;Relaciones Heterosexuales
+176;Avila;46;;H;2001;70;Relaciones Heterosexuales
+177;Burgos;48;;H;2001;70;Relaciones Heterosexuales
+178;Burgos;37;;H;2001;20;Personas que se inyectan drogas
+179;Valladolid;32;;H;2001;10;Varones homosexuales / bisexuales
+180;León;51;;M;1999;70;Relaciones Heterosexuales
+181;León;41;;M;2000;20;Personas que se inyectan drogas
+182;Soria;46;;H;2001;70;Relaciones Heterosexuales
+183;Soria;38;;M;2001;70;Relaciones Heterosexuales
+184;Palencia;31;;H;1995;20;Personas que se inyectan drogas
+185;Palencia;58;;H;2000;80;Grupo de riesgo desconocido
+186;Palencia;36;;H;2000;20;Personas que se inyectan drogas
+187;León;31;;M;2000;20;Personas que se inyectan drogas
+188;León;40;;H;1998;20;Personas que se inyectan drogas
+189;León;43;;H;2000;70;Relaciones Heterosexuales
+190;León;36;;H;2001;20;Personas que se inyectan drogas
+191;León;33;;M;1997;20;Personas que se inyectan drogas
+192;León;29;;H;1999;80;Grupo de riesgo desconocido
+193;León;45;;H;2001;70;Relaciones Heterosexuales
+194;León;42;;H;2001;70;Relaciones Heterosexuales
+195;Palencia;31;;H;2001;70;Relaciones Heterosexuales
+196;Palencia;27;;H;2001;30;Personas que se inyectan drogas / Varones homo/bisexuales
+197;Zamora;41;;H;1993;20;Personas que se inyectan drogas
+198;Zamora;20;;H;1989;80;Grupo de riesgo desconocido
+199;Zamora;29;;H;1999;80;Grupo de riesgo desconocido
+200;Zamora;40;;H;2000;20;Personas que se inyectan drogas
+201;Salamanca;33;;H;2001;20;Personas que se inyectan drogas
+202;Salamanca;30;;M;2000;70;Relaciones Heterosexuales
+203;Salamanca;30;;H;1997;20;Personas que se inyectan drogas
+204;Salamanca;37;;H;2000;20;Personas que se inyectan drogas
+205;Salamanca;32;;H;2001;20;Personas que se inyectan drogas
+206;Salamanca;37;;M;1999;70;Relaciones Heterosexuales
+207;Burgos;33;;M;2001;20;Personas que se inyectan drogas
+208;Burgos;39;;M;2001;80;Grupo de riesgo desconocido
+209;Burgos;35;;M;2001;70;Relaciones Heterosexuales
+210;Burgos;42;;H;2000;20;Personas que se inyectan drogas
+211;Burgos;53;;H;2000;10;Varones homosexuales / bisexuales
+212;Burgos;45;;H;2001;20;Personas que se inyectan drogas
+213;Burgos;36;;H;2001;70;Relaciones Heterosexuales
+214;Burgos;56;;M;2000;20;Personas que se inyectan drogas
+215;Burgos;37;;H;2001;20;Personas que se inyectan drogas
+216;Burgos;34;;M;1999;20;Personas que se inyectan drogas
+217;Burgos;72;;H;2001;70;Relaciones Heterosexuales
+218;Burgos;32;;H;2000;20;Personas que se inyectan drogas
+219;Burgos;45;;H;2000;70;Relaciones Heterosexuales
+220;Burgos;33;;H;2000;20;Personas que se inyectan drogas
+221;Burgos;43;;H;2000;20;Personas que se inyectan drogas
+222;Burgos;39;;H;2000;20;Personas que se inyectan drogas
+223;Salamanca;43;;M;1996;20;Personas que se inyectan drogas
+224;Burgos;37;;M;2000;20;Personas que se inyectan drogas
+225;Burgos;34;;H;2000;20;Personas que se inyectan drogas
+226;Burgos;37;;H;2000;80;Grupo de riesgo desconocido
+227;Burgos;34;;H;2000;20;Personas que se inyectan drogas
+228;Avila;38;;H;2001;10;Varones homosexuales / bisexuales
+229;Burgos;27;;H;2000;20;Personas que se inyectan drogas
+230;Burgos;37;;M;2000;80;Grupo de riesgo desconocido
+231;Burgos;41;;H;2000;20;Personas que se inyectan drogas
+232;Salamanca;34;;H;2000;80;Grupo de riesgo desconocido
+233;Zamora;37;;H;2000;80;Grupo de riesgo desconocido
+234;Valladolid;29;;H;2001;30;Personas que se inyectan drogas / Varones homo/bisexuales
+235;Valladolid;34;;H;2001;20;Personas que se inyectan drogas
+236;Valladolid;65;;M;2001;40;Receptores de hemoderivados
+237;Valladolid;39;;H;2001;20;Personas que se inyectan drogas
+238;Valladolid;47;;M;2001;70;Relaciones Heterosexuales
+239;León;39;;H;2002;20;Personas que se inyectan drogas
+240;Burgos;39;;H;2002;20;Personas que se inyectan drogas
+241;León;39;;H;2002;10;Varones homosexuales / bisexuales
+242;León;36;;H;2002;70;Relaciones Heterosexuales
+243;Burgos;47;;H;2001;20;Personas que se inyectan drogas
+244;Zamora;31;;H;2001;70;Relaciones Heterosexuales
+245;Zamora;35;;H;2001;70;Relaciones Heterosexuales
+246;Burgos;42;;M;2002;70;Relaciones Heterosexuales
+247;Palencia;54;;H;2002;70;Relaciones Heterosexuales
+248;Palencia;48;;H;2002;70;Relaciones Heterosexuales
+249;Salamanca;32;;H;2002;20;Personas que se inyectan drogas
+250;Salamanca;37;;H;2002;20;Personas que se inyectan drogas
+251;Valladolid;35;;M;2001;20;Personas que se inyectan drogas
+252;Valladolid;30;;H;2000;20;Personas que se inyectan drogas
+253;Salamanca;29;;H;1999;30;Personas que se inyectan drogas / Varones homo/bisexuales
+254;Valladolid;35;;H;2001;20;Personas que se inyectan drogas
+255;Valladolid;46;;H;2001;70;Relaciones Heterosexuales
+256;Salamanca;47;;H;2000;10;Varones homosexuales / bisexuales
+257;Salamanca;32;;H;2000;30;Personas que se inyectan drogas / Varones homo/bisexuales
+258;Salamanca;27;;H;2000;20;Personas que se inyectan drogas
+259;Salamanca;36;;H;2000;20;Personas que se inyectan drogas
+260;Salamanca;40;;M;1997;20;Personas que se inyectan drogas
+261;Salamanca;42;;H;2000;70;Relaciones Heterosexuales
+262;Salamanca;28;;H;1999;20;Personas que se inyectan drogas
+263;Salamanca;54;;H;2000;70;Relaciones Heterosexuales
+264;Salamanca;33;;H;2000;70;Relaciones Heterosexuales
+265;Salamanca;57;;H;2001;70;Relaciones Heterosexuales
+266;Salamanca;30;;H;2000;20;Personas que se inyectan drogas
+267;Salamanca;37;;H;2000;80;Grupo de riesgo desconocido
+268;Burgos;42;;H;2002;20;Personas que se inyectan drogas
+269;Burgos;33;;H;2002;20;Personas que se inyectan drogas
+270;Burgos;27;;H;2002;20;Personas que se inyectan drogas
+271;Salamanca;44;;H;1997;80;Grupo de riesgo desconocido
+272;Salamanca;40;;M;2000;80;Grupo de riesgo desconocido
+273;Salamanca;26;;M;2001;80;Grupo de riesgo desconocido
+274;León;42;;H;2002;70;Relaciones Heterosexuales
+275;Salamanca;30;;M;2001;20;Personas que se inyectan drogas
+276;Salamanca;25;;M;2002;70;Relaciones Heterosexuales
+277;Salamanca;42;;H;2002;20;Personas que se inyectan drogas
+278;Salamanca;32;;H;2002;20;Personas que se inyectan drogas
+279;Salamanca;36;;H;2002;20;Personas que se inyectan drogas
+280;Segovia;30;;H;1998;20;Personas que se inyectan drogas
+281;Segovia;33;;H;1999;20;Personas que se inyectan drogas
+282;Segovia;36;;H;1998;20;Personas que se inyectan drogas
+283;Segovia;51;;H;2001;70;Relaciones Heterosexuales
+284;Salamanca;35;;H;1997;20;Personas que se inyectan drogas
+285;Soria;33;;H;1999;80;Grupo de riesgo desconocido
+286;Soria;36;;H;1995;20;Personas que se inyectan drogas
+287;Soria;38;;M;2001;20;Personas que se inyectan drogas
+288;Soria;32;;H;1999;70;Relaciones Heterosexuales
+289;Soria;43;;H;1997;20;Personas que se inyectan drogas
+290;Soria;35;;H;1998;70;Relaciones Heterosexuales
+291;Burgos;40;;H;2001;20;Personas que se inyectan drogas
+292;Burgos;39;;H;1999;20;Personas que se inyectan drogas
+293;Burgos;39;;H;1998;20;Personas que se inyectan drogas
+294;Burgos;31;;H;1999;20;Personas que se inyectan drogas
+295;Burgos;38;;H;1999;20;Personas que se inyectan drogas
+296;Burgos;19;;H;1999;20;Personas que se inyectan drogas
+297;Burgos;51;;H;2000;80;Grupo de riesgo desconocido
+298;Valladolid;50;;H;2002;70;Relaciones Heterosexuales
+299;Valladolid;48;;H;2002;20;Personas que se inyectan drogas
+300;Valladolid;35;;H;2002;20;Personas que se inyectan drogas
+301;León;35;;H;2001;20;Personas que se inyectan drogas
+302;León;41;;H;1999;70;Relaciones Heterosexuales
+303;León;62;;M;1998;70;Relaciones Heterosexuales
+304;Valladolid;34;;H;2000;20;Personas que se inyectan drogas
+305;León;32;;H;2001;20;Personas que se inyectan drogas
+306;León;34;;M;2001;70;Relaciones Heterosexuales
+307;León;28;;H;1999;20;Personas que se inyectan drogas
+308;León;44;;H;2000;20;Personas que se inyectan drogas
+309;León;28;;H;1999;20;Personas que se inyectan drogas
+310;León;29;;H;1998;20;Personas que se inyectan drogas
+311;Avila;35;;H;1998;20;Personas que se inyectan drogas
+312;Salamanca;31;;H;2002;70;Relaciones Heterosexuales
+313;Valladolid;30;;H;2002;70;Relaciones Heterosexuales
+314;Valladolid;34;;H;2002;20;Personas que se inyectan drogas
+315;Valladolid;35;;H;2002;20;Personas que se inyectan drogas
+316;León;38;;H;2000;10;Varones homosexuales / bisexuales
+317;León;30;;H;1999;20;Personas que se inyectan drogas
+318;León;28;;M;1998;20;Personas que se inyectan drogas
+319;León;40;;H;1998;20;Personas que se inyectan drogas
+320;León;32;;H;1998;70;Relaciones Heterosexuales
+321;León;48;;M;1997;50;Receptores de transfusión
+322;León;40;;H;2000;20;Personas que se inyectan drogas
+323;León;40;;H;1994;70;Relaciones Heterosexuales
+324;León;73;;H;1998;70;Relaciones Heterosexuales
+325;León;35;;H;1998;20;Personas que se inyectan drogas
+326;León;37;;H;1994;20;Personas que se inyectan drogas
+327;Valladolid;21;;H;2002;20;Personas que se inyectan drogas
+328;Burgos;31;;H;2002;20;Personas que se inyectan drogas
+329;Palencia;44;;M;2002;70;Relaciones Heterosexuales
+330;Palencia;55;;H;2002;70;Relaciones Heterosexuales
+331;Palencia;46;;H;2002;70;Relaciones Heterosexuales
+332;Salamanca;39;;H;2002;20;Personas que se inyectan drogas
+333;Salamanca;39;;H;2002;20;Personas que se inyectan drogas
+334;Salamanca;41;;H;2002;20;Personas que se inyectan drogas
+335;Valladolid;39;;H;2002;70;Relaciones Heterosexuales
+336;Valladolid;36;;M;2002;20;Personas que se inyectan drogas
+337;Valladolid;36;;M;2002;20;Personas que se inyectan drogas
+338;Valladolid;38;;H;2002;20;Personas que se inyectan drogas
+339;Valladolid;36;;H;2002;20;Personas que se inyectan drogas
+340;Valladolid;47;;H;2002;80;Grupo de riesgo desconocido
+341;Valladolid;34;;H;1998;20;Personas que se inyectan drogas
+342;Valladolid;29;;H;2001;20;Personas que se inyectan drogas
+343;Valladolid;44;;M;2002;70;Relaciones Heterosexuales
+344;Valladolid;38;;H;1999;20;Personas que se inyectan drogas
+345;Valladolid;48;;H;2001;20;Personas que se inyectan drogas
+346;Valladolid;41;;H;2002;10;Varones homosexuales / bisexuales
+347;Valladolid;34;;H;2002;20;Personas que se inyectan drogas
+348;Valladolid;34;;H;2002;20;Personas que se inyectan drogas
+349;Valladolid;40;;H;2002;20;Personas que se inyectan drogas
+350;Valladolid;58;;H;2002;70;Relaciones Heterosexuales
+351;Zamora;42;;H;2002;10;Varones homosexuales / bisexuales
+352;Valladolid;30;;H;1994;20;Personas que se inyectan drogas
+353;Valladolid;44;;H;1999;70;Relaciones Heterosexuales
+354;Valladolid;37;;M;1996;70;Relaciones Heterosexuales
+355;Valladolid;37;;H;2001;20;Personas que se inyectan drogas
+356;Valladolid;34;;H;1998;20;Personas que se inyectan drogas
+357;Valladolid;29;;H;2000;70;Relaciones Heterosexuales
+358;Valladolid;44;;H;2001;20;Personas que se inyectan drogas
+359;Valladolid;24;;H;1998;20;Personas que se inyectan drogas
+360;Valladolid;34;;H;1996;20;Personas que se inyectan drogas
+361;Valladolid;53;;H;2000;70;Relaciones Heterosexuales
+362;Valladolid;26;;M;2000;20;Personas que se inyectan drogas
+363;Valladolid;29;;H;1997;20;Personas que se inyectan drogas
+364;Valladolid;35;;H;1994;20;Personas que se inyectan drogas
+365;Valladolid;48;;M;2000;70;Relaciones Heterosexuales
+366;Valladolid;38;;H;2001;20;Personas que se inyectan drogas
+367;Valladolid;33;;M;1998;20;Personas que se inyectan drogas
+368;Valladolid;36;;M;1999;70;Relaciones Heterosexuales
+369;Valladolid;33;;M;1998;20;Personas que se inyectan drogas
+370;Valladolid;45;;M;1999;20;Personas que se inyectan drogas
+371;Valladolid;29;;H;1997;20;Personas que se inyectan drogas
+372;Valladolid;36;;H;2000;20;Personas que se inyectan drogas
+373;Valladolid;25;;M;1999;70;Relaciones Heterosexuales
+374;Valladolid;34;;H;1998;20;Personas que se inyectan drogas
+375;Valladolid;36;;H;2002;20;Personas que se inyectan drogas
+376;Salamanca;33;;H;1995;20;Personas que se inyectan drogas
+377;Salamanca;37;;H;1999;20;Personas que se inyectan drogas
+378;Salamanca;55;;H;2001;70;Relaciones Heterosexuales
+379;Palencia;45;;H;2002;80;Grupo de riesgo desconocido
+380;Palencia;36;;M;2004;20;Personas que se inyectan drogas
+381;Palencia;51;;H;2001;80;Grupo de riesgo desconocido
+382;Palencia;40;;M;1999;80;Grupo de riesgo desconocido
+383;Palencia;32;;M;2000;20;Personas que se inyectan drogas
+384;Palencia;30;;H;1999;20;Personas que se inyectan drogas
+385;Palencia;40;;H;1999;20;Personas que se inyectan drogas
+386;Salamanca;40;;M;2001;20;Personas que se inyectan drogas
+387;Salamanca;65;;H;2001;70;Relaciones Heterosexuales
+388;Salamanca;34;;M;1995;20;Personas que se inyectan drogas
+389;Salamanca;26;;H;1997;20;Personas que se inyectan drogas
+390;Salamanca;33;;H;1999;20;Personas que se inyectan drogas
+391;Burgos;29;;H;2002;80;Grupo de riesgo desconocido
+392;Salamanca;37;;H;1999;70;Relaciones Heterosexuales
+393;Salamanca;24;;H;1999;20;Personas que se inyectan drogas
+394;Salamanca;30;;M;2001;20;Personas que se inyectan drogas
+395;Salamanca;30;;H;2002;20;Personas que se inyectan drogas
+396;Salamanca;36;;H;2002;20;Personas que se inyectan drogas
+397;Salamanca;32;;M;2002;20;Personas que se inyectan drogas
+398;Valladolid;34;;H;2002;20;Personas que se inyectan drogas
+399;Valladolid;43;;H;2003;20;Personas que se inyectan drogas
+400;Soria;27;;M;2003;70;Relaciones Heterosexuales
+401;León;32;;H;2002;20;Personas que se inyectan drogas
+402;Burgos;36;;H;2003;20;Personas que se inyectan drogas
+403;Salamanca;37;;H;2003;30;Personas que se inyectan drogas / Varones homo/bisexuales
+404;Salamanca;36;;M;2003;70;Relaciones Heterosexuales
+405;Salamanca;13;;M;2003;60;Hijo de madre a riesgo
+406;Palencia;33;;H;2002;20;Personas que se inyectan drogas
+407;Valladolid;37;;H;2003;20;Personas que se inyectan drogas
+408;Valladolid;47;;H;2003;70;Relaciones Heterosexuales
+409;Palencia;43;;H;2003;20;Personas que se inyectan drogas
+410;León;41;;M;2003;20;Personas que se inyectan drogas
+411;Valladolid;42;;M;2003;20;Personas que se inyectan drogas
+412;Valladolid;48;;M;2003;70;Relaciones Heterosexuales
+413;León;43;;H;2003;20;Personas que se inyectan drogas
+414;Palencia;35;;H;2003;20;Personas que se inyectan drogas
+415;Palencia;35;;H;2003;20;Personas que se inyectan drogas
+416;Palencia;42;;H;2003;20;Personas que se inyectan drogas
+417;Palencia;43;;H;2003;20;Personas que se inyectan drogas
+418;Zamora;33;;H;2002;20;Personas que se inyectan drogas
+419;Zamora;51;;H;2002;70;Relaciones Heterosexuales
+420;Valladolid;58;;H;2003;70;Relaciones Heterosexuales
+421;Palencia;36;;H;2003;20;Personas que se inyectan drogas
+422;Palencia;33;;H;2003;20;Personas que se inyectan drogas
+423;Burgos;48;;H;2003;10;Varones homosexuales / bisexuales
+424;León;42;;H;2002;70;Relaciones Heterosexuales
+425;Zamora;25;;M;2003;20;Personas que se inyectan drogas
+426;Salamanca;36;;H;2003;20;Personas que se inyectan drogas
+427;Salamanca;32;;H;2003;20;Personas que se inyectan drogas
+428;Salamanca;39;;H;2003;70;Relaciones Heterosexuales
+429;Salamanca;37;;H;2003;10;Varones homosexuales / bisexuales
+430;Salamanca;33;;M;2002;20;Personas que se inyectan drogas
+431;Salamanca;36;;M;2002;70;Relaciones Heterosexuales
+432;Salamanca;35;;H;2002;20;Personas que se inyectan drogas
+433;Salamanca;31;;H;1994;20;Personas que se inyectan drogas
+434;Salamanca;37;;H;2003;20;Personas que se inyectan drogas
+435;Salamanca;40;;H;2001;20;Personas que se inyectan drogas
+436;Salamanca;37;;M;2001;70;Relaciones Heterosexuales
+437;Avila;37;;M;2003;20;Personas que se inyectan drogas
+438;Palencia;29;;H;2003;70;Relaciones Heterosexuales
+439;Palencia;35;;H;2003;80;Grupo de riesgo desconocido
+440;Burgos;49;;H;2002;20;Personas que se inyectan drogas
+441;Burgos;44;;H;2002;20;Personas que se inyectan drogas
+442;Burgos;34;;H;2002;20;Personas que se inyectan drogas
+443;Burgos;51;;M;2002;70;Relaciones Heterosexuales
+444;Burgos;37;;H;2002;70;Relaciones Heterosexuales
+445;Burgos;50;;H;2002;80;Grupo de riesgo desconocido
+446;Burgos;30;;H;2002;20;Personas que se inyectan drogas
+447;León;31;;M;2003;70;Relaciones Heterosexuales
+448;Palencia;66;;M;2003;70;Relaciones Heterosexuales
+449;Palencia;45;;H;2003;20;Personas que se inyectan drogas
+450;Valladolid;37;;H;2003;20;Personas que se inyectan drogas
+451;León;38;;M;2002;20;Personas que se inyectan drogas
+452;León;41;;M;1995;80;Grupo de riesgo desconocido
+453;León;76;;H;2002;10;Varones homosexuales / bisexuales
+454;León;37;;H;1999;20;Personas que se inyectan drogas
+455;Valladolid;46;;H;2003;20;Personas que se inyectan drogas
+456;Valladolid;49;;H;2003;20;Personas que se inyectan drogas
+457;Segovia;47;;H;2002;10;Varones homosexuales / bisexuales
+458;Segovia;75;;H;2002;70;Relaciones Heterosexuales
+459;Segovia;46;;H;1995;70;Relaciones Heterosexuales
+460;Segovia;24;;H;2001;20;Personas que se inyectan drogas
+461;León;40;;M;2003;20;Personas que se inyectan drogas
+462;León;43;;H;2002;20;Personas que se inyectan drogas
+463;León;44;;M;2002;20;Personas que se inyectan drogas
+464;León;33;;H;2003;20;Personas que se inyectan drogas
+465;León;39;;H;2003;10;Varones homosexuales / bisexuales
+466;Salamanca;41;;H;2003;20;Personas que se inyectan drogas
+467;Salamanca;38;;H;2003;20;Personas que se inyectan drogas
+468;Salamanca;62;;H;2003;10;Varones homosexuales / bisexuales
+469;León;27;;H;1994;20;Personas que se inyectan drogas
+470;Zamora;42;;H;1995;20;Personas que se inyectan drogas
+471;Valladolid;28;;H;1991;20;Personas que se inyectan drogas
+472;Valladolid;55;;M;2003;70;Relaciones Heterosexuales
+473;Zamora;44;;H;2002;20;Personas que se inyectan drogas
+474;Zamora;40;;H;2003;20;Personas que se inyectan drogas
+475;Zamora;41;;H;2002;80;Grupo de riesgo desconocido
+476;Zamora;33;;M;2001;20;Personas que se inyectan drogas
+477;Zamora;47;;H;2002;20;Personas que se inyectan drogas
+478;Palencia;43;;H;2003;20;Personas que se inyectan drogas
+479;Palencia;40;;H;2003;20;Personas que se inyectan drogas
+480;Salamanca;43;;H;2003;10;Varones homosexuales / bisexuales
+481;Zamora;57;;H;2003;70;Relaciones Heterosexuales
+482;Salamanca;52;;H;2003;70;Relaciones Heterosexuales
+483;Salamanca;42;;H;2003;20;Personas que se inyectan drogas
+484;Salamanca;38;;M;2003;20;Personas que se inyectan drogas
+485;Palencia;65;;H;2003;20;Personas que se inyectan drogas
+486;Valladolid;43;;H;2003;20;Personas que se inyectan drogas
+487;Valladolid;45;;H;2003;70;Relaciones Heterosexuales
+488;Valladolid;37;;H;2003;70;Relaciones Heterosexuales
+489;Valladolid;25;;H;2003;10;Varones homosexuales / bisexuales
+490;Avila;37;;H;2003;70;Relaciones Heterosexuales
+491;Avila;39;;M;2003;70;Relaciones Heterosexuales
+492;Salamanca;38;;H;2004;30;Personas que se inyectan drogas / Varones homo/bisexuales
+493;Valladolid;42;;H;2003;20;Personas que se inyectan drogas
+494;Valladolid;44;;M;2002;80;Grupo de riesgo desconocido
+495;Valladolid;38;;H;2002;20;Personas que se inyectan drogas
+496;Avila;39;;H;2003;20;Personas que se inyectan drogas
+497;Valladolid;36;;H;2002;20;Personas que se inyectan drogas
+498;Valladolid;27;;M;2003;20;Personas que se inyectan drogas
+499;Valladolid;41;;H;2003;20;Personas que se inyectan drogas
+500;Soria;42;;H;2003;10;Varones homosexuales / bisexuales
+501;León;88;;H;2002;70;Relaciones Heterosexuales
+502;León;32;;H;1997;20;Personas que se inyectan drogas
+503;León;46;;H;2003;20;Personas que se inyectan drogas
+504;León;44;;H;2002;20;Personas que se inyectan drogas
+505;León;34;;H;1996;20;Personas que se inyectan drogas
+506;León;32;;H;2002;10;Varones homosexuales / bisexuales
+507;León;39;;H;2002;20;Personas que se inyectan drogas
+508;León;28;;H;2003;10;Varones homosexuales / bisexuales
+509;León;35;;H;1999;70;Relaciones Heterosexuales
+510;León;41;;M;2001;20;Personas que se inyectan drogas
+511;León;28;;M;2001;20;Personas que se inyectan drogas
+512;León;35;;M;2002;70;Relaciones Heterosexuales
+513;Valladolid;41;;H;2004;20;Personas que se inyectan drogas
+514;Valladolid;33;;M;2004;70;Relaciones Heterosexuales
+515;Valladolid;26;;M;2004;20;Personas que se inyectan drogas
+516;Avila;38;;H;2004;20;Personas que se inyectan drogas
+517;León;43;;H;2004;70;Relaciones Heterosexuales
+518;Valladolid;39;;H;2004;20;Personas que se inyectan drogas
+519;Salamanca;34;;H;2003;20;Personas que se inyectan drogas
+520;Palencia;37;;H;2004;70;Relaciones Heterosexuales
+521;Palencia;34;;H;2004;70;Relaciones Heterosexuales
+522;León;52;;H;2004;20;Personas que se inyectan drogas
+523;Avila;47;;H;2004;20;Personas que se inyectan drogas
+524;Palencia;37;;H;2003;20;Personas que se inyectan drogas
+525;Palencia;35;;H;2003;20;Personas que se inyectan drogas
+526;Palencia;23;;M;2003;20;Personas que se inyectan drogas
+527;Palencia;33;;M;2003;20;Personas que se inyectan drogas
+528;Zamora;30;;H;2003;80;Grupo de riesgo desconocido
+529;Valladolid;61;;H;2004;20;Personas que se inyectan drogas
+530;Valladolid;43;;H;2003;10;Varones homosexuales / bisexuales
+531;Zamora;36;;H;2002;20;Personas que se inyectan drogas
+532;Zamora;37;;H;1995;20;Personas que se inyectan drogas
+533;Palencia;35;;H;2003;20;Personas que se inyectan drogas
+534;Salamanca;35;;H;2002;30;Personas que se inyectan drogas / Varones homo/bisexuales
+535;Salamanca;45;;H;2004;70;Relaciones Heterosexuales
+536;Soria;42;;H;2004;70;Relaciones Heterosexuales
+537;Palencia;47;;H;2004;20;Personas que se inyectan drogas
+538;Zamora;43;;H;2002;70;Relaciones Heterosexuales
+539;Avila;40;;H;2004;80;Grupo de riesgo desconocido
+540;Salamanca;32;;M;2002;20;Personas que se inyectan drogas
+541;Salamanca;37;;H;2003;20;Personas que se inyectan drogas
+542;Salamanca;44;;H;2003;20;Personas que se inyectan drogas
+543;Salamanca;48;;H;2002;70;Relaciones Heterosexuales
+544;Salamanca;40;;H;2004;20;Personas que se inyectan drogas
+545;Salamanca;25;;H;1995;20;Personas que se inyectan drogas
+546;Salamanca;35;;H;1998;20;Personas que se inyectan drogas
+547;Salamanca;45;;H;2003;20;Personas que se inyectan drogas
+548;Zamora;43;;M;2003;20;Personas que se inyectan drogas
+549;Zamora;39;;H;2002;70;Relaciones Heterosexuales
+550;Zamora;34;;M;2003;20;Personas que se inyectan drogas
+551;Valladolid;31;;H;2004;70;Relaciones Heterosexuales
+552;Valladolid;37;;H;2004;20;Personas que se inyectan drogas
+553;Soria;42;;H;2003;20;Personas que se inyectan drogas
+554;Soria;37;;H;2003;20;Personas que se inyectan drogas
+555;Soria;36;;H;2003;20;Personas que se inyectan drogas
+556;Soria;32;;H;1996;20;Personas que se inyectan drogas
+557;Salamanca;61;;H;2003;70;Relaciones Heterosexuales
+558;Salamanca;35;;H;2003;20;Personas que se inyectan drogas
+559;Segovia;36;;H;2004;20;Personas que se inyectan drogas
+560;Segovia;27;;M;2004;70;Relaciones Heterosexuales
+561;Segovia;53;;H;2004;70;Relaciones Heterosexuales
+562;Valladolid;71;;H;2004;70;Relaciones Heterosexuales
+563;Burgos;31;;M;2002;20;Personas que se inyectan drogas
+564;Burgos;39;;H;2003;20;Personas que se inyectan drogas
+565;Burgos;41;;M;2003;80;Grupo de riesgo desconocido
+566;Avila;36;;H;2004;20;Personas que se inyectan drogas
+567;Burgos;71;;H;2002;70;Relaciones Heterosexuales
+568;Burgos;82;;M;2003;40;Receptores de hemoderivados
+569;Salamanca;55;;H;2004;70;Relaciones Heterosexuales
+570;Avila;36;;H;2004;10;Varones homosexuales / bisexuales
+571;Avila;37;;H;2004;20;Personas que se inyectan drogas
+572;León;31;;H;1996;20;Personas que se inyectan drogas
+573;León;38;;M;2003;70;Relaciones Heterosexuales
+574;León;40;;H;2004;80;Grupo de riesgo desconocido
+575;León;39;;H;2004;20;Personas que se inyectan drogas
+576;Palencia;42;;H;2004;20;Personas que se inyectan drogas
+577;Palencia;39;;H;2004;20;Personas que se inyectan drogas
+578;Salamanca;28;;H;2004;20;Personas que se inyectan drogas
+579;León;46;;M;2004;70;Relaciones Heterosexuales
+580;Palencia;46;;M;1998;80;Grupo de riesgo desconocido
+581;Palencia;25;;H;1997;20;Personas que se inyectan drogas
+582;Palencia;28;;M;1994;20;Personas que se inyectan drogas
+583;Palencia;34;;H;2003;20;Personas que se inyectan drogas
+584;Salamanca;39;;M;2004;20;Personas que se inyectan drogas
+585;Valladolid;73;;H;2005;70;Relaciones Heterosexuales
+586;Valladolid;28;;H;2005;10;Varones homosexuales / bisexuales
+587;Valladolid;35;;H;2004;20;Personas que se inyectan drogas
+588;Valladolid;33;;H;2004;70;Relaciones Heterosexuales
+589;Valladolid;43;;H;2004;30;Personas que se inyectan drogas / Varones homo/bisexuales
+590;Valladolid;69;;H;2004;10;Varones homosexuales / bisexuales
+591;Valladolid;39;;M;2004;20;Personas que se inyectan drogas
+592;Valladolid;32;;H;2004;20;Personas que se inyectan drogas
+593;Burgos;27;;H;2004;80;Grupo de riesgo desconocido
+594;Burgos;29;;H;2004;70;Relaciones Heterosexuales
+595;Burgos;32;;H;2004;10;Varones homosexuales / bisexuales
+596;Burgos;39;;H;2004;70;Relaciones Heterosexuales
+597;Burgos;41;;H;2004;70;Relaciones Heterosexuales
+598;Burgos;45;;H;2004;70;Relaciones Heterosexuales
+599;Valladolid;33;;H;2001;20;Personas que se inyectan drogas
+600;Burgos;31;;H;2003;20;Personas que se inyectan drogas
+601;León;48;;H;2004;20;Personas que se inyectan drogas
+602;Salamanca;37;;H;2005;20;Personas que se inyectan drogas
+603;Palencia;29;;H;2004;20;Personas que se inyectan drogas
+604;Valladolid;36;;H;2005;20;Personas que se inyectan drogas
+605;León;55;;H;2005;70;Relaciones Heterosexuales
+606;Valladolid;28;;H;2004;20;Personas que se inyectan drogas
+607;Palencia;82;;H;2005;70;Relaciones Heterosexuales
+608;Palencia;32;;H;2004;20;Personas que se inyectan drogas
+609;Segovia;38;;H;2004;20;Personas que se inyectan drogas
+610;Segovia;40;;H;2004;20;Personas que se inyectan drogas
+611;Salamanca;40;;H;2004;20;Personas que se inyectan drogas
+612;Salamanca;25;;H;1993;20;Personas que se inyectan drogas
+613;Salamanca;46;;M;2004;70;Relaciones Heterosexuales
+614;Salamanca;44;;H;2004;20;Personas que se inyectan drogas
+615;León;42;;H;2005;70;Relaciones Heterosexuales
+616;León;34;;H;2004;20;Personas que se inyectan drogas
+617;León;41;;H;2004;70;Relaciones Heterosexuales
+618;León;65;;H;2004;70;Relaciones Heterosexuales
+619;Palencia;47;;H;2005;20;Personas que se inyectan drogas
+620;Palencia;44;;H;2005;20;Personas que se inyectan drogas
+621;Valladolid;40;;H;2001;70;Relaciones Heterosexuales
+622;Valladolid;17;;M;2004;60;Hijo de madre a riesgo
+623;Valladolid;31;;H;2004;10;Varones homosexuales / bisexuales
+624;Valladolid;32;;H;2003;70;Relaciones Heterosexuales
+625;Salamanca;39;;H;2004;20;Personas que se inyectan drogas
+626;Salamanca;41;;H;2000;20;Personas que se inyectan drogas
+627;Salamanca;35;;M;2004;80;Grupo de riesgo desconocido
+628;Zamora;39;;H;2005;70;Relaciones Heterosexuales
+629;Zamora;56;;H;2004;70;Relaciones Heterosexuales
+630;Zamora;39;;H;2005;20;Personas que se inyectan drogas
+631;Avila;45;;H;2005;70;Relaciones Heterosexuales
+632;Valladolid;37;;H;2005;20;Personas que se inyectan drogas
+633;Valladolid;29;;H;2003;20;Personas que se inyectan drogas
+634;Zamora;32;;H;2003;20;Personas que se inyectan drogas
+635;Zamora;30;;H;1990;20;Personas que se inyectan drogas
+636;Zamora;34;;M;2003;20;Personas que se inyectan drogas
+637;Zamora;28;;M;1996;20;Personas que se inyectan drogas
+638;Salamanca;33;;H;2000;80;Grupo de riesgo desconocido
+639;Zamora;38;;M;2004;70;Relaciones Heterosexuales
+640;Salamanca;58;;H;2004;10;Varones homosexuales / bisexuales
+641;Valladolid;37;;M;2002;20;Personas que se inyectan drogas
+642;Valladolid;54;;H;1994;10;Varones homosexuales / bisexuales
+643;Valladolid;29;;H;2003;70;Relaciones Heterosexuales
+644;Valladolid;39;;H;2003;70;Relaciones Heterosexuales
+645;Valladolid;56;;H;2003;70;Relaciones Heterosexuales
+646;Valladolid;34;;M;2002;70;Relaciones Heterosexuales
+647;Valladolid;40;;H;1998;20;Personas que se inyectan drogas
+648;Palencia;29;;H;2001;80;Grupo de riesgo desconocido
+649;Valladolid;30;;H;2001;20;Personas que se inyectan drogas
+650;Valladolid;40;;H;2005;10;Varones homosexuales / bisexuales
+651;León;40;;M;2005;70;Relaciones Heterosexuales
+652;Valladolid;36;;H;2005;20;Personas que se inyectan drogas
+653;Palencia;45;;M;2005;20;Personas que se inyectan drogas
+654;Salamanca;50;;M;2005;70;Relaciones Heterosexuales
+655;León;36;;M;2005;20;Personas que se inyectan drogas
+656;Avila;47;;H;2005;20;Personas que se inyectan drogas
+657;Avila;27;;H;1997;20;Personas que se inyectan drogas
+658;Avila;42;;H;2004;80;Grupo de riesgo desconocido
+659;Avila;44;;H;2002;20;Personas que se inyectan drogas
+660;Avila;34;;M;2002;20;Personas que se inyectan drogas
+661;Avila;60;;H;2003;20;Personas que se inyectan drogas
+662;Burgos;38;;H;2000;20;Personas que se inyectan drogas
+663;Salamanca;35;;M;2005;20;Personas que se inyectan drogas
+664;Salamanca;48;;M;2001;20;Personas que se inyectan drogas
+665;Salamanca;14;;H;2005;60;Hijo de madre a riesgo
+666;Salamanca;34;;H;2005;20;Personas que se inyectan drogas
+667;Salamanca;34;;M;2005;70;Relaciones Heterosexuales
+668;Valladolid;38;;H;2005;20;Personas que se inyectan drogas
+669;Valladolid;42;;H;2005;70;Relaciones Heterosexuales
+670;Valladolid;37;;H;2005;70;Relaciones Heterosexuales
+671;Valladolid;39;;H;2005;20;Personas que se inyectan drogas
+672;Valladolid;37;;M;2005;20;Personas que se inyectan drogas
+673;Valladolid;38;;H;2005;20;Personas que se inyectan drogas
+674;Valladolid;36;;H;2005;70;Relaciones Heterosexuales
+675;Valladolid;34;;H;2005;10;Varones homosexuales / bisexuales
+676;Valladolid;48;;H;2005;20;Personas que se inyectan drogas
+677;Valladolid;44;;H;2005;10;Varones homosexuales / bisexuales
+678;Palencia;34;;H;2003;80;Grupo de riesgo desconocido
+679;Palencia;37;;H;2005;20;Personas que se inyectan drogas
+680;Segovia;33;;H;2004;80;Grupo de riesgo desconocido
+681;Segovia;44;;M;2005;70;Relaciones Heterosexuales
+682;Burgos;44;;M;2005;70;Relaciones Heterosexuales
+683;Burgos;43;;H;2005;20;Personas que se inyectan drogas
+684;Burgos;52;;M;2005;20;Personas que se inyectan drogas
+685;Burgos;43;;H;2005;20;Personas que se inyectan drogas
+686;Burgos;25;;M;2005;20;Personas que se inyectan drogas
+687;Burgos;44;;M;2005;80;Grupo de riesgo desconocido
+688;Burgos;41;;H;2005;20;Personas que se inyectan drogas
+689;León;64;;H;2005;80;Grupo de riesgo desconocido
+690;León;27;;H;2005;80;Grupo de riesgo desconocido
+691;León;41;;H;2005;70;Relaciones Heterosexuales
+692;Zamora;40;;H;2005;30;Personas que se inyectan drogas / Varones homo/bisexuales
+693;León;44;;H;2005;70;Relaciones Heterosexuales
+694;León;46;;H;2005;70;Relaciones Heterosexuales
+695;León;48;;H;2005;20;Personas que se inyectan drogas
+696;Palencia;31;;H;2004;20;Personas que se inyectan drogas
+697;Zamora;27;;H;2006;70;Relaciones Heterosexuales
+698;Salamanca;40;;H;2006;20;Personas que se inyectan drogas
+699;Palencia;39;;H;2006;20;Personas que se inyectan drogas
+700;León;33;;H;2006;20;Personas que se inyectan drogas
+701;León;27;;H;2006;70;Relaciones Heterosexuales
+702;León;51;;H;2006;20;Personas que se inyectan drogas
+703;Zamora;42;;M;2005;20;Personas que se inyectan drogas
+704;Zamora;64;;M;2006;70;Relaciones Heterosexuales
+705;Zamora;52;;M;2005;20;Personas que se inyectan drogas
+706;Avila;29;;H;2006;10;Varones homosexuales / bisexuales
+707;Avila;39;;H;1995;20;Personas que se inyectan drogas
+708;Avila;43;;H;2005;80;Grupo de riesgo desconocido
+709;Avila;42;;H;2005;20;Personas que se inyectan drogas
+710;Avila;46;;M;2005;80;Grupo de riesgo desconocido
+711;Avila;34;;M;2003;20;Personas que se inyectan drogas
+712;Valladolid;34;;M;2000;20;Personas que se inyectan drogas
+713;Valladolid;37;;H;2006;10;Varones homosexuales / bisexuales
+714;Valladolid;19;;M;2003;70;Relaciones Heterosexuales
+715;Valladolid;44;;H;2006;20;Personas que se inyectan drogas
+716;Valladolid;60;;H;2006;70;Relaciones Heterosexuales
+717;Valladolid;38;;H;2000;20;Personas que se inyectan drogas
+718;Zamora;42;;M;2006;70;Relaciones Heterosexuales
+719;Burgos;37;;H;2006;20;Personas que se inyectan drogas
+720;Burgos;31;;H;2006;70;Relaciones Heterosexuales
+721;Burgos;36;;M;2006;70;Relaciones Heterosexuales
+722;Palencia;33;;H;2006;70;Relaciones Heterosexuales
+723;Burgos;51;;H;2006;70;Relaciones Heterosexuales
+724;Burgos;61;;H;2006;70;Relaciones Heterosexuales
+725;Palencia;32;;M;2006;20;Personas que se inyectan drogas
+726;Palencia;39;;M;2006;20;Personas que se inyectan drogas
+727;Segovia;38;;H;2006;20;Personas que se inyectan drogas
+728;León;47;;H;2006;70;Relaciones Heterosexuales
+729;León;44;;H;2006;70;Relaciones Heterosexuales
+730;Palencia;33;;H;1997;80;Grupo de riesgo desconocido
+731;León;52;;H;2006;80;Grupo de riesgo desconocido
+732;León;41;;H;2006;20;Personas que se inyectan drogas
+733;León;32;;H;2006;70;Relaciones Heterosexuales
+734;León;51;;H;2006;70;Relaciones Heterosexuales
+735;León;38;;H;2006;20;Personas que se inyectan drogas
+736;Valladolid;33;;H;2005;20;Personas que se inyectan drogas
+737;Valladolid;40;;H;2006;10;Varones homosexuales / bisexuales
+738;Valladolid;41;;M;2006;70;Relaciones Heterosexuales
+739;Valladolid;39;;H;2003;20;Personas que se inyectan drogas
+740;Valladolid;42;;H;2006;20;Personas que se inyectan drogas
+741;Valladolid;65;;M;2006;70;Relaciones Heterosexuales
+742;Valladolid;43;;H;2006;20;Personas que se inyectan drogas
+743;Valladolid;49;;H;2005;70;Relaciones Heterosexuales
+744;Valladolid;43;;H;2005;20;Personas que se inyectan drogas
+745;Valladolid;33;;H;1998;20;Personas que se inyectan drogas
+746;Valladolid;45;;H;2005;70;Relaciones Heterosexuales
+747;Valladolid;51;;H;2005;70;Relaciones Heterosexuales
+748;Valladolid;50;;M;2005;20;Personas que se inyectan drogas
+749;Valladolid;38;;H;2006;20;Personas que se inyectan drogas
+750;Valladolid;37;;H;2006;10;Varones homosexuales / bisexuales
+751;Valladolid;42;;H;2006;20;Personas que se inyectan drogas
+752;Valladolid;22;;M;2006;70;Relaciones Heterosexuales
+753;Valladolid;37;;H;2006;20;Personas que se inyectan drogas
+754;Valladolid;35;;H;2006;20;Personas que se inyectan drogas
+755;Salamanca;59;;H;2006;70;Relaciones Heterosexuales
+756;Salamanca;34;;H;2006;20;Personas que se inyectan drogas
+757;Salamanca;35;;H;2006;20;Personas que se inyectan drogas
+758;Salamanca;44;;M;2006;20;Personas que se inyectan drogas
+759;Salamanca;40;;M;2006;70;Relaciones Heterosexuales
+760;Zamora;42;;M;2004;20;Personas que se inyectan drogas
+761;Salamanca;38;;H;2007;20;Personas que se inyectan drogas
+762;León;59;;H;2006;70;Relaciones Heterosexuales
+763;Soria;39;;H;2006;20;Personas que se inyectan drogas
+764;Soria;45;;M;2006;80;Grupo de riesgo desconocido
+765;Avila;46;;H;2006;20;Personas que se inyectan drogas
+766;Avila;32;;H;2006;70;Relaciones Heterosexuales
+767;Avila;30;;M;1996;70;Relaciones Heterosexuales
+768;Valladolid;30;;H;2007;20;Personas que se inyectan drogas
+769;Salamanca;37;;H;2006;20;Personas que se inyectan drogas
+770;Salamanca;26;;H;1997;80;Grupo de riesgo desconocido
+771;Salamanca;53;;H;2006;20;Personas que se inyectan drogas
+772;Salamanca;53;;H;2006;80;Grupo de riesgo desconocido
+773;Salamanca;47;;H;2005;20;Personas que se inyectan drogas
+774;Salamanca;47;;H;2007;20;Personas que se inyectan drogas
+775;Salamanca;48;;M;2007;20;Personas que se inyectan drogas
+776;Valladolid;32;;H;1991;20;Personas que se inyectan drogas
+777;Valladolid;40;;H;2005;20;Personas que se inyectan drogas
+778;Palencia;23;;H;1989;20;Personas que se inyectan drogas
+779;Palencia;29;;H;2005;80;Grupo de riesgo desconocido
+780;León;38;;H;2006;20;Personas que se inyectan drogas
+781;León;36;;M;2000;20;Personas que se inyectan drogas
+782;Valladolid;37;;M;2004;70;Relaciones Heterosexuales
+783;León;40;;H;2006;20;Personas que se inyectan drogas
+784;Palencia;30;;H;2007;20;Personas que se inyectan drogas
+785;Palencia;40;;H;2007;20;Personas que se inyectan drogas
+786;León;44;;H;2005;80;Grupo de riesgo desconocido
+787;León;23;;H;1998;20;Personas que se inyectan drogas
+788;Salamanca;28;;M;2007;20;Personas que se inyectan drogas
+789;Palencia;44;;M;2007;20;Personas que se inyectan drogas
+790;Palencia;37;;H;2006;20;Personas que se inyectan drogas
+791;Avila;38;;H;2007;70;Relaciones Heterosexuales
+792;Avila;43;;H;2007;70;Relaciones Heterosexuales
+793;Avila;55;;H;2007;70;Relaciones Heterosexuales
+794;Valladolid;36;;H;2006;20;Personas que se inyectan drogas
+795;Valladolid;70;;H;2006;70;Relaciones Heterosexuales
+796;Valladolid;40;;H;2002;10;Varones homosexuales / bisexuales
+797;Valladolid;42;;H;2006;20;Personas que se inyectan drogas
+798;Valladolid;34;;H;2006;20;Personas que se inyectan drogas
+799;Valladolid;47;;H;2007;70;Relaciones Heterosexuales
+800;Palencia;37;;H;2007;70;Relaciones Heterosexuales
+801;Valladolid;41;;M;2006;20;Personas que se inyectan drogas
+802;Valladolid;39;;H;2006;20;Personas que se inyectan drogas
+803;Valladolid;37;;H;1995;70;Relaciones Heterosexuales
+804;Valladolid;24;;M;1997;20;Personas que se inyectan drogas
+805;Valladolid;19;;M;1988;70;Relaciones Heterosexuales
+806;Valladolid;45;;H;2006;20;Personas que se inyectan drogas
+807;Valladolid;44;;H;2007;20;Personas que se inyectan drogas
+808;Valladolid;27;;H;2006;10;Varones homosexuales / bisexuales
+809;Salamanca;34;;H;2007;10;Varones homosexuales / bisexuales
+810;Salamanca;33;;M;2007;70;Relaciones Heterosexuales
+811;Valladolid;60;;H;2006;80;Grupo de riesgo desconocido
+812;Valladolid;49;;M;2007;70;Relaciones Heterosexuales
+813;Valladolid;42;;H;2002;80;Grupo de riesgo desconocido
+814;Palencia;37;;H;2007;20;Personas que se inyectan drogas
+815;Salamanca;45;;H;2005;20;Personas que se inyectan drogas
+816;Salamanca;74;;M;2007;80;Grupo de riesgo desconocido
+817;Salamanca;36;;H;2007;20;Personas que se inyectan drogas
+818;Salamanca;39;;H;2001;20;Personas que se inyectan drogas
+819;Zamora;44;;H;2007;80;Grupo de riesgo desconocido
+820;León;39;;M;2006;70;Relaciones Heterosexuales
+821;Burgos;39;;H;2007;20;Personas que se inyectan drogas
+822;Palencia;40;;H;2006;70;Relaciones Heterosexuales
+823;Zamora;42;;H;2007;20;Personas que se inyectan drogas
+824;Soria;39;;M;2007;70;Relaciones Heterosexuales
+825;Soria;39;;M;2006;20;Personas que se inyectan drogas
+826;Valladolid;34;;H;2007;20;Personas que se inyectan drogas
+827;Valladolid;40;;H;2007;10;Varones homosexuales / bisexuales
+828;Valladolid;50;;H;2007;70;Relaciones Heterosexuales
+829;Valladolid;54;;H;2007;70;Relaciones Heterosexuales
+830;Zamora;21;;H;2007;20;Personas que se inyectan drogas
+831;Salamanca;34;;H;2007;20;Personas que se inyectan drogas
+832;Valladolid;43;;H;2007;20;Personas que se inyectan drogas
+833;León;40;;H;2006;70;Relaciones Heterosexuales
+834;León;38;;H;2006;70;Relaciones Heterosexuales
+835;Valladolid;38;;H;2007;20;Personas que se inyectan drogas
+836;Valladolid;44;;H;2007;70;Relaciones Heterosexuales
+837;Valladolid;45;;H;2007;20;Personas que se inyectan drogas
+838;Valladolid;37;;H;2007;20;Personas que se inyectan drogas
+839;Valladolid;32;;H;2007;20;Personas que se inyectan drogas
+840;Palencia;32;;H;2006;10;Varones homosexuales / bisexuales
+841;Palencia;41;;H;2008;10;Varones homosexuales / bisexuales
+842;Valladolid;32;;H;2007;70;Relaciones Heterosexuales
+843;Avila;44;;H;2007;20;Personas que se inyectan drogas
+844;Palencia;50;;H;2008;70;Relaciones Heterosexuales
+845;Palencia;28;;H;2008;20;Personas que se inyectan drogas
+846;Valladolid;47;;M;2008;70;Relaciones Heterosexuales
+847;Zamora;48;;H;2006;70;Relaciones Heterosexuales
+848;Zamora;41;;H;2007;20;Personas que se inyectan drogas
+849;Zamora;35;;H;2006;80;Grupo de riesgo desconocido
+850;Zamora;33;;H;2002;20;Personas que se inyectan drogas
+851;Burgos;35;;H;2007;20;Personas que se inyectan drogas
+852;Avila;55;;H;2007;80;Grupo de riesgo desconocido
+853;León;30;;H;2007;10;Varones homosexuales / bisexuales
+854;Palencia;42;;H;2008;20;Personas que se inyectan drogas
+855;León;30;;H;2008;20;Personas que se inyectan drogas
+856;Palencia;33;;H;2008;70;Relaciones Heterosexuales
+857;Palencia;29;;M;2008;70;Relaciones Heterosexuales
+858;Avila;43;;H;2008;20;Personas que se inyectan drogas
+859;Zamora;44;;H;2007;20;Personas que se inyectan drogas
+860;Zamora;50;;H;2008;70;Relaciones Heterosexuales
+861;Zamora;32;;H;2007;10;Varones homosexuales / bisexuales
+862;Salamanca;35;;M;2007;20;Personas que se inyectan drogas
+863;Salamanca;41;;M;2000;80;Grupo de riesgo desconocido
+864;Burgos;65;;H;2008;70;Relaciones Heterosexuales
+865;Zamora;52;;M;2005;70;Relaciones Heterosexuales
+866;Valladolid;47;;H;2008;10;Varones homosexuales / bisexuales
+867;Salamanca;36;;M;2008;20;Personas que se inyectan drogas
+868;Soria;51;;M;2007;70;Relaciones Heterosexuales
+869;Soria;37;;H;2007;20;Personas que se inyectan drogas
+870;Burgos;33;;M;2008;70;Relaciones Heterosexuales
+871;Burgos;50;;M;2007;80;Grupo de riesgo desconocido
+872;Burgos;39;;M;2007;20;Personas que se inyectan drogas
+873;Burgos;34;;M;2002;20;Personas que se inyectan drogas
+874;Burgos;35;;M;2007;20;Personas que se inyectan drogas
+875;Burgos;38;;H;2007;70;Relaciones Heterosexuales
+876;Burgos;62;;H;2007;80;Grupo de riesgo desconocido
+877;Burgos;33;;H;2007;20;Personas que se inyectan drogas
+878;Burgos;37;;H;2004;20;Personas que se inyectan drogas
+879;Burgos;46;;H;2007;20;Personas que se inyectan drogas
+880;Palencia;55;;H;2008;20;Personas que se inyectan drogas
+881;León;34;;H;2007;70;Relaciones Heterosexuales
+882;León;42;;H;2007;10;Varones homosexuales / bisexuales
+883;León;44;;H;2007;20;Personas que se inyectan drogas
+884;León;27;;M;2007;20;Personas que se inyectan drogas
+885;León;31;;H;2007;70;Relaciones Heterosexuales
+886;León;46;;H;2007;80;Grupo de riesgo desconocido
+887;León;32;;H;2007;70;Relaciones Heterosexuales
+888;León;56;;H;2007;80;Grupo de riesgo desconocido
+889;León;31;;H;2006;20;Personas que se inyectan drogas
+890;León;77;;M;2000;70;Relaciones Heterosexuales
+891;León;14;;M;2007;60;Hijo de madre a riesgo
+892;León;42;;H;2003;80;Grupo de riesgo desconocido
+893;León;43;;H;2007;20;Personas que se inyectan drogas
+894;Valladolid;43;;H;2007;10;Varones homosexuales / bisexuales
+895;Valladolid;38;;H;2007;10;Varones homosexuales / bisexuales
+896;Palencia;48;;H;2008;20;Personas que se inyectan drogas
+897;Valladolid;42;;H;2009;20;Personas que se inyectan drogas
+898;Salamanca;69;;H;2008;80;Grupo de riesgo desconocido
+899;Salamanca;27;;H;2007;10;Varones homosexuales / bisexuales
+900;Salamanca;35;;H;2008;70;Relaciones Heterosexuales
+901;Valladolid;34;;H;2006;20;Personas que se inyectan drogas
+902;Valladolid;46;;H;2007;20;Personas que se inyectan drogas
+903;Valladolid;49;;M;2008;20;Personas que se inyectan drogas
+904;Valladolid;28;;H;2007;70;Relaciones Heterosexuales
+905;Valladolid;29;;H;2007;10;Varones homosexuales / bisexuales
+906;Valladolid;35;;M;2008;20;Personas que se inyectan drogas
+907;Burgos;49;;H;2009;20;Personas que se inyectan drogas
+908;Salamanca;34;;H;2009;10;Varones homosexuales / bisexuales
+909;Zamora;55;;H;2009;70;Relaciones Heterosexuales
+910;Zamora;33;;H;2008;20;Personas que se inyectan drogas
+911;Zamora;38;;H;2009;10;Varones homosexuales / bisexuales
+912;Zamora;31;;H;2008;10;Varones homosexuales / bisexuales
+913;Zamora;38;;H;2009;70;Relaciones Heterosexuales
+914;Zamora;57;;H;2009;70;Relaciones Heterosexuales
+915;Valladolid;49;;H;2009;20;Personas que se inyectan drogas
+916;Zamora;46;;H;2009;20;Personas que se inyectan drogas
+917;Burgos;39;;H;2008;70;Relaciones Heterosexuales
+918;Burgos;66;;H;2008;10;Varones homosexuales / bisexuales
+919;Burgos;41;;H;2008;10;Varones homosexuales / bisexuales
+920;Burgos;30;;H;2007;80;Grupo de riesgo desconocido
+921;Burgos;30;;H;2007;70;Relaciones Heterosexuales
+922;Burgos;34;;M;2007;20;Personas que se inyectan drogas
+923;Burgos;39;;H;2008;70;Relaciones Heterosexuales
+924;Burgos;53;;H;2008;70;Relaciones Heterosexuales
+925;León;35;;M;2008;70;Relaciones Heterosexuales
+926;Salamanca;39;;H;2008;20;Personas que se inyectan drogas
+927;Salamanca;71;;H;2009;70;Relaciones Heterosexuales
+928;Salamanca;39;;H;2009;20;Personas que se inyectan drogas
+929;Salamanca;48;;H;2008;20;Personas que se inyectan drogas
+930;Salamanca;59;;H;2009;70;Relaciones Heterosexuales
+931;Segovia;47;;H;2009;70;Relaciones Heterosexuales
+932;Palencia;38;;H;2009;10;Varones homosexuales / bisexuales
+933;Palencia;45;;H;2009;10;Varones homosexuales / bisexuales
+934;Palencia;36;;M;1996;20;Personas que se inyectan drogas
+935;Salamanca;44;;H;2009;70;Relaciones Heterosexuales
+936;Salamanca;44;;M;2009;20;Personas que se inyectan drogas
+937;Valladolid;32;;H;2009;20;Personas que se inyectan drogas
+938;Valladolid;40;;H;2009;10;Varones homosexuales / bisexuales
+939;Valladolid;44;;M;2003;20;Personas que se inyectan drogas
+940;Salamanca;36;;M;2008;20;Personas que se inyectan drogas
+941;Salamanca;30;;M;2008;20;Personas que se inyectan drogas
+942;Salamanca;44;;H;2008;20;Personas que se inyectan drogas
+943;Salamanca;24;;H;2008;20;Personas que se inyectan drogas
+944;León;45;;M;2003;20;Personas que se inyectan drogas
+945;Salamanca;40;;H;2009;70;Relaciones Heterosexuales
+946;Avila;49;;H;2009;70;Relaciones Heterosexuales
+947;Palencia;36;;H;2009;20;Personas que se inyectan drogas
+948;Palencia;26;;H;2009;80;Grupo de riesgo desconocido
+949;Salamanca;39;;H;2009;80;Grupo de riesgo desconocido
+950;Salamanca;51;;H;2009;20;Personas que se inyectan drogas
+951;León;38;;M;2009;20;Personas que se inyectan drogas
+952;León;43;;H;2009;70;Relaciones Heterosexuales
+953;Valladolid;43;;H;2010;20;Personas que se inyectan drogas
+954;Burgos;44;;H;2009;20;Personas que se inyectan drogas
+955;Burgos;40;;M;2009;70;Relaciones Heterosexuales
+956;Burgos;28;;M;2009;70;Relaciones Heterosexuales
+957;Burgos;38;;H;2009;20;Personas que se inyectan drogas
+958;Burgos;34;;H;2009;80;Grupo de riesgo desconocido
+959;Palencia;46;;M;2009;20;Personas que se inyectan drogas
+960;Palencia;38;;M;2009;70;Relaciones Heterosexuales
+961;Palencia;47;;H;2009;20;Personas que se inyectan drogas
+962;Avila;38;;M;2009;70;Relaciones Heterosexuales
+963;Valladolid;44;;M;2009;70;Relaciones Heterosexuales
+964;Salamanca;33;;H;2009;10;Varones homosexuales / bisexuales
+965;Zamora;64;;M;2009;70;Relaciones Heterosexuales
+966;Zamora;20;;M;2009;70;Relaciones Heterosexuales
+967;Valladolid;24;;H;2009;10;Varones homosexuales / bisexuales
+968;Valladolid;34;;H;2009;10;Varones homosexuales / bisexuales
+969;Valladolid;74;;H;2009;80;Grupo de riesgo desconocido
+970;Valladolid;47;;H;2009;20;Personas que se inyectan drogas
+971;Valladolid;37;;H;2009;20;Personas que se inyectan drogas
+972;Valladolid;34;;M;2009;20;Personas que se inyectan drogas
+973;Valladolid;40;;H;2009;10;Varones homosexuales / bisexuales
+974;Valladolid;57;;H;2009;70;Relaciones Heterosexuales
+975;Valladolid;41;;H;2009;10;Varones homosexuales / bisexuales
+976;Valladolid;45;;M;2010;20;Personas que se inyectan drogas
+977;Burgos;39;;H;2010;80;Grupo de riesgo desconocido
+978;Salamanca;32;;H;2010;70;Relaciones Heterosexuales
+979;Valladolid;30;;H;2010;70;Relaciones Heterosexuales
+980;Palencia;38;;H;2009;10;Varones homosexuales / bisexuales
+981;Valladolid;48;;H;2009;70;Relaciones Heterosexuales
+982;León;56;;M;2009;20;Personas que se inyectan drogas
+983;León;56;;H;2009;70;Relaciones Heterosexuales
+984;Burgos;63;;H;2009;10;Varones homosexuales / bisexuales
+985;Burgos;44;;M;2009;70;Relaciones Heterosexuales
+986;Salamanca;42;;M;2010;70;Relaciones Heterosexuales
+987;Salamanca;33;;H;2010;10;Varones homosexuales / bisexuales
+988;Burgos;32;;H;2010;20;Personas que se inyectan drogas
+989;Salamanca;40;;H;2009;20;Personas que se inyectan drogas
+990;Palencia;53;;H;2010;70;Relaciones Heterosexuales
+991;Valladolid;35;;H;2009;10;Varones homosexuales / bisexuales
+992;Valladolid;63;;H;2009;70;Relaciones Heterosexuales
+993;Avila;29;;H;2010;70;Relaciones Heterosexuales
+994;Burgos;44;;H;2010;20;Personas que se inyectan drogas
+995;Burgos;42;;H;2010;20;Personas que se inyectan drogas
+996;Burgos;44;;H;2010;20;Personas que se inyectan drogas
+997;Burgos;39;;H;2010;70;Relaciones Heterosexuales
+998;Valladolid;42;;H;2010;80;Grupo de riesgo desconocido
+999;Valladolid;43;;H;2010;20;Personas que se inyectan drogas
+1000;Palencia;48;;H;2011;20;Personas que se inyectan drogas
+1001;Palencia;35;;H;2009;70;Relaciones Heterosexuales
+1002;Palencia;36;;H;2011;20;Personas que se inyectan drogas
+1003;Valladolid;45;;M;2010;70;Relaciones Heterosexuales
+1004;Valladolid;56;;M;2010;70;Relaciones Heterosexuales
+1005;Valladolid;46;;M;2010;70;Relaciones Heterosexuales
+1006;León;46;;H;2010;10;Varones homosexuales / bisexuales
+1007;León;25;;M;2010;70;Relaciones Heterosexuales
+1008;Segovia;46;;H;2010;70;Relaciones Heterosexuales
+1009;Segovia;44;;H;2010;70;Relaciones Heterosexuales
+1010;Valladolid;54;;H;2010;70;Relaciones Heterosexuales
+1011;Valladolid;71;;H;2010;70;Relaciones Heterosexuales
+1012;Valladolid;31;;H;2011;10;Varones homosexuales / bisexuales
+1013;Valladolid;33;;H;2009;20;Personas que se inyectan drogas
+1014;Soria;21;;H;2011;70;Relaciones Heterosexuales
+1015;Burgos;33;;H;2011;70;Relaciones Heterosexuales
+1016;Salamanca;36;;H;2011;20;Personas que se inyectan drogas
+1017;Salamanca;38;;H;2011;70;Relaciones Heterosexuales
+1018;Palencia;39;;M;2011;20;Personas que se inyectan drogas
+1019;León;47;;H;2011;10;Varones homosexuales / bisexuales
+1020;Salamanca;32;;H;2011;10;Varones homosexuales / bisexuales
+1021;Zamora;48;;H;2008;20;Personas que se inyectan drogas
+1022;León;35;;H;2010;70;Relaciones Heterosexuales
+1023;León;42;;H;2011;70;Relaciones Heterosexuales
+1024;Zamora;43;;H;2009;20;Personas que se inyectan drogas
+1025;Valladolid;52;;M;2011;70;Relaciones Heterosexuales
+1026;Valladolid;31;;H;2011;70;Relaciones Heterosexuales
+1027;Valladolid;62;;H;2011;80;Grupo de riesgo desconocido
+1028;Valladolid;55;;H;2011;10;Varones homosexuales / bisexuales
+1029;Salamanca;43;;H;2009;20;Personas que se inyectan drogas
+1030;Salamanca;41;;H;2010;20;Personas que se inyectan drogas
+1031;Salamanca;49;;H;2009;80;Grupo de riesgo desconocido
+1032;Salamanca;34;;M;2010;70;Relaciones Heterosexuales
+1033;Salamanca;42;;H;2010;20;Personas que se inyectan drogas
+1034;Salamanca;55;;H;2009;70;Relaciones Heterosexuales
+1035;Salamanca;33;;H;2010;10;Varones homosexuales / bisexuales
+1036;Palencia;50;;H;2011;10;Varones homosexuales / bisexuales
+1037;Palencia;26;;H;2011;10;Varones homosexuales / bisexuales
+1038;Segovia;39;;M;2010;20;Personas que se inyectan drogas
+1039;Valladolid;38;;H;2010;20;Personas que se inyectan drogas
+1040;Valladolid;29;;M;2010;80;Grupo de riesgo desconocido
+1041;Valladolid;35;;H;2010;70;Relaciones Heterosexuales
+1042;Palencia;38;;H;2010;10;Varones homosexuales / bisexuales
+1043;Palencia;37;;H;2010;20;Personas que se inyectan drogas
+1044;Palencia;32;;H;2010;20;Personas que se inyectan drogas
+1045;Palencia;47;;M;2010;70;Relaciones Heterosexuales
+1046;Palencia;41;;H;2010;80;Grupo de riesgo desconocido
+1047;León;40;;M;2008;70;Relaciones Heterosexuales
+1048;León;39;;H;2008;20;Personas que se inyectan drogas
+1049;León;39;;H;2011;10;Varones homosexuales / bisexuales
+1050;León;40;;H;2011;20;Personas que se inyectan drogas
+1051;Salamanca;48;;H;2011;20;Personas que se inyectan drogas
+1052;Soria;52;;M;2012;70;Relaciones Heterosexuales
+1053;Salamanca;44;;H;2011;80;Grupo de riesgo desconocido
+1054;León;52;;H;2011;20;Personas que se inyectan drogas
+1055;Burgos;51;;H;2010;80;Grupo de riesgo desconocido
+1056;Palencia;53;;H;2010;70;Relaciones Heterosexuales
+1057;Burgos;39;;H;2007;80;Grupo de riesgo desconocido
+1058;Burgos;41;;H;2010;70;Relaciones Heterosexuales
+1059;Salamanca;55;;H;2012;10;Varones homosexuales / bisexuales
+1060;Valladolid;39;;H;2012;10;Varones homosexuales / bisexuales
+1061;León;49;;H;2011;10;Varones homosexuales / bisexuales
+1062;León;34;;H;2010;20;Personas que se inyectan drogas
+1063;León;34;;H;2011;20;Personas que se inyectan drogas
+1064;Valladolid;31;;H;2012;10;Varones homosexuales / bisexuales
+1065;Valladolid;47;;M;2012;70;Relaciones Heterosexuales
+1066;Valladolid;49;;H;2012;20;Personas que se inyectan drogas
+1067;Valladolid;49;;M;2010;70;Relaciones Heterosexuales
+1068;Valladolid;35;;H;2010;70;Relaciones Heterosexuales
+1069;Valladolid;29;;H;2011;10;Varones homosexuales / bisexuales
+1070;León;47;;H;2012;10;Varones homosexuales / bisexuales
+1071;Segovia;38;;M;2011;70;Relaciones Heterosexuales
+1072;Zamora;40;;H;2012;20;Personas que se inyectan drogas
+1073;Salamanca;44;;H;2012;20;Personas que se inyectan drogas
+1074;Palencia;40;;H;2011;20;Personas que se inyectan drogas
+1075;Palencia;29;;H;2011;20;Personas que se inyectan drogas
+1076;Burgos;38;;H;2012;20;Personas que se inyectan drogas
+1077;Salamanca;29;;H;2012;20;Personas que se inyectan drogas
+1078;Palencia;39;;M;2012;20;Personas que se inyectan drogas
+1079;Palencia;34;;H;2012;80;Grupo de riesgo desconocido
+1080;Palencia;50;;H;2012;80;Grupo de riesgo desconocido
+1081;Palencia;44;;H;2012;20;Personas que se inyectan drogas
+1082;Avila;68;;H;2012;70;Relaciones Heterosexuales
+1083;Avila;65;;H;2012;70;Relaciones Heterosexuales
+1084;Segovia;33;;H;2012;10;Varones homosexuales / bisexuales
+1085;Segovia;52;;H;2012;70;Relaciones Heterosexuales
+1086;León;64;;H;2012;70;Relaciones Heterosexuales
+1087;León;37;;H;2012;70;Relaciones Heterosexuales
+1088;Zamora;61;;H;2012;10;Varones homosexuales / bisexuales
+1089;Salamanca;36;;M;2012;70;Relaciones Heterosexuales
+1090;Valladolid;33;;H;2012;20;Personas que se inyectan drogas
+1091;Palencia;28;;H;2013;70;Relaciones Heterosexuales
+1092;Salamanca;42;;M;2012;70;Relaciones Heterosexuales
+1093;Salamanca;47;;H;2013;20;Personas que se inyectan drogas
+1094;Salamanca;63;;H;2013;70;Relaciones Heterosexuales
+1095;Soria;44;;H;2009;80;Grupo de riesgo desconocido
+1096;Zamora;30;;M;2011;20;Personas que se inyectan drogas
+1097;Valladolid;34;;M;2012;70;Relaciones Heterosexuales
+1098;Valladolid;53;;M;2012;70;Relaciones Heterosexuales
+1099;Soria;39;;M;2013;50;Receptores de transfusión
+1100;Valladolid;57;;H;2012;20;Personas que se inyectan drogas
+1101;Valladolid;44;;H;2012;20;Personas que se inyectan drogas
+1102;Valladolid;53;;H;2013;20;Personas que se inyectan drogas
+1103;Valladolid;27;;H;2007;70;Relaciones Heterosexuales
+1104;Palencia;43;;H;2009;20;Personas que se inyectan drogas
+1105;Palencia;24;;M;2012;70;Relaciones Heterosexuales
+1106;Palencia;39;;H;2013;20;Personas que se inyectan drogas
+1107;Valladolid;53;;H;2013;70;Relaciones Heterosexuales
+1108;Valladolid;52;;H;2013;20;Personas que se inyectan drogas
+1109;León;51;;H;2013;70;Relaciones Heterosexuales
+1110;Palencia;55;;H;2013;70;Relaciones Heterosexuales
+1111;Salamanca;52;;H;2013;20;Personas que se inyectan drogas
+1112;Salamanca;43;;M;2013;70;Relaciones Heterosexuales
+1113;Salamanca;76;;H;2013;70;Relaciones Heterosexuales
+1114;Avila;54;;H;2013;20;Personas que se inyectan drogas
+1115;Palencia;51;;H;2013;80;Grupo de riesgo desconocido
+1116;Valladolid;36;;H;2013;10;Varones homosexuales / bisexuales
+1117;Valladolid;42;;H;2013;10;Varones homosexuales / bisexuales
+1118;Soria;30;;H;2014;10;Varones homosexuales / bisexuales
+1119;León;22;;H;2013;10;Varones homosexuales / bisexuales
+1120;León;44;;M;2013;70;Relaciones Heterosexuales
+1121;Avila;42;;M;2014;70;Relaciones Heterosexuales
+1122;Valladolid;39;;H;2013;70;Relaciones Heterosexuales
+1123;Valladolid;43;;H;2009;20;Personas que se inyectan drogas
+1124;León;52;;H;2013;80;Grupo de riesgo desconocido
+1125;Burgos;45;;H;2013;70;Relaciones Heterosexuales
+1126;León;29;;H;2013;10;Varones homosexuales / bisexuales
+1127;Valladolid;39;;H;2014;20;Personas que se inyectan drogas
+1128;Valladolid;50;;H;2014;10;Varones homosexuales / bisexuales
+1129;Salamanca;45;;H;2014;70;Relaciones Heterosexuales
+1130;Salamanca;50;;H;2014;70;Relaciones Heterosexuales
+1131;Palencia;46;;M;2013;20;Personas que se inyectan drogas
+1132;Zamora;28;;H;2014;70;Relaciones Heterosexuales
+1133;Valladolid;58;;H;2014;20;Personas que se inyectan drogas
+1134;Salamanca;59;;H;2014;70;Relaciones Heterosexuales
+1135;Valladolid;47;;H;2014;10;Varones homosexuales / bisexuales
+1136;Valladolid;43;;M;2014;20;Personas que se inyectan drogas
+1137;Valladolid;35;;H;2014;10;Varones homosexuales / bisexuales
+1138;Valladolid;33;;H;2013;20;Personas que se inyectan drogas
+1139;León;58;;H;2014;10;Varones homosexuales / bisexuales
+1140;Valladolid;46;;H;2015;70;Relaciones Heterosexuales
+1141;Soria;55;;H;2015;70;Relaciones Heterosexuales
+1142;Burgos;28;;H;2011;70;Relaciones Heterosexuales
+1143;Segovia;40;;H;2012;10;Varones homosexuales / bisexuales
+1144;Burgos;33;;M;2012;70;Relaciones Heterosexuales
+1145;Valladolid;52;;H;2012;80;Grupo de riesgo desconocido
+1146;Valladolid;40;;H;2013;10;Varones homosexuales / bisexuales
+1147;León;51;;H;2014;70;Relaciones Heterosexuales
+1148;Burgos;43;;H;2014;70;Relaciones Heterosexuales
+1149;Burgos;50;;H;2014;10;Varones homosexuales / bisexuales
+1150;Valladolid;33;;M;2015;70;Relaciones Heterosexuales
+1151;Valladolid;45;;H;2014;20;Personas que se inyectan drogas
+1152;Zamora;62;;H;2014;70;Relaciones Heterosexuales
+1153;Palencia;66;;M;2015;70;Relaciones Heterosexuales
+1154;Zamora;53;;H;2015;20;Personas que se inyectan drogas
+1155;Zamora;33;;H;2014;70;Relaciones Heterosexuales
+1156;Salamanca;31;;M;2015;70;Relaciones Heterosexuales
+1157;Burgos;59;;H;2015;10;Varones homosexuales / bisexuales
+1158;Avila;48;;M;2013;70;Relaciones Heterosexuales
+1159;Salamanca;38;;H;2015;70;Relaciones Heterosexuales
+1160;Valladolid;49;;H;2014;80;Grupo de riesgo desconocido
+1161;Valladolid;30;;H;2014;70;Relaciones Heterosexuales
+1162;Valladolid;50;;H;2015;10;Varones homosexuales / bisexuales
+1163;León;36;;H;2015;10;Varones homosexuales / bisexuales
+1164;Salamanca;47;;M;2015;70;Relaciones Heterosexuales
+1165;León;56;;H;2015;70;Relaciones Heterosexuales
+1166;Valladolid;41;;H;2015;10;Varones homosexuales / bisexuales
+1167;Valladolid;30;;H;2015;10;Varones homosexuales / bisexuales
+1168;Valladolid;22;;H;2015;10;Varones homosexuales / bisexuales
+1169;Valladolid;51;;H;2015;70;Relaciones Heterosexuales
+1170;Avila;37;;H;2015;80;Grupo de riesgo desconocido
+1171;Palencia;34;;H;2014;80;Grupo de riesgo desconocido
+1172;Burgos;43;;H;2015;80;Grupo de riesgo desconocido
+1173;Zamora;33;;M;2015;20;Personas que se inyectan drogas
+1174;Salamanca;40;;H;2015;20;Personas que se inyectan drogas
+1175;Salamanca;48;;H;2015;80;Grupo de riesgo desconocido
+1176;Salamanca;51;;H;2016;20;Personas que se inyectan drogas
+1177;León;57;;H;2015;80;Grupo de riesgo desconocido
+1178;León;51;;H;2015;70;Relaciones Heterosexuales
+1179;Valladolid;43;;H;2016;10;Varones homosexuales / bisexuales
+1180;León;45;;H;2015;20;Personas que se inyectan drogas
+1181;Valladolid;52;;M;2016;20;Personas que se inyectan drogas
+1182;Valladolid;39;;H;2016;70;Relaciones Heterosexuales
+1183;Avila;53;;H;2016;70;Relaciones Heterosexuales
+1184;Avila;51;;H;2015;70;Relaciones Heterosexuales
+1185;Avila;34;;H;2015;10;Varones homosexuales / bisexuales
+1186;Salamanca;38;;H;2016;80;Grupo de riesgo desconocido
+1187;Soria;47;;H;2016;10;Varones homosexuales / bisexuales
+1188;León;40;;H;2015;10;Varones homosexuales / bisexuales
+1189;Burgos;72;;H;2016;80;Grupo de riesgo desconocido
+1190;Segovia;64;;H;2016;70;Relaciones Heterosexuales
+1191;León;40;;M;2011;20;Personas que se inyectan drogas
+1192;Burgos;43;;H;2016;80;Grupo de riesgo desconocido
+1193;Salamanca;56;;H;2017;20;Personas que se inyectan drogas
+1194;Avila;52;;H;2016;20;Personas que se inyectan drogas
+1195;Valladolid;48;;H;2017;80;Grupo de riesgo desconocido
+1196;Burgos;26;;M;2017;70;Relaciones Heterosexuales
+1197;Salamanca;46;;H;2017;70;Relaciones Heterosexuales
+1198;Segovia;43;;H;2017;10;Varones homosexuales / bisexuales
+1199;Burgos;36;;H;2017;80;Grupo de riesgo desconocido
+1200;Zamora;64;;H;2017;10;Varones homosexuales / bisexuales
+1201;Valladolid;42;;H;2017;70;Relaciones Heterosexuales
+1202;Leon;43;;M;2017;70;Relaciones Heterosexuales
+1203;Segovia;23;;H;2017;60;Hijo de madre a riesgo
+1204;Soria;27;;H;2017;10;Varones homosexuales / bisexuales
+1205;Salamanca;45;;H;2017;80;Grupo de riesgo desconocido
+1206;Leon;48;;H;2016;70;Relaciones Heterosexuales
+1207;Palencia;29;;H;2017;70;Relaciones Heterosexuales
+1208;Salamanca;30;;H;2017;10;Varones homosexuales / bisexuales
+1209;Leon;28;;M;2016;70;Relaciones Heterosexuales
+1210;Valladolid;49;;M;2017;70;Relaciones Heterosexuales
+1211;Segovia;58;;H;2017;10;Varones homosexuales / bisexuales
+1212;Zamora;70;;M;2017;70;Relaciones Heterosexuales
+1213;Burgos;41;;H;2017;70;Relaciones Heterosexuales
+1214;Burgos;46;;H;2017;80;Grupo de riesgo desconocido
+1215;Valladolid;31;;M;2018;70;Relaciones Heterosexuales
+1216;Valladolid;31;;M;2018;70;Relaciones Heterosexuales
+1217;Palencia;39;;M;2018;70;Relaciones Heterosexuales
+1218;Palencia;39;;M;2018;70;Relaciones Heterosexuales
+1219;Avila;48;;H;2018;70;Relaciones Heterosexuales
+1220;Avila;48;;H;2018;70;Relaciones Heterosexuales
+1221;Valladolid;50;;H;2017;70;Relaciones Heterosexuales
+1222;Valladolid;32;;H;2015;10;Varones homosexuales / bisexuales
+1223;Burgos;40;;M;2017;20;Personas que se inyectan drogas
+1224;Zamora;27;;H;2007;20;Personas que se inyectan drogas
+1225;Palencia;60;;M;2018;70;Relaciones Heterosexuales
+1226;Salamanca;36;;H;2018;10;Varones homosexuales / bisexuales
+1227;Burgos;24;;M;2015;70;Relaciones Heterosexuales
+1228;Burgos;64;;H;2015;70;Relaciones Heterosexuales
+1229;Burgos;38;;M;2018;70;Relaciones Heterosexuales
+1230;Leon;63;;H;2017;70;Relaciones Heterosexuales
+1231;Leon;48;;H;2014;70;Relaciones Heterosexuales
+1232;Valladolid;50;;H;2018;10;Varones homosexuales / bisexuales
+1233;Burgos;52;;H;2018;10;Varones homosexuales / bisexuales
+1234;Soria;42;;H;2018;70;Relaciones Heterosexuales
+1235;Soria;45;;H;2018;70;Relaciones Heterosexuales
+1236;Segovia;57;;M;2019;70;Relaciones Heterosexuales
+1237;Valladolid;43;;H;2019;70;Relaciones Heterosexuales
+1238;Avila;47;;H;2018;10;Varones homosexuales / bisexuales
+1239;Salamanca;50;;H;2015;80;Grupo de riesgo desconocido
+1240;Salamanca;24;;H;2018;80;Grupo de riesgo desconocido
+1241;Valladolid;25;;H;2019;10;Varones homosexuales / bisexuales
+1242;Valladolid;51;;H;2019;70;Relaciones Heterosexuales
+1243;Leon;38;;M;2019;70;Relaciones Heterosexuales
+1244;Soria;58;;M;2019;70;Relaciones Heterosexuales
+1245;Valladolid;46;;H;2019;70;Relaciones Heterosexuales
+1246;Leon;52;;H;2011;10;Varones homosexuales / bisexuales
+1247;Leon;25;;H;2019;10;Varones homosexuales / bisexuales
+1248;Valladolid;40;;M;2019;70;Relaciones Heterosexuales
+1249;Burgos;45;;H;2019;80;Grupo de riesgo desconocido
+1250;Valladolid;25;;H;2019;10;Varones homosexuales / bisexuales
+1251;Leon;40;;H;2017;70;Relaciones Heterosexuales
+1252;Valladolid;58;;M;2020;20;Personas que se inyectan drogas
+1253;Valladolid;28;;H;2020;70;Relaciones Heterosexuales
+1254;Burgos;43;;H;2020;80;Grupo de riesgo desconocido
+1255;Valladolid;31;;H;2020;80;Grupo de riesgo desconocido
+1256;Salamanca;53;;H;2020;70;Relaciones Heterosexuales
+1257;Burgos;42;;H;2020;80;Grupo de riesgo desconocido
+1258;Burgos;44;;M;2021;80;Grupo de riesgo desconocido
+1259;Leon;43;;H;2020;70;Relaciones Heterosexuales
+1260;Leon;27;;H;2020;80;Grupo de riesgo desconocido
+1261;Burgos;39;;H;2020;10;Varones homosexuales / bisexuales
+1262;Leon;54;;H;2020;10;Varones homosexuales / bisexuales
+1263;Avila;25;;H;2020;80;Grupo de riesgo desconocido
+1264;Leon;45;;H;2020;70;Relaciones Heterosexuales
+1265;Segovia;29;;H;2020;70;Relaciones Heterosexuales
+1266;Soria;35;;H;2020;70;Relaciones Heterosexuales
+1267;Palencia;31;;H;2021;70;Relaciones Heterosexuales
+1268;Segovia;42;;H;2021;70;Relaciones Heterosexuales
+1269;Leon;49;;H;2021;80;Grupo de riesgo desconocido
+1270;Salamanca;60;;H;2021;70;Relaciones Heterosexuales
+1271;Valladolid;54;;H;2019;80;Grupo de riesgo desconocido
+1272;Avila;42;;H;2021;80;Grupo de riesgo desconocido
+1273;Avila;51;;H;2021;80;Grupo de riesgo desconocido
+1274;Burgos;38;;H;2022;80;Grupo de riesgo desconocido
+1275;Burgos;25;;H;2021;70;Relaciones Heterosexuales
+1276;Leon;34;;M;2021;70;Relaciones Heterosexuales
+1277;Leon;32;;H;2021;80;Grupo de riesgo desconocido
+1278;Leon;37;;H;2021;70;Relaciones Heterosexuales
+1279;Valladolid;35;;H;2021;70;Relaciones Heterosexuales
+1280;Palencia;38;;H;2022;20;Personas que se inyectan drogas
+1281;Burgos;48;;M;2015;70;Relaciones Heterosexuales
+1282;Burgos;51;;H;2020;80;Grupo de riesgo desconocido
+1283;Valladolid;61;;H;2018;70;Relaciones Heterosexuales
+1284;Valladolid;46;;H;2022;10;Varones homosexuales / bisexuales
+1285;Valladolid;34;;M;2022;70;Relaciones Heterosexuales
+1286;Segovia;47;;H;2022;10;Varones homosexuales / bisexuales
+1287;Salamanca;30;;M;2021;70;Relaciones Heterosexuales
+1288;Burgos;64;;H;2022;80;Grupo de riesgo desconocido
+1289;Burgos;35;;H;2022;80;Grupo de riesgo desconocido
+1290;León;48;;H;2006;10;Varones homosexuales / bisexuales
+1291;Burgos;41;;M;2004;20;Personas que se inyectan drogas
+1292;Burgos;32;;H;2004;20;Personas que se inyectan drogas
+1293;Burgos;49;;H;2007;10;Varones homosexuales / bisexuales
+1294;Burgos;41;;M;2009;70;Relaciones Heterosexuales
+1295;Zamora;30;;H;1990;80;Grupo de riesgo desconocido
+1296;Valladolid;35;;H;1996;20;Personas que se inyectan drogas
+1297;Avila;24;;H;1988;20;Personas que se inyectan drogas
+1298;Palencia;35;;H;1990;80;Grupo de riesgo desconocido
+1299;León;42;;H;1991;20;Personas que se inyectan drogas
+1300;León;27;;H;1992;20;Personas que se inyectan drogas
+1301;Valladolid;27;;M;1994;20;Personas que se inyectan drogas
+1302;Palencia;33;;H;1995;20;Personas que se inyectan drogas
+1303;Soria;22;;M;1990;20;Personas que se inyectan drogas
+1304;Valladolid;35;;H;1997;20;Personas que se inyectan drogas
+1305;Soria;25;;H;1990;20;Personas que se inyectan drogas
+1306;Burgos;30;;M;1988;20;Personas que se inyectan drogas
+1307;Zamora;32;;H;1992;20;Personas que se inyectan drogas
+1308;Soria;27;;H;1995;40;Receptores de hemoderivados
+1309;León;31;;H;1987;80;Grupo de riesgo desconocido
+1310;León;22;;H;1987;20;Personas que se inyectan drogas
+1311;Zamora;23;;M;1988;20;Personas que se inyectan drogas
+1312;León;34;;H;1988;20;Personas que se inyectan drogas
+1313;Valladolid;25;;H;1989;20;Personas que se inyectan drogas
+1314;León;33;;H;1989;20;Personas que se inyectan drogas
+1315;León;48;;H;1989;50;Receptores de transfusión
+1316;León;26;;H;1989;20;Personas que se inyectan drogas
+1317;Valladolid;32;;M;1992;20;Personas que se inyectan drogas
+1318;León;36;;H;1998;70;Relaciones Heterosexuales
+1319;León;30;;H;1998;20;Personas que se inyectan drogas
+1320;León;22;;H;1999;20;Personas que se inyectan drogas
+1321;Valladolid;74;;H;1991;50;Receptores de transfusión
+1322;Burgos;27;;H;1996;20;Personas que se inyectan drogas
+1323;Avila;26;;H;1992;20;Personas que se inyectan drogas
+1324;Avila;25;;M;1992;70;Relaciones Heterosexuales
+1325;Avila;33;;M;1993;20;Personas que se inyectan drogas
+1326;Avila;31;;H;1993;20;Personas que se inyectan drogas
+1327;Avila;36;;H;1990;20;Personas que se inyectan drogas
+1328;Avila;25;;H;1993;20;Personas que se inyectan drogas
+1329;Avila;0;3;H;1993;60;Hijo de madre a riesgo
+1330;Avila;29;;M;1993;20;Personas que se inyectan drogas
+1331;Avila;30;;H;1993;20;Personas que se inyectan drogas
+1332;Avila;25;;H;1993;20;Personas que se inyectan drogas
+1333;Avila;33;;M;1993;20;Personas que se inyectan drogas
+1334;Avila;27;;M;1996;20;Personas que se inyectan drogas
+1335;Avila;35;;H;1994;20;Personas que se inyectan drogas
+1336;Avila;32;;H;1994;20;Personas que se inyectan drogas
+1337;Avila;63;;M;1994;70;Relaciones Heterosexuales
+1338;Avila;28;;H;1994;20;Personas que se inyectan drogas
+1339;Avila;34;;H;1994;20;Personas que se inyectan drogas
+1340;Avila;31;;H;1995;20;Personas que se inyectan drogas
+1341;Avila;35;;H;1995;70;Relaciones Heterosexuales
+1342;Avila;33;;M;1995;20;Personas que se inyectan drogas
+1343;Avila;28;;H;1993;70;Relaciones Heterosexuales
+1344;Avila;33;;M;1995;20;Personas que se inyectan drogas
+1345;Avila;33;;H;1995;20;Personas que se inyectan drogas
+1346;Avila;33;;H;1995;10;Varones homosexuales / bisexuales
+1347;Avila;27;;M;1994;20;Personas que se inyectan drogas
+1348;Avila;28;;M;1995;20;Personas que se inyectan drogas
+1349;Avila;62;;H;1994;70;Relaciones Heterosexuales
+1350;Avila;26;;H;1993;20;Personas que se inyectan drogas
+1351;Avila;25;;M;1995;20;Personas que se inyectan drogas
+1352;Avila;30;;H;1995;20;Personas que se inyectan drogas
+1353;Avila;29;;H;1995;70;Relaciones Heterosexuales
+1354;Avila;36;;H;1992;20;Personas que se inyectan drogas
+1355;Avila;38;;H;1995;20;Personas que se inyectan drogas
+1356;Avila;31;;H;1995;20;Personas que se inyectan drogas
+1357;Avila;31;;H;1995;20;Personas que se inyectan drogas
+1358;Avila;29;;H;1995;20;Personas que se inyectan drogas
+1359;Avila;27;;M;1995;20;Personas que se inyectan drogas
+1360;Avila;28;;H;1996;20;Personas que se inyectan drogas
+1361;Avila;31;;H;1996;20;Personas que se inyectan drogas
+1362;Avila;28;;M;1996;20;Personas que se inyectan drogas
+1363;Avila;33;;H;1996;20;Personas que se inyectan drogas
+1364;Avila;25;;M;1996;20;Personas que se inyectan drogas
+1365;Avila;31;;M;1996;20;Personas que se inyectan drogas
+1366;Avila;31;;H;1996;20;Personas que se inyectan drogas
+1367;Avila;51;;H;1996;20;Personas que se inyectan drogas
+1368;Avila;36;;H;1996;20;Personas que se inyectan drogas
+1369;Avila;29;;H;1996;10;Varones homosexuales / bisexuales
+1370;Avila;33;;H;1996;20;Personas que se inyectan drogas
+1371;Avila;34;;H;1996;20;Personas que se inyectan drogas
+1372;Avila;32;;H;1996;20;Personas que se inyectan drogas
+1373;Avila;36;;M;1996;20;Personas que se inyectan drogas
+1374;Avila;36;;M;1997;20;Personas que se inyectan drogas
+1375;Avila;33;;H;1997;20;Personas que se inyectan drogas
+1376;Avila;28;;H;1997;20;Personas que se inyectan drogas
+1377;Avila;25;;H;1997;20;Personas que se inyectan drogas
+1378;Avila;39;;H;1997;20;Personas que se inyectan drogas
+1379;Avila;22;;M;1997;20;Personas que se inyectan drogas
+1380;Avila;36;;H;1997;20;Personas que se inyectan drogas
+1381;Avila;34;;H;1997;70;Relaciones Heterosexuales
+1382;Avila;38;;H;1997;20;Personas que se inyectan drogas
+1383;Avila;35;;M;1997;80;Grupo de riesgo desconocido
+1384;Avila;37;;H;1997;70;Relaciones Heterosexuales
+1385;Burgos;42;;H;1997;20;Personas que se inyectan drogas
+1386;Avila;70;;H;1997;10;Varones homosexuales / bisexuales
+1387;Avila;37;;M;1998;20;Personas que se inyectan drogas
+1388;Avila;34;;M;1997;70;Relaciones Heterosexuales
+1389;Avila;36;;H;1998;20;Personas que se inyectan drogas
+1390;Avila;32;;M;1998;20;Personas que se inyectan drogas
+1391;Avila;39;;H;1998;20;Personas que se inyectan drogas
+1392;Avila;32;;M;1998;70;Relaciones Heterosexuales
+1393;Avila;33;;M;1998;20;Personas que se inyectan drogas
+1394;Avila;35;;H;1999;20;Personas que se inyectan drogas
+1395;Avila;37;;H;1999;70;Relaciones Heterosexuales
+1396;Avila;36;;H;1999;20;Personas que se inyectan drogas
+1397;Avila;45;;H;1999;70;Relaciones Heterosexuales
+1398;Avila;29;;H;1999;10;Varones homosexuales / bisexuales
+1399;Burgos;25;;M;1987;70;Relaciones Heterosexuales
+1400;Burgos;34;;H;1988;20;Personas que se inyectan drogas
+1401;Burgos;20;;M;1988;40;Receptores de hemoderivados
+1402;Burgos;36;;H;1988;20;Personas que se inyectan drogas
+1403;Burgos;39;;H;1989;20;Personas que se inyectan drogas
+1404;Burgos;27;;M;1989;20;Personas que se inyectan drogas
+1405;Burgos;25;;H;1989;70;Relaciones Heterosexuales
+1406;Burgos;31;;M;1987;70;Relaciones Heterosexuales
+1407;Burgos;24;;H;1989;70;Relaciones Heterosexuales
+1408;Burgos;24;;H;1989;70;Relaciones Heterosexuales
+1409;Burgos;25;;H;1989;20;Personas que se inyectan drogas
+1410;Burgos;30;;H;1989;20;Personas que se inyectan drogas
+1411;Burgos;28;;H;1988;20;Personas que se inyectan drogas
+1412;Burgos;35;;H;1990;20;Personas que se inyectan drogas
+1413;Burgos;25;;H;1989;20;Personas que se inyectan drogas
+1414;Burgos;29;;H;1989;20;Personas que se inyectan drogas
+1415;Burgos;34;;H;1989;20;Personas que se inyectan drogas
+1416;Burgos;39;;H;1989;70;Relaciones Heterosexuales
+1417;Burgos;32;;H;1990;20;Personas que se inyectan drogas
+1418;Burgos;33;;H;1991;20;Personas que se inyectan drogas
+1419;Burgos;25;;H;1991;20;Personas que se inyectan drogas
+1420;Burgos;27;;H;1991;20;Personas que se inyectan drogas
+1421;Burgos;27;;H;1991;20;Personas que se inyectan drogas
+1422;Burgos;34;;H;1990;20;Personas que se inyectan drogas
+1423;Burgos;29;;H;1991;20;Personas que se inyectan drogas
+1424;Burgos;31;;H;1991;20;Personas que se inyectan drogas
+1425;Burgos;29;;H;1990;20;Personas que se inyectan drogas
+1426;Burgos;29;;H;1991;20;Personas que se inyectan drogas
+1427;Burgos;28;;H;1991;20;Personas que se inyectan drogas
+1428;Burgos;33;;H;1991;20;Personas que se inyectan drogas
+1429;Burgos;31;;H;1992;20;Personas que se inyectan drogas
+1430;Burgos;33;;H;1992;20;Personas que se inyectan drogas
+1431;Burgos;27;;H;1992;20;Personas que se inyectan drogas
+1432;Burgos;38;;H;1991;20;Personas que se inyectan drogas
+1433;Burgos;31;;H;1992;20;Personas que se inyectan drogas
+1434;Burgos;32;;H;1992;20;Personas que se inyectan drogas
+1435;Burgos;27;;H;1992;20;Personas que se inyectan drogas
+1436;Burgos;19;;H;1992;20;Personas que se inyectan drogas
+1437;Burgos;37;;H;1991;80;Grupo de riesgo desconocido
+1438;Burgos;26;;H;1992;20;Personas que se inyectan drogas
+1439;Burgos;36;;H;1992;20;Personas que se inyectan drogas
+1440;Burgos;24;;H;1991;20;Personas que se inyectan drogas
+1441;Burgos;36;;H;1992;80;Grupo de riesgo desconocido
+1442;Burgos;24;;H;1992;20;Personas que se inyectan drogas
+1443;Burgos;27;;H;1992;20;Personas que se inyectan drogas
+1444;Burgos;26;;H;1992;20;Personas que se inyectan drogas
+1445;Burgos;34;;H;1988;20;Personas que se inyectan drogas
+1446;Burgos;25;;M;1990;20;Personas que se inyectan drogas
+1447;Burgos;35;;H;1992;20;Personas que se inyectan drogas
+1448;Burgos;30;;H;1992;20;Personas que se inyectan drogas
+1449;Burgos;25;;H;1992;20;Personas que se inyectan drogas
+1450;Burgos;37;;H;1993;20;Personas que se inyectan drogas
+1451;Burgos;26;;H;1993;20;Personas que se inyectan drogas
+1452;Burgos;39;;M;1990;50;Receptores de transfusión
+1453;Burgos;29;;H;1990;10;Varones homosexuales / bisexuales
+1454;Burgos;27;;H;1990;20;Personas que se inyectan drogas
+1455;Burgos;34;;H;1991;20;Personas que se inyectan drogas
+1456;Burgos;36;;H;1992;20;Personas que se inyectan drogas
+1457;Burgos;29;;H;1991;20;Personas que se inyectan drogas
+1458;Burgos;25;;H;1987;20;Personas que se inyectan drogas
+1459;Burgos;20;;H;1992;80;Grupo de riesgo desconocido
+1460;Burgos;23;;M;1991;20;Personas que se inyectan drogas
+1461;Burgos;34;;H;1992;20;Personas que se inyectan drogas
+1462;Burgos;34;;H;1991;20;Personas que se inyectan drogas
+1463;Burgos;55;;H;1990;10;Varones homosexuales / bisexuales
+1464;Burgos;30;;H;1994;20;Personas que se inyectan drogas
+1465;Burgos;24;;M;1991;20;Personas que se inyectan drogas
+1466;Burgos;26;;H;1989;40;Receptores de hemoderivados
+1467;Burgos;42;;H;1990;10;Varones homosexuales / bisexuales
+1468;Valladolid;33;;H;1991;80;Grupo de riesgo desconocido
+1469;Burgos;31;;M;1992;70;Relaciones Heterosexuales
+1470;Burgos;48;;H;1991;80;Grupo de riesgo desconocido
+1471;Burgos;20;;H;1990;80;Grupo de riesgo desconocido
+1472;Burgos;28;;H;1992;20;Personas que se inyectan drogas
+1473;Burgos;30;;H;1993;20;Personas que se inyectan drogas
+1474;Burgos;40;;H;1993;20;Personas que se inyectan drogas
+1475;Burgos;23;;H;1991;20;Personas que se inyectan drogas
+1476;Burgos;28;;H;1993;20;Personas que se inyectan drogas
+1477;Burgos;32;;H;1993;20;Personas que se inyectan drogas
+1478;Burgos;29;;H;1993;20;Personas que se inyectan drogas
+1479;Burgos;37;;H;1994;20;Personas que se inyectan drogas
+1480;Burgos;16;;H;1993;20;Personas que se inyectan drogas
+1481;Burgos;32;;H;1993;20;Personas que se inyectan drogas
+1482;Burgos;43;;H;1993;70;Relaciones Heterosexuales
+1483;Burgos;49;;H;1993;10;Varones homosexuales / bisexuales
+1484;Burgos;49;;H;1993;10;Varones homosexuales / bisexuales
+1485;Burgos;34;;H;1993;20;Personas que se inyectan drogas
+1486;Burgos;29;;H;1993;70;Relaciones Heterosexuales
+1487;Burgos;35;;H;1993;10;Varones homosexuales / bisexuales
+1488;Burgos;24;;H;1993;20;Personas que se inyectan drogas
+1489;Burgos;27;;H;1993;20;Personas que se inyectan drogas
+1490;Burgos;23;;M;1993;20;Personas que se inyectan drogas
+1491;Burgos;35;;H;1993;20;Personas que se inyectan drogas
+1492;Burgos;29;;H;1993;20;Personas que se inyectan drogas
+1493;Burgos;39;;M;1994;70;Relaciones Heterosexuales
+1494;Burgos;24;;H;1993;20;Personas que se inyectan drogas
+1495;Burgos;48;;H;1993;80;Grupo de riesgo desconocido
+1496;Burgos;46;;H;1993;20;Personas que se inyectan drogas
+1497;Burgos;39;;H;1993;20;Personas que se inyectan drogas
+1498;Burgos;37;;M;1993;20;Personas que se inyectan drogas
+1499;Burgos;33;;H;1990;10;Varones homosexuales / bisexuales
+1500;Burgos;37;;H;1993;20;Personas que se inyectan drogas
+1501;Burgos;34;;H;1993;20;Personas que se inyectan drogas
+1502;Burgos;29;;H;1993;20;Personas que se inyectan drogas
+1503;Burgos;50;;H;1993;50;Receptores de transfusión
+1504;Burgos;24;;H;1993;20;Personas que se inyectan drogas
+1505;Burgos;60;;H;1993;50;Receptores de transfusión
+1506;Burgos;31;;H;1993;70;Relaciones Heterosexuales
+1507;Burgos;32;;M;1993;20;Personas que se inyectan drogas
+1508;Burgos;28;;H;1993;20;Personas que se inyectan drogas
+1509;Burgos;31;;H;1993;10;Varones homosexuales / bisexuales
+1510;Burgos;24;;M;1993;20;Personas que se inyectan drogas
+1511;Burgos;24;;H;1987;20;Personas que se inyectan drogas
+1512;Burgos;19;;H;1990;70;Relaciones Heterosexuales
+1513;Burgos;27;;H;1994;20;Personas que se inyectan drogas
+1514;Burgos;24;;H;1994;20;Personas que se inyectan drogas
+1515;Burgos;34;;H;1994;20;Personas que se inyectan drogas
+1516;Burgos;44;;H;1994;10;Varones homosexuales / bisexuales
+1517;Burgos;52;;H;1994;10;Varones homosexuales / bisexuales
+1518;Burgos;29;;H;1993;20;Personas que se inyectan drogas
+1519;Burgos;33;;H;1994;20;Personas que se inyectan drogas
+1520;Burgos;26;;H;1993;20;Personas que se inyectan drogas
+1521;Burgos;27;;H;1995;20;Personas que se inyectan drogas
+1522;Burgos;45;;H;1995;70;Relaciones Heterosexuales
+1523;Burgos;35;;H;1994;20;Personas que se inyectan drogas
+1524;Burgos;24;;H;1994;20;Personas que se inyectan drogas
+1525;Burgos;38;;H;1994;20;Personas que se inyectan drogas
+1526;Burgos;42;;H;1995;80;Grupo de riesgo desconocido
+1527;Burgos;26;;H;1995;20;Personas que se inyectan drogas
+1528;Burgos;31;;H;1995;20;Personas que se inyectan drogas
+1529;Burgos;28;;H;1995;20;Personas que se inyectan drogas
+1530;Burgos;34;;H;1995;20;Personas que se inyectan drogas
+1531;Burgos;47;;H;1992;70;Relaciones Heterosexuales
+1532;Burgos;28;;H;1994;70;Relaciones Heterosexuales
+1533;Burgos;27;;M;1995;20;Personas que se inyectan drogas
+1534;Burgos;29;;H;1995;20;Personas que se inyectan drogas
+1535;Burgos;22;;M;1994;70;Relaciones Heterosexuales
+1536;Burgos;54;;H;1995;70;Relaciones Heterosexuales
+1537;Burgos;33;;H;1995;20;Personas que se inyectan drogas
+1538;Burgos;26;;H;1995;20;Personas que se inyectan drogas
+1539;Burgos;23;;H;1995;20;Personas que se inyectan drogas
+1540;Burgos;30;;H;1993;20;Personas que se inyectan drogas
+1541;Burgos;37;;H;1993;20;Personas que se inyectan drogas
+1542;Burgos;32;;H;1993;20;Personas que se inyectan drogas
+1543;Burgos;24;;M;1994;20;Personas que se inyectan drogas
+1544;Burgos;34;;H;1994;10;Varones homosexuales / bisexuales
+1545;Burgos;48;;H;1994;70;Relaciones Heterosexuales
+1546;Burgos;27;;M;1994;80;Grupo de riesgo desconocido
+1547;Burgos;42;;H;1994;20;Personas que se inyectan drogas
+1548;Burgos;31;;H;1994;20;Personas que se inyectan drogas
+1549;Burgos;27;;M;1994;20;Personas que se inyectan drogas
+1550;Burgos;31;;H;1994;20;Personas que se inyectan drogas
+1551;Burgos;30;;H;1994;20;Personas que se inyectan drogas
+1552;Burgos;29;;H;1994;20;Personas que se inyectan drogas
+1553;Burgos;64;;H;1994;20;Personas que se inyectan drogas
+1554;Burgos;16;;H;1994;20;Personas que se inyectan drogas
+1555;Burgos;36;;H;1994;20;Personas que se inyectan drogas
+1556;Burgos;47;;H;1994;70;Relaciones Heterosexuales
+1557;Burgos;30;;M;1994;20;Personas que se inyectan drogas
+1558;Burgos;0;3;M;1994;60;Hijo de madre a riesgo
+1559;Burgos;30;;H;1994;20;Personas que se inyectan drogas
+1560;Burgos;34;;H;1994;20;Personas que se inyectan drogas
+1561;Burgos;27;;H;1993;20;Personas que se inyectan drogas
+1562;Burgos;27;;H;1991;20;Personas que se inyectan drogas
+1563;Burgos;24;;H;1994;20;Personas que se inyectan drogas
+1564;Burgos;35;;H;1995;20;Personas que se inyectan drogas
+1565;Burgos;37;;H;1995;20;Personas que se inyectan drogas
+1566;Burgos;36;;H;1995;20;Personas que se inyectan drogas
+1567;Burgos;29;;H;1995;20;Personas que se inyectan drogas
+1568;Burgos;37;;H;1995;20;Personas que se inyectan drogas
+1569;Burgos;28;;H;1994;20;Personas que se inyectan drogas
+1570;Burgos;33;;H;1994;20;Personas que se inyectan drogas
+1571;Burgos;30;;M;1994;20;Personas que se inyectan drogas
+1572;Burgos;40;;H;1994;10;Varones homosexuales / bisexuales
+1573;Burgos;33;;M;1995;70;Relaciones Heterosexuales
+1574;Burgos;29;;H;1995;20;Personas que se inyectan drogas
+1575;Burgos;33;;H;1995;20;Personas que se inyectan drogas
+1576;Burgos;31;;H;1995;20;Personas que se inyectan drogas
+1577;Burgos;32;;M;1995;20;Personas que se inyectan drogas
+1578;Burgos;52;;H;1994;20;Personas que se inyectan drogas
+1579;Burgos;26;;M;1994;20;Personas que se inyectan drogas
+1580;Burgos;42;;H;1994;10;Varones homosexuales / bisexuales
+1581;Burgos;31;;H;1994;80;Grupo de riesgo desconocido
+1582;Burgos;0;2;H;1994;60;Hijo de madre a riesgo
+1583;Burgos;36;;H;1995;20;Personas que se inyectan drogas
+1584;Burgos;23;;H;1994;40;Receptores de hemoderivados
+1585;Burgos;2;;M;1993;60;Hijo de madre a riesgo
+1586;Burgos;0;4;H;1994;60;Hijo de madre a riesgo
+1587;Burgos;0;4;H;1994;60;Hijo de madre a riesgo
+1588;Burgos;30;;H;1995;20;Personas que se inyectan drogas
+1589;Burgos;30;;H;1994;20;Personas que se inyectan drogas
+1590;Burgos;30;;H;1996;20;Personas que se inyectan drogas
+1591;Burgos;28;;H;1996;20;Personas que se inyectan drogas
+1592;Burgos;38;;H;1995;20;Personas que se inyectan drogas
+1593;Burgos;42;;H;1995;20;Personas que se inyectan drogas
+1594;Burgos;32;;H;1994;20;Personas que se inyectan drogas
+1595;Burgos;24;;H;1995;20;Personas que se inyectan drogas
+1596;Burgos;38;;H;1995;20;Personas que se inyectan drogas
+1597;Burgos;35;;H;1995;80;Grupo de riesgo desconocido
+1598;Burgos;24;;M;1995;20;Personas que se inyectan drogas
+1599;Burgos;28;;H;1995;20;Personas que se inyectan drogas
+1600;Burgos;36;;M;1996;20;Personas que se inyectan drogas
+1601;Burgos;35;;H;1995;20;Personas que se inyectan drogas
+1602;Burgos;31;;H;1995;20;Personas que se inyectan drogas
+1603;Burgos;28;;H;1995;20;Personas que se inyectan drogas
+1604;Burgos;24;;M;1995;20;Personas que se inyectan drogas
+1605;Burgos;28;;H;1995;20;Personas que se inyectan drogas
+1606;Burgos;62;;H;1994;70;Relaciones Heterosexuales
+1607;Burgos;36;;H;1996;80;Grupo de riesgo desconocido
+1608;Burgos;37;;H;1996;20;Personas que se inyectan drogas
+1609;Burgos;25;;H;1995;20;Personas que se inyectan drogas
+1610;Burgos;37;;M;1995;70;Relaciones Heterosexuales
+1611;Burgos;38;;H;1994;20;Personas que se inyectan drogas
+1612;Burgos;25;;M;1995;20;Personas que se inyectan drogas
+1613;Burgos;32;;H;1993;20;Personas que se inyectan drogas
+1614;Burgos;33;;H;1995;20;Personas que se inyectan drogas
+1615;Burgos;37;;H;1996;20;Personas que se inyectan drogas
+1616;Burgos;37;;H;1996;20;Personas que se inyectan drogas
+1617;Burgos;31;;H;1996;20;Personas que se inyectan drogas
+1618;Burgos;31;;H;1995;20;Personas que se inyectan drogas
+1619;Burgos;30;;H;1996;20;Personas que se inyectan drogas
+1620;Burgos;34;;H;1996;20;Personas que se inyectan drogas
+1621;Burgos;31;;H;1991;20;Personas que se inyectan drogas
+1622;Burgos;32;;H;1996;20;Personas que se inyectan drogas
+1623;Burgos;38;;H;1996;20;Personas que se inyectan drogas
+1624;Burgos;32;;H;1996;20;Personas que se inyectan drogas
+1625;Burgos;41;;H;1994;20;Personas que se inyectan drogas
+1626;Burgos;31;;H;1996;20;Personas que se inyectan drogas
+1627;Avila;27;;M;1996;20;Personas que se inyectan drogas
+1628;Burgos;24;;H;1996;20;Personas que se inyectan drogas
+1629;Burgos;26;;H;1996;20;Personas que se inyectan drogas
+1630;Burgos;41;;H;1997;70;Relaciones Heterosexuales
+1631;Burgos;41;;M;1996;70;Relaciones Heterosexuales
+1632;Burgos;34;;H;1996;20;Personas que se inyectan drogas
+1633;Burgos;56;;H;1996;70;Relaciones Heterosexuales
+1634;Burgos;29;;M;1996;20;Personas que se inyectan drogas
+1635;Burgos;27;;M;1996;20;Personas que se inyectan drogas
+1636;Burgos;28;;H;1996;20;Personas que se inyectan drogas
+1637;Burgos;22;;H;1996;20;Personas que se inyectan drogas
+1638;Burgos;31;;H;1996;70;Relaciones Heterosexuales
+1639;Burgos;31;;M;1996;70;Relaciones Heterosexuales
+1640;Burgos;27;;M;1996;20;Personas que se inyectan drogas
+1641;Burgos;61;;H;1996;10;Varones homosexuales / bisexuales
+1642;Burgos;33;;M;1996;70;Relaciones Heterosexuales
+1643;Burgos;31;;H;1996;20;Personas que se inyectan drogas
+1644;Burgos;35;;H;1996;20;Personas que se inyectan drogas
+1645;Burgos;40;;H;1996;20;Personas que se inyectan drogas
+1646;Burgos;34;;H;1996;20;Personas que se inyectan drogas
+1647;Burgos;32;;M;1996;20;Personas que se inyectan drogas
+1648;Burgos;35;;H;1996;20;Personas que se inyectan drogas
+1649;Burgos;25;;H;1997;20;Personas que se inyectan drogas
+1650;Burgos;31;;H;1997;20;Personas que se inyectan drogas
+1651;Burgos;34;;H;1996;20;Personas que se inyectan drogas
+1652;Burgos;41;;H;1996;70;Relaciones Heterosexuales
+1653;Burgos;26;;H;1996;20;Personas que se inyectan drogas
+1654;Burgos;31;;H;1996;20;Personas que se inyectan drogas
+1655;Burgos;29;;H;1996;20;Personas que se inyectan drogas
+1656;Burgos;34;;H;1996;20;Personas que se inyectan drogas
+1657;Burgos;37;;H;1997;20;Personas que se inyectan drogas
+1658;Burgos;34;;H;1997;80;Grupo de riesgo desconocido
+1659;Burgos;32;;H;1997;20;Personas que se inyectan drogas
+1660;Burgos;40;;H;1997;20;Personas que se inyectan drogas
+1661;Burgos;34;;H;1999;70;Relaciones Heterosexuales
+1662;Burgos;38;;H;1997;20;Personas que se inyectan drogas
+1663;Burgos;35;;H;1997;20;Personas que se inyectan drogas
+1664;Burgos;39;;H;1997;20;Personas que se inyectan drogas
+1665;Burgos;27;;H;1997;20;Personas que se inyectan drogas
+1666;Burgos;27;;M;1997;20;Personas que se inyectan drogas
+1667;Burgos;31;;M;1995;20;Personas que se inyectan drogas
+1668;Burgos;45;;H;1997;20;Personas que se inyectan drogas
+1669;Burgos;34;;M;1997;20;Personas que se inyectan drogas
+1670;Burgos;37;;M;1996;20;Personas que se inyectan drogas
+1671;Burgos;36;;H;1997;70;Relaciones Heterosexuales
+1672;Burgos;29;;M;1997;20;Personas que se inyectan drogas
+1673;Burgos;36;;H;1997;20;Personas que se inyectan drogas
+1674;Burgos;28;;M;1996;20;Personas que se inyectan drogas
+1675;Burgos;29;;H;1997;20;Personas que se inyectan drogas
+1676;Burgos;54;;H;1997;70;Relaciones Heterosexuales
+1677;Burgos;39;;M;1997;20;Personas que se inyectan drogas
+1678;Burgos;39;;H;1997;20;Personas que se inyectan drogas
+1679;Burgos;44;;H;1998;20;Personas que se inyectan drogas
+1680;Burgos;28;;H;1998;20;Personas que se inyectan drogas
+1681;Burgos;26;;H;1998;20;Personas que se inyectan drogas
+1682;Burgos;30;;H;1998;20;Personas que se inyectan drogas
+1683;Burgos;32;;M;1998;70;Relaciones Heterosexuales
+1684;Burgos;61;;H;1998;70;Relaciones Heterosexuales
+1685;Burgos;45;;H;1998;20;Personas que se inyectan drogas
+1686;Burgos;39;;H;1998;10;Varones homosexuales / bisexuales
+1687;Burgos;26;;H;1998;20;Personas que se inyectan drogas
+1688;Burgos;31;;H;1998;20;Personas que se inyectan drogas
+1689;Burgos;28;;H;1994;20;Personas que se inyectan drogas
+1690;Burgos;26;;H;1998;10;Varones homosexuales / bisexuales
+1691;Burgos;34;;M;1999;20;Personas que se inyectan drogas
+1692;Burgos;25;;H;1999;20;Personas que se inyectan drogas
+1693;Burgos;33;;H;1999;20;Personas que se inyectan drogas
+1694;León;23;;H;1985;40;Receptores de hemoderivados
+1695;León;25;;M;1987;70;Relaciones Heterosexuales
+1696;León;62;;H;1987;40;Receptores de hemoderivados
+1697;León;25;;H;1988;20;Personas que se inyectan drogas
+1698;León;42;;H;1988;40;Receptores de hemoderivados
+1699;León;24;;H;1988;20;Personas que se inyectan drogas
+1700;León;34;;H;1996;20;Personas que se inyectan drogas
+1701;León;28;;H;1989;20;Personas que se inyectan drogas
+1702;León;0;11;H;1988;60;Hijo de madre a riesgo
+1703;León;29;;H;1996;10;Varones homosexuales / bisexuales
+1704;León;4;;M;1989;60;Hijo de madre a riesgo
+1705;León;38;;M;1990;50;Receptores de transfusión
+1706;León;58;;H;1990;50;Receptores de transfusión
+1707;León;69;;H;1987;50;Receptores de transfusión
+1708;León;29;;H;1991;20;Personas que se inyectan drogas
+1709;León;30;;H;1991;70;Relaciones Heterosexuales
+1710;León;30;;H;1991;20;Personas que se inyectan drogas
+1711;León;28;;H;1995;20;Personas que se inyectan drogas
+1712;León;0;7;H;1991;60;Hijo de madre a riesgo
+1713;León;5;;M;1989;60;Hijo de madre a riesgo
+1714;León;36;;M;1990;50;Receptores de transfusión
+1715;León;35;;H;1992;20;Personas que se inyectan drogas
+1716;León;25;;H;1991;20;Personas que se inyectan drogas
+1717;León;37;;H;1990;20;Personas que se inyectan drogas
+1718;León;32;;H;1992;70;Relaciones Heterosexuales
+1719;León;32;;H;1992;20;Personas que se inyectan drogas
+1720;León;27;;H;1991;70;Relaciones Heterosexuales
+1721;León;30;;H;1991;20;Personas que se inyectan drogas
+1722;León;22;;H;1991;20;Personas que se inyectan drogas
+1723;León;24;;M;1992;80;Grupo de riesgo desconocido
+1724;León;30;;M;1990;20;Personas que se inyectan drogas
+1725;León;30;;H;1992;20;Personas que se inyectan drogas
+1726;León;31;;M;1991;20;Personas que se inyectan drogas
+1727;León;31;;H;1992;20;Personas que se inyectan drogas
+1728;León;57;;H;1990;70;Relaciones Heterosexuales
+1729;León;26;;H;1986;20;Personas que se inyectan drogas
+1730;León;36;;H;1990;20;Personas que se inyectan drogas
+1731;León;37;;H;1988;20;Personas que se inyectan drogas
+1732;León;29;;H;1990;20;Personas que se inyectan drogas
+1733;León;29;;H;1990;70;Relaciones Heterosexuales
+1734;León;26;;M;1990;20;Personas que se inyectan drogas
+1735;León;30;;M;1991;20;Personas que se inyectan drogas
+1736;León;32;;H;1991;20;Personas que se inyectan drogas
+1737;León;34;;H;1992;70;Relaciones Heterosexuales
+1738;León;60;;M;1992;50;Receptores de transfusión
+1739;León;62;;M;1987;50;Receptores de transfusión
+1740;León;37;;H;1991;50;Receptores de transfusión
+1741;León;26;;M;1991;20;Personas que se inyectan drogas
+1742;León;28;;H;1990;20;Personas que se inyectan drogas
+1743;León;26;;M;1989;20;Personas que se inyectan drogas
+1744;León;21;;H;1987;40;Receptores de hemoderivados
+1745;León;29;;H;1993;20;Personas que se inyectan drogas
+1746;León;28;;H;1992;20;Personas que se inyectan drogas
+1747;León;72;;H;1993;70;Relaciones Heterosexuales
+1748;León;35;;M;1992;20;Personas que se inyectan drogas
+1749;León;26;;H;1992;20;Personas que se inyectan drogas
+1750;León;30;;H;1989;20;Personas que se inyectan drogas
+1751;León;60;;H;1992;70;Relaciones Heterosexuales
+1752;León;37;;M;1992;20;Personas que se inyectan drogas
+1753;León;26;;H;1992;20;Personas que se inyectan drogas
+1754;León;27;;H;1992;20;Personas que se inyectan drogas
+1755;León;29;;M;1992;70;Relaciones Heterosexuales
+1756;León;28;;H;1993;20;Personas que se inyectan drogas
+1757;León;29;;H;1988;20;Personas que se inyectan drogas
+1758;León;32;;M;1988;20;Personas que se inyectan drogas
+1759;León;26;;H;1991;40;Receptores de hemoderivados
+1760;León;28;;H;1990;20;Personas que se inyectan drogas
+1761;León;33;;M;1992;70;Relaciones Heterosexuales
+1762;León;47;;M;1990;50;Receptores de transfusión
+1763;León;30;;M;1988;70;Relaciones Heterosexuales
+1764;León;27;;M;1993;20;Personas que se inyectan drogas
+1765;León;31;;H;1993;20;Personas que se inyectan drogas
+1766;León;36;;M;1991;20;Personas que se inyectan drogas
+1767;León;30;;H;1992;20;Personas que se inyectan drogas
+1768;León;27;;H;1989;20;Personas que se inyectan drogas
+1769;León;28;;M;1993;20;Personas que se inyectan drogas
+1770;León;37;;H;1996;20;Personas que se inyectan drogas
+1771;León;31;;M;1993;70;Relaciones Heterosexuales
+1772;León;31;;H;1993;20;Personas que se inyectan drogas
+1773;León;39;;H;1993;70;Relaciones Heterosexuales
+1774;León;18;;H;1993;10;Varones homosexuales / bisexuales
+1775;León;34;;H;1993;20;Personas que se inyectan drogas
+1776;León;34;;H;1995;10;Varones homosexuales / bisexuales
+1777;León;31;;H;1993;20;Personas que se inyectan drogas
+1778;León;35;;H;1993;70;Relaciones Heterosexuales
+1779;León;31;;H;1993;10;Varones homosexuales / bisexuales
+1780;León;62;;H;1993;70;Relaciones Heterosexuales
+1781;León;34;;H;1994;70;Relaciones Heterosexuales
+1782;León;31;;H;1993;20;Personas que se inyectan drogas
+1783;León;30;;H;1993;20;Personas que se inyectan drogas
+1784;León;33;;M;1993;20;Personas que se inyectan drogas
+1785;León;29;;H;1994;20;Personas que se inyectan drogas
+1786;León;34;;M;1993;70;Relaciones Heterosexuales
+1787;León;52;;H;1994;70;Relaciones Heterosexuales
+1788;León;35;;M;1994;70;Relaciones Heterosexuales
+1789;León;35;;M;1994;20;Personas que se inyectan drogas
+1790;León;64;;M;1993;70;Relaciones Heterosexuales
+1791;León;37;;M;1994;20;Personas que se inyectan drogas
+1792;León;34;;H;1994;20;Personas que se inyectan drogas
+1793;León;56;;H;1993;70;Relaciones Heterosexuales
+1794;León;31;;H;1995;20;Personas que se inyectan drogas
+1795;León;34;;H;1994;20;Personas que se inyectan drogas
+1796;León;30;;H;1993;20;Personas que se inyectan drogas
+1797;León;39;;M;1994;20;Personas que se inyectan drogas
+1798;León;32;;H;1992;20;Personas que se inyectan drogas
+1799;León;36;;H;1994;10;Varones homosexuales / bisexuales
+1800;León;39;;H;1993;20;Personas que se inyectan drogas
+1801;León;40;;H;1994;20;Personas que se inyectan drogas
+1802;León;27;;M;1994;20;Personas que se inyectan drogas
+1803;León;32;;H;1992;40;Receptores de hemoderivados
+1804;León;36;;H;1992;70;Relaciones Heterosexuales
+1805;León;38;;H;1989;20;Personas que se inyectan drogas
+1806;León;40;;H;1992;20;Personas que se inyectan drogas
+1807;León;31;;H;1994;20;Personas que se inyectan drogas
+1808;León;33;;M;1994;20;Personas que se inyectan drogas
+1809;León;35;;H;1994;80;Grupo de riesgo desconocido
+1810;León;32;;M;1994;20;Personas que se inyectan drogas
+1811;León;25;;M;1994;20;Personas que se inyectan drogas
+1812;León;36;;H;1994;20;Personas que se inyectan drogas
+1813;León;29;;M;1994;20;Personas que se inyectan drogas
+1814;León;27;;H;1993;20;Personas que se inyectan drogas
+1815;León;30;;H;1994;20;Personas que se inyectan drogas
+1816;León;39;;H;1996;80;Grupo de riesgo desconocido
+1817;León;28;;H;1994;20;Personas que se inyectan drogas
+1818;León;33;;H;1994;20;Personas que se inyectan drogas
+1819;León;27;;H;1994;20;Personas que se inyectan drogas
+1820;León;37;;H;1994;20;Personas que se inyectan drogas
+1821;León;30;;M;1994;20;Personas que se inyectan drogas
+1822;León;34;;M;1994;70;Relaciones Heterosexuales
+1823;León;46;;H;1994;10;Varones homosexuales / bisexuales
+1824;León;30;;H;1993;20;Personas que se inyectan drogas
+1825;León;68;;M;1994;50;Receptores de transfusión
+1826;León;33;;H;1994;20;Personas que se inyectan drogas
+1827;León;31;;H;1993;20;Personas que se inyectan drogas
+1828;León;35;;H;1994;70;Relaciones Heterosexuales
+1829;León;35;;H;1994;10;Varones homosexuales / bisexuales
+1830;León;41;;H;1994;70;Relaciones Heterosexuales
+1831;León;40;;H;1995;70;Relaciones Heterosexuales
+1832;León;39;;H;1995;80;Grupo de riesgo desconocido
+1833;León;35;;H;1994;10;Varones homosexuales / bisexuales
+1834;León;36;;H;1993;10;Varones homosexuales / bisexuales
+1835;León;30;;H;1995;20;Personas que se inyectan drogas
+1836;León;37;;H;1995;30;Personas que se inyectan drogas / Varones homo/bisexuales
+1837;León;72;;M;1995;80;Grupo de riesgo desconocido
+1838;León;42;;H;1995;10;Varones homosexuales / bisexuales
+1839;León;32;;H;1995;40;Receptores de hemoderivados
+1840;León;29;;H;1995;70;Relaciones Heterosexuales
+1841;León;26;;H;1995;20;Personas que se inyectan drogas
+1842;León;45;;H;1995;70;Relaciones Heterosexuales
+1843;León;31;;H;1994;10;Varones homosexuales / bisexuales
+1844;León;37;;H;1995;20;Personas que se inyectan drogas
+1845;León;43;;H;1995;70;Relaciones Heterosexuales
+1846;León;20;;M;1995;70;Relaciones Heterosexuales
+1847;León;32;;M;1995;20;Personas que se inyectan drogas
+1848;León;33;;H;1995;10;Varones homosexuales / bisexuales
+1849;León;28;;H;1996;20;Personas que se inyectan drogas
+1850;León;25;;M;1994;70;Relaciones Heterosexuales
+1851;León;32;;M;1995;20;Personas que se inyectan drogas
+1852;León;56;;H;1994;70;Relaciones Heterosexuales
+1853;León;32;;H;1995;20;Personas que se inyectan drogas
+1854;León;34;;H;1995;10;Varones homosexuales / bisexuales
+1855;León;26;;M;1995;20;Personas que se inyectan drogas
+1856;León;38;;H;1995;70;Relaciones Heterosexuales
+1857;León;35;;M;1995;20;Personas que se inyectan drogas
+1858;León;36;;H;1995;20;Personas que se inyectan drogas
+1859;León;40;;M;1995;70;Relaciones Heterosexuales
+1860;León;45;;H;1995;10;Varones homosexuales / bisexuales
+1861;León;37;;M;1996;20;Personas que se inyectan drogas
+1862;León;35;;H;1995;40;Receptores de hemoderivados
+1863;León;27;;H;1994;70;Relaciones Heterosexuales
+1864;León;35;;H;1996;70;Relaciones Heterosexuales
+1865;León;30;;H;1996;20;Personas que se inyectan drogas
+1866;León;30;;H;1996;20;Personas que se inyectan drogas
+1867;León;31;;H;1996;20;Personas que se inyectan drogas
+1868;León;29;;H;1995;80;Grupo de riesgo desconocido
+1869;León;37;;H;1996;70;Relaciones Heterosexuales
+1870;León;25;;M;1996;20;Personas que se inyectan drogas
+1871;León;31;;H;1996;20;Personas que se inyectan drogas
+1872;León;35;;H;1996;20;Personas que se inyectan drogas
+1873;León;24;;H;1996;20;Personas que se inyectan drogas
+1874;León;30;;M;1996;70;Relaciones Heterosexuales
+1875;León;61;;H;1996;70;Relaciones Heterosexuales
+1876;León;40;;H;1996;70;Relaciones Heterosexuales
+1877;León;40;;H;1996;20;Personas que se inyectan drogas
+1878;León;35;;M;1996;70;Relaciones Heterosexuales
+1879;León;37;;H;1996;20;Personas que se inyectan drogas
+1880;León;28;;H;1996;20;Personas que se inyectan drogas
+1881;León;43;;M;1996;70;Relaciones Heterosexuales
+1882;León;28;;H;1994;20;Personas que se inyectan drogas
+1883;León;34;;H;1996;20;Personas que se inyectan drogas
+1884;León;27;;M;1994;20;Personas que se inyectan drogas
+1885;León;29;;H;1996;20;Personas que se inyectan drogas
+1886;León;38;;H;1996;70;Relaciones Heterosexuales
+1887;León;36;;H;1996;20;Personas que se inyectan drogas
+1888;León;35;;H;1996;70;Relaciones Heterosexuales
+1889;León;33;;H;1996;20;Personas que se inyectan drogas
+1890;León;36;;M;1996;20;Personas que se inyectan drogas
+1891;León;54;;H;1996;70;Relaciones Heterosexuales
+1892;León;41;;H;1996;70;Relaciones Heterosexuales
+1893;León;26;;H;1996;20;Personas que se inyectan drogas
+1894;León;35;;H;1996;20;Personas que se inyectan drogas
+1895;León;31;;H;1994;80;Grupo de riesgo desconocido
+1896;León;32;;M;1996;20;Personas que se inyectan drogas
+1897;León;28;;H;1996;20;Personas que se inyectan drogas
+1898;León;30;;M;1995;20;Personas que se inyectan drogas
+1899;León;29;;M;1995;20;Personas que se inyectan drogas
+1900;León;32;;H;1996;20;Personas que se inyectan drogas
+1901;León;49;;H;1996;70;Relaciones Heterosexuales
+1902;León;40;;H;1996;20;Personas que se inyectan drogas
+1903;León;36;;H;1996;20;Personas que se inyectan drogas
+1904;León;34;;H;1996;20;Personas que se inyectan drogas
+1905;León;35;;H;1996;70;Relaciones Heterosexuales
+1906;León;32;;H;1996;20;Personas que se inyectan drogas
+1907;León;39;;H;1996;70;Relaciones Heterosexuales
+1908;León;29;;H;1996;20;Personas que se inyectan drogas
+1909;León;40;;H;1996;20;Personas que se inyectan drogas
+1910;León;32;;H;1996;20;Personas que se inyectan drogas
+1911;León;35;;H;1996;20;Personas que se inyectan drogas
+1912;León;28;;H;1996;20;Personas que se inyectan drogas
+1913;León;25;;H;1997;10;Varones homosexuales / bisexuales
+1914;León;44;;M;1997;70;Relaciones Heterosexuales
+1915;León;30;;H;1997;20;Personas que se inyectan drogas
+1916;León;31;;M;1997;20;Personas que se inyectan drogas
+1917;León;29;;H;1997;40;Receptores de hemoderivados
+1918;León;76;;M;1997;50;Receptores de transfusión
+1919;León;32;;H;1996;20;Personas que se inyectan drogas
+1920;León;24;;H;1996;20;Personas que se inyectan drogas
+1921;León;43;;H;1994;70;Relaciones Heterosexuales
+1922;León;30;;H;1990;70;Relaciones Heterosexuales
+1923;León;22;;M;1997;20;Personas que se inyectan drogas
+1924;León;32;;H;1996;20;Personas que se inyectan drogas
+1925;León;55;;M;1997;50;Receptores de transfusión
+1926;León;34;;H;1997;70;Relaciones Heterosexuales
+1927;León;37;;H;1997;20;Personas que se inyectan drogas
+1928;León;45;;H;1997;70;Relaciones Heterosexuales
+1929;León;30;;H;1997;20;Personas que se inyectan drogas
+1930;León;28;;M;1997;70;Relaciones Heterosexuales
+1931;León;63;;M;1997;70;Relaciones Heterosexuales
+1932;León;0;2;H;1997;60;Hijo de madre a riesgo
+1933;León;40;;H;1997;20;Personas que se inyectan drogas
+1934;León;25;;H;1990;20;Personas que se inyectan drogas
+1935;León;33;;H;1997;70;Relaciones Heterosexuales
+1936;León;38;;H;1997;20;Personas que se inyectan drogas
+1937;León;46;;H;1997;70;Relaciones Heterosexuales
+1938;León;34;;H;1997;20;Personas que se inyectan drogas
+1939;León;33;;M;1996;20;Personas que se inyectan drogas
+1940;León;35;;H;1997;70;Relaciones Heterosexuales
+1941;León;28;;H;1997;70;Relaciones Heterosexuales
+1942;León;47;;H;1997;10;Varones homosexuales / bisexuales
+1943;León;52;;H;1997;50;Receptores de transfusión
+1944;León;32;;M;1996;40;Receptores de hemoderivados
+1945;León;31;;H;1997;70;Relaciones Heterosexuales
+1946;León;38;;H;1997;20;Personas que se inyectan drogas
+1947;León;30;;H;1997;20;Personas que se inyectan drogas
+1948;León;26;;H;1997;20;Personas que se inyectan drogas
+1949;León;45;;H;1998;20;Personas que se inyectan drogas
+1950;León;27;;M;1995;20;Personas que se inyectan drogas
+1951;León;27;;H;1997;20;Personas que se inyectan drogas
+1952;Valladolid;31;;H;1998;10;Varones homosexuales / bisexuales
+1953;León;28;;H;1997;20;Personas que se inyectan drogas
+1954;León;31;;M;1998;70;Relaciones Heterosexuales
+1955;León;33;;H;1998;20;Personas que se inyectan drogas
+1956;León;46;;H;1997;10;Varones homosexuales / bisexuales
+1957;León;34;;H;1998;20;Personas que se inyectan drogas
+1958;León;38;;H;1998;20;Personas que se inyectan drogas
+1959;León;26;;M;1999;20;Personas que se inyectan drogas
+1960;León;27;;H;1998;20;Personas que se inyectan drogas
+1961;León;32;;H;1998;80;Grupo de riesgo desconocido
+1962;León;28;;H;1999;20;Personas que se inyectan drogas
+1963;León;40;;H;1999;70;Relaciones Heterosexuales
+1964;León;30;;M;1999;20;Personas que se inyectan drogas
+1965;León;31;;H;1999;20;Personas que se inyectan drogas
+1966;León;35;;H;1999;10;Varones homosexuales / bisexuales
+1967;Palencia;35;;H;1991;20;Personas que se inyectan drogas
+1968;Palencia;27;;H;1990;20;Personas que se inyectan drogas
+1969;Palencia;20;;H;1991;10;Varones homosexuales / bisexuales
+1970;Palencia;32;;H;1991;20;Personas que se inyectan drogas
+1971;Palencia;20;;H;1987;20;Personas que se inyectan drogas
+1972;Palencia;29;;H;1989;10;Varones homosexuales / bisexuales
+1973;Palencia;29;;H;1991;20;Personas que se inyectan drogas
+1974;Valladolid;17;;M;1988;20;Personas que se inyectan drogas
+1975;Palencia;27;;H;1992;80;Grupo de riesgo desconocido
+1976;Palencia;35;;H;1992;20;Personas que se inyectan drogas
+1977;Palencia;25;;H;1991;20;Personas que se inyectan drogas
+1978;Palencia;28;;M;1992;20;Personas que se inyectan drogas
+1979;Palencia;26;;H;1991;20;Personas que se inyectan drogas
+1980;Palencia;29;;H;1991;20;Personas que se inyectan drogas
+1981;Palencia;25;;H;1991;20;Personas que se inyectan drogas
+1982;Palencia;31;;H;1992;80;Grupo de riesgo desconocido
+1983;Palencia;30;;H;1992;20;Personas que se inyectan drogas
+1984;Palencia;30;;H;1991;20;Personas que se inyectan drogas
+1985;Palencia;30;;H;1992;20;Personas que se inyectan drogas
+1986;Palencia;31;;H;1992;20;Personas que se inyectan drogas
+1987;Palencia;27;;M;1992;20;Personas que se inyectan drogas
+1988;Palencia;25;;H;1992;20;Personas que se inyectan drogas
+1989;Palencia;31;;H;1992;20;Personas que se inyectan drogas
+1990;Palencia;27;;H;1992;20;Personas que se inyectan drogas
+1991;Palencia;25;;H;1990;20;Personas que se inyectan drogas
+1992;Palencia;23;;M;1992;20;Personas que se inyectan drogas
+1993;Palencia;27;;H;1992;20;Personas que se inyectan drogas
+1994;Palencia;31;;H;1992;20;Personas que se inyectan drogas
+1995;Palencia;24;;H;1992;20;Personas que se inyectan drogas
+1996;León;35;;M;1990;20;Personas que se inyectan drogas
+1997;Palencia;33;;H;1993;20;Personas que se inyectan drogas
+1998;Palencia;24;;H;1993;20;Personas que se inyectan drogas
+1999;Palencia;23;;H;1993;20;Personas que se inyectan drogas
+2000;Palencia;24;;M;1991;20;Personas que se inyectan drogas
+2001;Palencia;21;;H;1989;20;Personas que se inyectan drogas
+2002;Palencia;32;;M;1990;20;Personas que se inyectan drogas
+2003;Palencia;32;;H;1989;20;Personas que se inyectan drogas
+2004;Palencia;31;;H;1993;20;Personas que se inyectan drogas
+2005;Palencia;33;;H;1988;20;Personas que se inyectan drogas
+2006;Palencia;26;;M;1989;20;Personas que se inyectan drogas
+2007;Palencia;32;;H;1991;20;Personas que se inyectan drogas
+2008;Palencia;54;;H;1993;70;Relaciones Heterosexuales
+2009;Palencia;32;;H;1993;20;Personas que se inyectan drogas
+2010;Palencia;27;;H;1993;20;Personas que se inyectan drogas
+2011;Palencia;28;;H;1993;20;Personas que se inyectan drogas
+2012;Palencia;31;;H;1993;20;Personas que se inyectan drogas
+2013;Palencia;23;;M;1993;70;Relaciones Heterosexuales
+2014;Palencia;33;;H;1993;20;Personas que se inyectan drogas
+2015;Palencia;49;;H;1993;70;Relaciones Heterosexuales
+2016;Palencia;27;;H;1993;20;Personas que se inyectan drogas
+2017;Palencia;30;;H;1993;10;Varones homosexuales / bisexuales
+2018;Palencia;32;;H;1993;20;Personas que se inyectan drogas
+2019;Palencia;27;;H;1993;20;Personas que se inyectan drogas
+2020;Palencia;37;;H;1993;20;Personas que se inyectan drogas
+2021;Palencia;44;;H;1993;80;Grupo de riesgo desconocido
+2022;Palencia;52;;H;1994;70;Relaciones Heterosexuales
+2023;Palencia;35;;H;1993;20;Personas que se inyectan drogas
+2024;Palencia;28;;H;1993;20;Personas que se inyectan drogas
+2025;Palencia;36;;M;1994;20;Personas que se inyectan drogas
+2026;Palencia;29;;H;1994;20;Personas que se inyectan drogas
+2027;Palencia;33;;H;1994;20;Personas que se inyectan drogas
+2028;Palencia;31;;H;1987;20;Personas que se inyectan drogas
+2029;Palencia;28;;H;1994;20;Personas que se inyectan drogas
+2030;Palencia;39;;H;1994;70;Relaciones Heterosexuales
+2031;Palencia;47;;H;1994;70;Relaciones Heterosexuales
+2032;Palencia;40;;H;1994;20;Personas que se inyectan drogas
+2033;Palencia;29;;H;1989;10;Varones homosexuales / bisexuales
+2034;Palencia;29;;H;1995;70;Relaciones Heterosexuales
+2035;Palencia;27;;H;1994;20;Personas que se inyectan drogas
+2036;Palencia;26;;H;1994;20;Personas que se inyectan drogas
+2037;Palencia;27;;H;1994;70;Relaciones Heterosexuales
+2038;Palencia;29;;H;1994;20;Personas que se inyectan drogas
+2039;Palencia;32;;H;1994;20;Personas que se inyectan drogas
+2040;Palencia;31;;H;1994;20;Personas que se inyectan drogas
+2041;Palencia;34;;H;1994;20;Personas que se inyectan drogas
+2042;Palencia;33;;M;1994;70;Relaciones Heterosexuales
+2043;Palencia;30;;H;1994;20;Personas que se inyectan drogas
+2044;Palencia;29;;H;1995;20;Personas que se inyectan drogas
+2045;Palencia;26;;H;1994;20;Personas que se inyectan drogas
+2046;Palencia;27;;H;1995;20;Personas que se inyectan drogas
+2047;Palencia;27;;H;1995;20;Personas que se inyectan drogas
+2048;Palencia;26;;H;1995;20;Personas que se inyectan drogas
+2049;Palencia;27;;H;1995;20;Personas que se inyectan drogas
+2050;Palencia;22;;M;1995;70;Relaciones Heterosexuales
+2051;Palencia;30;;M;1995;20;Personas que se inyectan drogas
+2052;Palencia;27;;M;1995;70;Relaciones Heterosexuales
+2053;Palencia;33;;H;1995;20;Personas que se inyectan drogas
+2054;Palencia;50;;H;1995;20;Personas que se inyectan drogas
+2055;Palencia;39;;H;1995;10;Varones homosexuales / bisexuales
+2056;Palencia;35;;H;1995;70;Relaciones Heterosexuales
+2057;Palencia;33;;H;1987;20;Personas que se inyectan drogas
+2058;Palencia;30;;M;1994;20;Personas que se inyectan drogas
+2059;Palencia;30;;H;1996;20;Personas que se inyectan drogas
+2060;Palencia;33;;M;1996;20;Personas que se inyectan drogas
+2061;Palencia;27;;H;1996;20;Personas que se inyectan drogas
+2062;Palencia;30;;H;1996;20;Personas que se inyectan drogas
+2063;Palencia;43;;M;1996;70;Relaciones Heterosexuales
+2064;Palencia;24;;H;1996;20;Personas que se inyectan drogas
+2065;Palencia;32;;H;1996;20;Personas que se inyectan drogas
+2066;Palencia;36;;H;1996;10;Varones homosexuales / bisexuales
+2067;Palencia;24;;H;1996;20;Personas que se inyectan drogas
+2068;Palencia;30;;H;1996;20;Personas que se inyectan drogas
+2069;Palencia;31;;H;1996;80;Grupo de riesgo desconocido
+2070;Palencia;34;;H;1996;20;Personas que se inyectan drogas
+2071;Palencia;40;;H;1996;70;Relaciones Heterosexuales
+2072;Palencia;40;;H;1996;20;Personas que se inyectan drogas
+2073;Palencia;31;;H;1996;20;Personas que se inyectan drogas
+2074;Palencia;42;;H;1996;70;Relaciones Heterosexuales
+2075;Palencia;37;;H;1996;20;Personas que se inyectan drogas
+2076;Palencia;33;;H;1996;20;Personas que se inyectan drogas
+2077;Palencia;36;;M;1996;20;Personas que se inyectan drogas
+2078;Palencia;27;;H;1996;20;Personas que se inyectan drogas
+2079;Palencia;38;;M;1996;70;Relaciones Heterosexuales
+2080;Palencia;29;;H;1996;20;Personas que se inyectan drogas
+2081;Palencia;33;;H;1997;20;Personas que se inyectan drogas
+2082;Palencia;33;;H;1997;20;Personas que se inyectan drogas
+2083;Palencia;31;;H;1997;20;Personas que se inyectan drogas
+2084;Palencia;37;;H;1997;20;Personas que se inyectan drogas
+2085;Palencia;37;;H;1997;20;Personas que se inyectan drogas
+2086;Palencia;29;;H;1996;20;Personas que se inyectan drogas
+2087;Palencia;37;;H;1997;20;Personas que se inyectan drogas
+2088;Palencia;26;;H;1997;20;Personas que se inyectan drogas
+2089;Palencia;33;;H;1994;70;Relaciones Heterosexuales
+2090;Palencia;35;;H;1997;10;Varones homosexuales / bisexuales
+2091;Palencia;28;;H;1994;20;Personas que se inyectan drogas
+2092;Palencia;25;;M;1997;70;Relaciones Heterosexuales
+2093;Palencia;21;;M;1992;70;Relaciones Heterosexuales
+2094;Palencia;37;;H;1996;70;Relaciones Heterosexuales
+2095;Palencia;45;;H;1997;30;Personas que se inyectan drogas / Varones homo/bisexuales
+2096;Palencia;37;;H;1997;70;Relaciones Heterosexuales
+2097;Valladolid;25;;H;1997;20;Personas que se inyectan drogas
+2098;Palencia;39;;H;1998;20;Personas que se inyectan drogas
+2099;Palencia;33;;H;1998;20;Personas que se inyectan drogas
+2100;Palencia;37;;H;1998;20;Personas que se inyectan drogas
+2101;Palencia;36;;M;1998;70;Relaciones Heterosexuales
+2102;Palencia;43;;H;1998;20;Personas que se inyectan drogas
+2103;Palencia;32;;H;1998;20;Personas que se inyectan drogas
+2104;Palencia;31;;H;1996;20;Personas que se inyectan drogas
+2105;Palencia;33;;H;1998;20;Personas que se inyectan drogas
+2106;Palencia;39;;M;1998;20;Personas que se inyectan drogas
+2107;Palencia;37;;H;1995;20;Personas que se inyectan drogas
+2108;Valladolid;37;;H;1998;20;Personas que se inyectan drogas
+2109;Palencia;33;;H;1995;20;Personas que se inyectan drogas
+2110;Palencia;29;;M;1999;20;Personas que se inyectan drogas
+2111;Palencia;30;;H;1998;10;Varones homosexuales / bisexuales
+2112;Palencia;36;;H;1999;70;Relaciones Heterosexuales
+2113;Palencia;40;;H;1999;70;Relaciones Heterosexuales
+2114;Salamanca;28;;H;1985;20;Personas que se inyectan drogas
+2115;Salamanca;27;;H;1986;20;Personas que se inyectan drogas
+2116;Salamanca;36;;H;1987;10;Varones homosexuales / bisexuales
+2117;Salamanca;42;;H;1986;30;Personas que se inyectan drogas / Varones homo/bisexuales
+2118;Salamanca;31;;H;1986;20;Personas que se inyectan drogas
+2119;Salamanca;30;;H;1987;20;Personas que se inyectan drogas
+2120;Zamora;64;;H;1987;40;Receptores de hemoderivados
+2121;Salamanca;52;;H;1987;20;Personas que se inyectan drogas
+2122;Zamora;28;;H;1988;80;Grupo de riesgo desconocido
+2123;Salamanca;26;;H;1989;20;Personas que se inyectan drogas
+2124;Salamanca;36;;H;1990;70;Relaciones Heterosexuales
+2125;Salamanca;24;;M;1990;20;Personas que se inyectan drogas
+2126;Salamanca;30;;H;1991;30;Personas que se inyectan drogas / Varones homo/bisexuales
+2127;Salamanca;34;;H;1991;20;Personas que se inyectan drogas
+2128;Salamanca;27;;H;;20;Personas que se inyectan drogas
+2129;Salamanca;64;;H;;80;Grupo de riesgo desconocido
+2130;Salamanca;24;;H;1989;20;Personas que se inyectan drogas
+2131;Salamanca;28;;H;;20;Personas que se inyectan drogas
+2132;Salamanca;30;;H;1991;20;Personas que se inyectan drogas
+2133;Zamora;27;;H;1990;80;Grupo de riesgo desconocido
+2134;Salamanca;45;;H;1989;20;Personas que se inyectan drogas
+2135;Salamanca;26;;H;1991;20;Personas que se inyectan drogas
+2136;Salamanca;34;;H;1989;20;Personas que se inyectan drogas
+2137;Zamora;28;;H;1987;20;Personas que se inyectan drogas
+2138;Salamanca;24;;H;1990;30;Personas que se inyectan drogas / Varones homo/bisexuales
+2139;Salamanca;25;;M;1991;20;Personas que se inyectan drogas
+2140;Valladolid;25;;M;1987;20;Personas que se inyectan drogas
+2141;Salamanca;30;;H;1989;20;Personas que se inyectan drogas
+2142;Salamanca;22;;H;1990;20;Personas que se inyectan drogas
+2143;Salamanca;27;;H;1989;20;Personas que se inyectan drogas
+2144;Salamanca;33;;H;1990;20;Personas que se inyectan drogas
+2145;Salamanca;25;;H;1989;20;Personas que se inyectan drogas
+2146;Salamanca;21;;H;1987;20;Personas que se inyectan drogas
+2147;Salamanca;26;;H;1989;20;Personas que se inyectan drogas
+2148;Salamanca;29;;H;1990;30;Personas que se inyectan drogas / Varones homo/bisexuales
+2149;Salamanca;23;;M;1990;20;Personas que se inyectan drogas
+2150;Salamanca;25;;H;1991;20;Personas que se inyectan drogas
+2151;Zamora;36;;H;1991;20;Personas que se inyectan drogas
+2152;Salamanca;34;;H;1991;20;Personas que se inyectan drogas
+2153;León;54;;M;1990;50;Receptores de transfusión
+2154;Salamanca;39;;H;1990;10;Varones homosexuales / bisexuales
+2155;Salamanca;24;;H;1989;20;Personas que se inyectan drogas
+2156;Salamanca;36;;H;1988;20;Personas que se inyectan drogas
+2157;Salamanca;36;;H;1991;20;Personas que se inyectan drogas
+2158;Salamanca;25;;M;1988;20;Personas que se inyectan drogas
+2159;Zamora;30;;H;1989;20;Personas que se inyectan drogas
+2160;Salamanca;33;;M;1991;20;Personas que se inyectan drogas
+2161;Salamanca;31;;H;1990;20;Personas que se inyectan drogas
+2162;Salamanca;31;;H;1991;20;Personas que se inyectan drogas
+2163;Salamanca;29;;H;1991;10;Varones homosexuales / bisexuales
+2164;Salamanca;26;;H;1991;20;Personas que se inyectan drogas
+2165;Salamanca;32;;H;1990;20;Personas que se inyectan drogas
+2166;Salamanca;25;;H;1988;20;Personas que se inyectan drogas
+2167;Salamanca;32;;H;1992;70;Relaciones Heterosexuales
+2168;Salamanca;26;;H;1991;20;Personas que se inyectan drogas
+2169;Salamanca;24;;H;1992;20;Personas que se inyectan drogas
+2170;Salamanca;30;;H;1992;30;Personas que se inyectan drogas / Varones homo/bisexuales
+2171;Salamanca;30;;H;1992;20;Personas que se inyectan drogas
+2172;Salamanca;32;;H;1996;20;Personas que se inyectan drogas
+2173;Salamanca;40;;H;1993;10;Varones homosexuales / bisexuales
+2174;Salamanca;33;;H;1993;20;Personas que se inyectan drogas
+2175;Salamanca;35;;H;1993;20;Personas que se inyectan drogas
+2176;Salamanca;31;;H;1993;20;Personas que se inyectan drogas
+2177;Salamanca;29;;H;1993;20;Personas que se inyectan drogas
+2178;Salamanca;29;;H;1991;20;Personas que se inyectan drogas
+2179;Salamanca;30;;H;1992;30;Personas que se inyectan drogas / Varones homo/bisexuales
+2180;Salamanca;30;;M;1992;20;Personas que se inyectan drogas
+2181;Salamanca;38;;M;1992;70;Relaciones Heterosexuales
+2182;Salamanca;28;;H;1993;20;Personas que se inyectan drogas
+2183;Salamanca;27;;H;1993;20;Personas que se inyectan drogas
+2184;Salamanca;17;;M;1993;20;Personas que se inyectan drogas
+2185;Salamanca;25;;M;1993;20;Personas que se inyectan drogas
+2186;Zamora;35;;H;1991;20;Personas que se inyectan drogas
+2187;Salamanca;41;;H;1993;80;Grupo de riesgo desconocido
+2188;Salamanca;99;;M;1992;20;Personas que se inyectan drogas
+2189;Salamanca;24;;H;1990;20;Personas que se inyectan drogas
+2190;Salamanca;27;;H;1992;20;Personas que se inyectan drogas
+2191;Salamanca;35;;M;1992;20;Personas que se inyectan drogas
+2192;Salamanca;42;;H;1993;10;Varones homosexuales / bisexuales
+2193;Salamanca;33;;H;1993;20;Personas que se inyectan drogas
+2194;Salamanca;30;;H;1992;20;Personas que se inyectan drogas
+2195;Salamanca;30;;H;1992;20;Personas que se inyectan drogas
+2196;Salamanca;27;;M;1993;20;Personas que se inyectan drogas
+2197;Salamanca;32;;H;1993;20;Personas que se inyectan drogas
+2198;Salamanca;62;;H;1992;20;Personas que se inyectan drogas
+2199;Salamanca;19;;H;1994;20;Personas que se inyectan drogas
+2200;Salamanca;1;;M;1988;60;Hijo de madre a riesgo
+2201;Zamora;0;2;H;1988;60;Hijo de madre a riesgo
+2202;Salamanca;1;;H;1991;60;Hijo de madre a riesgo
+2203;Salamanca;11;;H;1988;40;Receptores de hemoderivados
+2204;Salamanca;58;;M;1993;40;Receptores de hemoderivados
+2205;Salamanca;28;;M;1994;20;Personas que se inyectan drogas
+2206;Zamora;28;;H;1994;20;Personas que se inyectan drogas
+2207;Salamanca;59;;H;1994;70;Relaciones Heterosexuales
+2208;Salamanca;17;;H;1994;40;Receptores de hemoderivados
+2209;Salamanca;26;;H;1992;20;Personas que se inyectan drogas
+2210;Salamanca;37;;H;1994;70;Relaciones Heterosexuales
+2211;Salamanca;34;;H;1994;20;Personas que se inyectan drogas
+2212;Salamanca;30;;H;1993;20;Personas que se inyectan drogas
+2213;Salamanca;27;;M;1994;70;Relaciones Heterosexuales
+2214;Salamanca;30;;H;1994;20;Personas que se inyectan drogas
+2215;Salamanca;30;;H;1994;20;Personas que se inyectan drogas
+2216;Salamanca;28;;H;1994;20;Personas que se inyectan drogas
+2217;Salamanca;29;;H;1994;20;Personas que se inyectan drogas
+2218;Salamanca;27;;H;1994;20;Personas que se inyectan drogas
+2219;Salamanca;37;;H;1994;20;Personas que se inyectan drogas
+2220;Salamanca;32;;H;1994;20;Personas que se inyectan drogas
+2221;Salamanca;34;;H;1993;20;Personas que se inyectan drogas
+2222;Zamora;27;;M;1994;70;Relaciones Heterosexuales
+2223;Salamanca;28;;H;1994;20;Personas que se inyectan drogas
+2224;Salamanca;32;;H;1993;80;Grupo de riesgo desconocido
+2225;Salamanca;28;;H;1994;20;Personas que se inyectan drogas
+2226;Salamanca;26;;H;1994;20;Personas que se inyectan drogas
+2227;Salamanca;32;;H;1994;20;Personas que se inyectan drogas
+2228;Salamanca;30;;H;1994;20;Personas que se inyectan drogas
+2229;Salamanca;20;;H;1994;30;Personas que se inyectan drogas / Varones homo/bisexuales
+2230;Salamanca;32;;H;1994;20;Personas que se inyectan drogas
+2231;Zamora;30;;M;1994;20;Personas que se inyectan drogas
+2232;Salamanca;29;;H;1994;20;Personas que se inyectan drogas
+2233;Salamanca;27;;H;1994;20;Personas que se inyectan drogas
+2234;Salamanca;32;;H;1994;20;Personas que se inyectan drogas
+2235;Salamanca;24;;M;1994;70;Relaciones Heterosexuales
+2236;Salamanca;26;;H;1994;20;Personas que se inyectan drogas
+2237;Salamanca;34;;H;1994;20;Personas que se inyectan drogas
+2238;Salamanca;40;;M;1995;80;Grupo de riesgo desconocido
+2239;Salamanca;25;;M;1994;20;Personas que se inyectan drogas
+2240;Salamanca;30;;H;1995;20;Personas que se inyectan drogas
+2241;Salamanca;34;;H;1993;20;Personas que se inyectan drogas
+2242;Salamanca;28;;H;1995;20;Personas que se inyectan drogas
+2243;Salamanca;28;;H;1995;20;Personas que se inyectan drogas
+2244;Salamanca;23;;M;1995;70;Relaciones Heterosexuales
+2245;Salamanca;34;;H;1995;20;Personas que se inyectan drogas
+2246;Salamanca;35;;H;1995;20;Personas que se inyectan drogas
+2247;Salamanca;19;;H;1995;20;Personas que se inyectan drogas
+2248;Salamanca;41;;H;1995;70;Relaciones Heterosexuales
+2249;Salamanca;28;;H;1995;20;Personas que se inyectan drogas
+2250;Salamanca;34;;H;1995;20;Personas que se inyectan drogas
+2251;Salamanca;25;;H;1995;20;Personas que se inyectan drogas
+2252;Salamanca;32;;H;1995;20;Personas que se inyectan drogas
+2253;Salamanca;28;;H;1995;20;Personas que se inyectan drogas
+2254;Salamanca;54;;H;1995;70;Relaciones Heterosexuales
+2255;Salamanca;30;;H;1995;20;Personas que se inyectan drogas
+2256;Salamanca;59;;M;1994;70;Relaciones Heterosexuales
+2257;Salamanca;30;;H;1995;20;Personas que se inyectan drogas
+2258;Salamanca;34;;H;1995;20;Personas que se inyectan drogas
+2259;Salamanca;28;;H;1995;20;Personas que se inyectan drogas
+2260;Salamanca;56;;M;1995;20;Personas que se inyectan drogas
+2261;Salamanca;32;;H;1995;20;Personas que se inyectan drogas
+2262;Salamanca;42;;M;1995;20;Personas que se inyectan drogas
+2263;Salamanca;28;;H;1995;20;Personas que se inyectan drogas
+2264;Salamanca;35;;H;1995;20;Personas que se inyectan drogas
+2265;Salamanca;30;;H;1995;20;Personas que se inyectan drogas
+2266;Salamanca;33;;H;1995;20;Personas que se inyectan drogas
+2267;Salamanca;25;;M;1996;20;Personas que se inyectan drogas
+2268;Salamanca;42;;M;1996;20;Personas que se inyectan drogas
+2269;Salamanca;28;;H;1996;20;Personas que se inyectan drogas
+2270;Salamanca;26;;H;1996;20;Personas que se inyectan drogas
+2271;Salamanca;30;;H;1995;40;Receptores de hemoderivados
+2272;Salamanca;27;;M;1995;20;Personas que se inyectan drogas
+2273;Salamanca;33;;H;1996;20;Personas que se inyectan drogas
+2274;Salamanca;29;;H;1996;20;Personas que se inyectan drogas
+2275;Salamanca;36;;H;1996;20;Personas que se inyectan drogas
+2276;Salamanca;27;;M;1995;20;Personas que se inyectan drogas
+2277;Salamanca;27;;H;1994;20;Personas que se inyectan drogas
+2278;Salamanca;33;;H;1995;20;Personas que se inyectan drogas
+2279;Salamanca;30;;H;1996;20;Personas que se inyectan drogas
+2280;Salamanca;36;;H;1996;20;Personas que se inyectan drogas
+2281;Salamanca;29;;M;1995;70;Relaciones Heterosexuales
+2282;Salamanca;42;;H;1995;70;Relaciones Heterosexuales
+2283;Salamanca;32;;M;1995;20;Personas que se inyectan drogas
+2284;Salamanca;32;;M;1996;70;Relaciones Heterosexuales
+2285;Salamanca;30;;H;1996;20;Personas que se inyectan drogas
+2286;Salamanca;27;;H;1996;20;Personas que se inyectan drogas
+2287;Salamanca;30;;M;1996;20;Personas que se inyectan drogas
+2288;Salamanca;43;;H;1996;70;Relaciones Heterosexuales
+2289;Salamanca;35;;H;1996;20;Personas que se inyectan drogas
+2290;Salamanca;29;;H;1996;20;Personas que se inyectan drogas
+2291;Salamanca;29;;H;1995;20;Personas que se inyectan drogas
+2292;Salamanca;37;;M;1996;70;Relaciones Heterosexuales
+2293;Salamanca;33;;H;1996;20;Personas que se inyectan drogas
+2294;Valladolid;34;;H;1996;20;Personas que se inyectan drogas
+2295;Salamanca;32;;H;1996;70;Relaciones Heterosexuales
+2296;Salamanca;35;;H;1997;40;Receptores de hemoderivados
+2297;Salamanca;52;;H;1997;70;Relaciones Heterosexuales
+2298;León;26;;H;1996;20;Personas que se inyectan drogas
+2299;Salamanca;2;;H;1997;60;Hijo de madre a riesgo
+2300;Salamanca;30;;H;1996;20;Personas que se inyectan drogas
+2301;Salamanca;41;;H;1997;10;Varones homosexuales / bisexuales
+2302;Salamanca;0;6;H;1993;60;Hijo de madre a riesgo
+2303;Salamanca;5;;M;1996;60;Hijo de madre a riesgo
+2304;Zamora;1;;M;1994;60;Hijo de madre a riesgo
+2305;Salamanca;29;;H;1996;20;Personas que se inyectan drogas
+2306;Salamanca;27;;M;1997;20;Personas que se inyectan drogas
+2307;Salamanca;35;;H;1996;70;Relaciones Heterosexuales
+2308;Salamanca;23;;H;1994;20;Personas que se inyectan drogas
+2309;Salamanca;43;;H;1996;20;Personas que se inyectan drogas
+2310;Salamanca;34;;H;1995;20;Personas que se inyectan drogas
+2311;Salamanca;42;;H;1995;20;Personas que se inyectan drogas
+2312;Salamanca;35;;H;1996;20;Personas que se inyectan drogas
+2313;Salamanca;42;;H;1996;10;Varones homosexuales / bisexuales
+2314;Salamanca;30;;H;1996;20;Personas que se inyectan drogas
+2315;Salamanca;27;;H;1997;20;Personas que se inyectan drogas
+2316;Salamanca;31;;H;1997;20;Personas que se inyectan drogas
+2317;Salamanca;29;;M;1996;20;Personas que se inyectan drogas
+2318;Salamanca;24;;H;1997;20;Personas que se inyectan drogas
+2319;Salamanca;28;;H;1994;20;Personas que se inyectan drogas
+2320;Salamanca;33;;H;1996;80;Grupo de riesgo desconocido
+2321;Salamanca;35;;H;1997;20;Personas que se inyectan drogas
+2322;Salamanca;28;;H;1997;20;Personas que se inyectan drogas
+2323;Salamanca;31;;H;1994;20;Personas que se inyectan drogas
+2324;Salamanca;43;;H;1997;70;Relaciones Heterosexuales
+2325;Salamanca;31;;H;1997;20;Personas que se inyectan drogas
+2326;Salamanca;34;;M;1996;70;Relaciones Heterosexuales
+2327;Salamanca;31;;H;1997;20;Personas que se inyectan drogas
+2328;Salamanca;28;;H;1997;20;Personas que se inyectan drogas
+2329;Salamanca;27;;H;1997;20;Personas que se inyectan drogas
+2330;Salamanca;36;;H;1997;70;Relaciones Heterosexuales
+2331;Salamanca;37;;H;1997;70;Relaciones Heterosexuales
+2332;Salamanca;34;;H;1997;20;Personas que se inyectan drogas
+2333;Salamanca;35;;M;1997;20;Personas que se inyectan drogas
+2334;Salamanca;23;;H;1997;20;Personas que se inyectan drogas
+2335;Salamanca;38;;H;1997;20;Personas que se inyectan drogas
+2336;Salamanca;33;;M;1997;70;Relaciones Heterosexuales
+2337;Salamanca;27;;H;1997;20;Personas que se inyectan drogas
+2338;Salamanca;65;;H;1997;70;Relaciones Heterosexuales
+2339;Salamanca;30;;M;1997;20;Personas que se inyectan drogas
+2340;Salamanca;0;5;M;1989;60;Hijo de madre a riesgo
+2341;Salamanca;0;5;M;1994;60;Hijo de madre a riesgo
+2342;Salamanca;10;;M;1997;60;Hijo de madre a riesgo
+2343;Salamanca;27;;M;1997;20;Personas que se inyectan drogas
+2344;Salamanca;35;;H;1997;20;Personas que se inyectan drogas
+2345;Salamanca;30;;H;1997;20;Personas que se inyectan drogas
+2346;Salamanca;32;;H;1997;20;Personas que se inyectan drogas
+2347;Salamanca;33;;H;1996;20;Personas que se inyectan drogas
+2348;Salamanca;34;;H;1998;20;Personas que se inyectan drogas
+2349;Salamanca;30;;H;1998;20;Personas que se inyectan drogas
+2350;Salamanca;31;;H;1997;10;Varones homosexuales / bisexuales
+2351;Salamanca;33;;M;1997;20;Personas que se inyectan drogas
+2352;Salamanca;39;;M;1997;20;Personas que se inyectan drogas
+2353;Salamanca;34;;M;1998;20;Personas que se inyectan drogas
+2354;Salamanca;40;;H;1998;70;Relaciones Heterosexuales
+2355;Salamanca;31;;H;1998;20;Personas que se inyectan drogas
+2356;Salamanca;29;;H;1998;20;Personas que se inyectan drogas
+2357;Salamanca;25;;M;1998;20;Personas que se inyectan drogas
+2358;Salamanca;31;;H;1998;20;Personas que se inyectan drogas
+2359;Salamanca;26;;H;1998;20;Personas que se inyectan drogas
+2360;Salamanca;39;;H;1998;80;Grupo de riesgo desconocido
+2361;Salamanca;32;;M;1998;70;Relaciones Heterosexuales
+2362;Salamanca;32;;H;1999;20;Personas que se inyectan drogas
+2363;Salamanca;27;;H;1998;20;Personas que se inyectan drogas
+2364;Salamanca;30;;H;1999;20;Personas que se inyectan drogas
+2365;Salamanca;28;;M;1998;70;Relaciones Heterosexuales
+2366;Salamanca;26;;H;1998;20;Personas que se inyectan drogas
+2367;Salamanca;46;;H;1999;10;Varones homosexuales / bisexuales
+2368;Salamanca;28;;H;1999;70;Relaciones Heterosexuales
+2369;Salamanca;36;;H;1999;20;Personas que se inyectan drogas
+2370;Salamanca;26;;H;1999;20;Personas que se inyectan drogas
+2371;Salamanca;35;;H;1999;20;Personas que se inyectan drogas
+2372;Salamanca;31;;H;1998;20;Personas que se inyectan drogas
+2373;Salamanca;36;;H;1999;70;Relaciones Heterosexuales
+2374;Salamanca;42;;H;1999;20;Personas que se inyectan drogas
+2375;Salamanca;36;;H;1999;20;Personas que se inyectan drogas
+2376;Salamanca;47;;H;1999;70;Relaciones Heterosexuales
+2377;Segovia;35;;H;1986;30;Personas que se inyectan drogas / Varones homo/bisexuales
+2378;Segovia;27;;H;1990;20;Personas que se inyectan drogas
+2379;Segovia;33;;H;1991;20;Personas que se inyectan drogas
+2380;Segovia;32;;H;1990;20;Personas que se inyectan drogas
+2381;Segovia;0;3;M;1991;60;Hijo de madre a riesgo
+2382;Segovia;24;;H;1991;70;Relaciones Heterosexuales
+2383;Segovia;41;;H;1992;20;Personas que se inyectan drogas
+2384;Segovia;30;;H;;80;Grupo de riesgo desconocido
+2385;Segovia;4;;H;1992;60;Hijo de madre a riesgo
+2386;Segovia;28;;H;1990;20;Personas que se inyectan drogas
+2387;Segovia;63;;M;1990;70;Relaciones Heterosexuales
+2388;Segovia;37;;H;1993;20;Personas que se inyectan drogas
+2389;Segovia;60;;H;1993;10;Varones homosexuales / bisexuales
+2390;Segovia;35;;M;1990;20;Personas que se inyectan drogas
+2391;Segovia;25;;H;1994;20;Personas que se inyectan drogas
+2392;Segovia;22;;M;1990;20;Personas que se inyectan drogas
+2393;Segovia;25;;H;1993;10;Varones homosexuales / bisexuales
+2394;Segovia;48;;M;1991;40;Receptores de hemoderivados
+2395;Segovia;32;;H;1991;20;Personas que se inyectan drogas
+2396;Segovia;57;;H;1994;80;Grupo de riesgo desconocido
+2397;Segovia;74;;M;1994;40;Receptores de hemoderivados
+2398;Segovia;41;;M;1994;70;Relaciones Heterosexuales
+2399;Segovia;36;;H;1990;20;Personas que se inyectan drogas
+2400;Segovia;29;;H;1991;70;Relaciones Heterosexuales
+2401;Segovia;28;;H;1994;20;Personas que se inyectan drogas
+2402;Segovia;51;;H;1995;70;Relaciones Heterosexuales
+2403;Segovia;48;;H;1995;30;Personas que se inyectan drogas / Varones homo/bisexuales
+2404;Segovia;40;;H;1995;20;Personas que se inyectan drogas
+2405;Segovia;32;;M;1995;70;Relaciones Heterosexuales
+2406;Segovia;28;;M;1995;20;Personas que se inyectan drogas
+2407;Valladolid;0;3;M;1996;60;Hijo de madre a riesgo
+2408;Segovia;28;;H;1996;70;Relaciones Heterosexuales
+2409;Segovia;46;;H;1996;80;Grupo de riesgo desconocido
+2410;Segovia;30;;H;1996;20;Personas que se inyectan drogas
+2411;Segovia;31;;H;1996;20;Personas que se inyectan drogas
+2412;Segovia;38;;H;1997;20;Personas que se inyectan drogas
+2413;Segovia;57;;H;1997;20;Personas que se inyectan drogas
+2414;Segovia;17;;H;1997;20;Personas que se inyectan drogas
+2415;Segovia;24;;H;1997;20;Personas que se inyectan drogas
+2416;Segovia;27;;H;1997;20;Personas que se inyectan drogas
+2417;Segovia;34;;H;1997;20;Personas que se inyectan drogas
+2418;Segovia;63;;H;1997;10;Varones homosexuales / bisexuales
+2419;Segovia;32;;H;1997;20;Personas que se inyectan drogas
+2420;Segovia;19;;M;1998;20;Personas que se inyectan drogas
+2421;Segovia;42;;H;1998;10;Varones homosexuales / bisexuales
+2422;Segovia;33;;M;1998;20;Personas que se inyectan drogas
+2423;Segovia;30;;M;1998;20;Personas que se inyectan drogas
+2424;Segovia;62;;H;1998;70;Relaciones Heterosexuales
+2425;Segovia;50;;H;1999;70;Relaciones Heterosexuales
+2426;Segovia;42;;H;1999;70;Relaciones Heterosexuales
+2427;Soria;32;;H;1988;70;Relaciones Heterosexuales
+2428;Soria;26;;H;1988;20;Personas que se inyectan drogas
+2429;Soria;25;;H;1989;20;Personas que se inyectan drogas
+2430;Soria;28;;H;1990;20;Personas que se inyectan drogas
+2431;Soria;27;;H;1990;20;Personas que se inyectan drogas
+2432;Soria;26;;H;1990;20;Personas que se inyectan drogas
+2433;Soria;30;;H;1990;20;Personas que se inyectan drogas
+2434;Soria;30;;H;1991;20;Personas que se inyectan drogas
+2435;Soria;35;;H;1992;20;Personas que se inyectan drogas
+2436;Soria;26;;H;1992;20;Personas que se inyectan drogas
+2437;Soria;32;;H;1992;20;Personas que se inyectan drogas
+2438;Soria;36;;H;1993;20;Personas que se inyectan drogas
+2439;Soria;31;;H;1992;20;Personas que se inyectan drogas
+2440;Soria;32;;H;1993;20;Personas que se inyectan drogas
+2441;Soria;33;;H;1993;20;Personas que se inyectan drogas
+2442;Soria;28;;H;1994;20;Personas que se inyectan drogas
+2443;Soria;26;;H;1994;20;Personas que se inyectan drogas
+2444;Soria;39;;H;1994;20;Personas que se inyectan drogas
+2445;Soria;27;;H;1994;20;Personas que se inyectan drogas
+2446;Soria;71;;H;1994;70;Relaciones Heterosexuales
+2447;Soria;32;;H;1994;20;Personas que se inyectan drogas
+2448;Soria;39;;H;1995;70;Relaciones Heterosexuales
+2449;Soria;30;;H;1995;20;Personas que se inyectan drogas
+2450;Soria;53;;H;1996;70;Relaciones Heterosexuales
+2451;Soria;43;;H;1996;20;Personas que se inyectan drogas
+2452;Soria;35;;H;1996;70;Relaciones Heterosexuales
+2453;Soria;37;;H;1996;20;Personas que se inyectan drogas
+2454;Soria;31;;H;1996;20;Personas que se inyectan drogas
+2455;Soria;35;;H;1996;80;Grupo de riesgo desconocido
+2456;Soria;33;;H;1996;20;Personas que se inyectan drogas
+2457;Soria;41;;H;1997;70;Relaciones Heterosexuales
+2458;Soria;54;;H;1997;80;Grupo de riesgo desconocido
+2459;Soria;31;;H;1997;20;Personas que se inyectan drogas
+2460;Soria;44;;H;1997;20;Personas que se inyectan drogas
+2461;Soria;43;;H;1998;20;Personas que se inyectan drogas
+2462;Soria;30;;H;1998;20;Personas que se inyectan drogas
+2463;Soria;30;;H;1998;20;Personas que se inyectan drogas
+2464;Soria;41;;H;1999;10;Varones homosexuales / bisexuales
+2465;Soria;38;;H;1999;20;Personas que se inyectan drogas
+2466;Soria;70;;H;1999;70;Relaciones Heterosexuales
+2467;Soria;50;;H;1999;70;Relaciones Heterosexuales
+2468;Valladolid;56;;H;1984;40;Receptores de hemoderivados
+2469;Valladolid;28;;M;1982;20;Personas que se inyectan drogas
+2470;Valladolid;30;;H;1986;40;Receptores de hemoderivados
+2471;Valladolid;1;;H;1988;60;Hijo de madre a riesgo
+2472;Valladolid;34;;H;1987;10;Varones homosexuales / bisexuales
+2473;Valladolid;32;;M;1987;20;Personas que se inyectan drogas
+2474;Valladolid;26;;M;1989;20;Personas que se inyectan drogas
+2475;Valladolid;24;;H;1987;20;Personas que se inyectan drogas
+2476;Valladolid;3;;M;1986;60;Hijo de madre a riesgo
+2477;Valladolid;43;;H;1988;10;Varones homosexuales / bisexuales
+2478;Valladolid;32;;H;1988;20;Personas que se inyectan drogas
+2479;Valladolid;3;;M;1989;60;Hijo de madre a riesgo
+2480;Palencia;22;;M;1989;20;Personas que se inyectan drogas
+2481;Valladolid;24;;H;1987;20;Personas que se inyectan drogas
+2482;Valladolid;27;;H;1989;20;Personas que se inyectan drogas
+2483;Valladolid;28;;H;1989;20;Personas que se inyectan drogas
+2484;Valladolid;25;;H;1989;20;Personas que se inyectan drogas
+2485;Valladolid;21;;M;1990;20;Personas que se inyectan drogas
+2486;Valladolid;31;;H;1989;10;Varones homosexuales / bisexuales
+2487;Valladolid;28;;H;1989;20;Personas que se inyectan drogas
+2488;Valladolid;31;;H;1989;20;Personas que se inyectan drogas
+2489;Valladolid;26;;M;1989;70;Relaciones Heterosexuales
+2490;Valladolid;32;;H;1989;20;Personas que se inyectan drogas
+2491;Valladolid;27;;H;1989;20;Personas que se inyectan drogas
+2492;Valladolid;29;;H;1987;20;Personas que se inyectan drogas
+2493;Valladolid;46;;H;1989;20;Personas que se inyectan drogas
+2494;Valladolid;28;;H;1988;40;Receptores de hemoderivados
+2495;Valladolid;25;;M;1990;20;Personas que se inyectan drogas
+2496;Valladolid;26;;H;1990;20;Personas que se inyectan drogas
+2497;Valladolid;29;;H;1990;20;Personas que se inyectan drogas
+2498;Valladolid;19;;H;1987;40;Receptores de hemoderivados
+2499;Valladolid;12;;H;1988;40;Receptores de hemoderivados
+2500;Valladolid;31;;H;1989;40;Receptores de hemoderivados
+2501;Valladolid;29;;H;1988;40;Receptores de hemoderivados
+2502;Valladolid;29;;H;1989;40;Receptores de hemoderivados
+2503;Valladolid;31;;H;1990;20;Personas que se inyectan drogas
+2504;Valladolid;0;3;M;1990;60;Hijo de madre a riesgo
+2505;Valladolid;35;;H;1990;20;Personas que se inyectan drogas
+2506;Valladolid;23;;M;1989;20;Personas que se inyectan drogas
+2507;Valladolid;31;;H;1990;20;Personas que se inyectan drogas
+2508;Valladolid;34;;M;1987;20;Personas que se inyectan drogas
+2509;Valladolid;28;;H;1990;20;Personas que se inyectan drogas
+2510;Valladolid;27;;M;1997;20;Personas que se inyectan drogas
+2511;Valladolid;27;;H;1991;20;Personas que se inyectan drogas
+2512;Valladolid;27;;H;1991;20;Personas que se inyectan drogas
+2513;Valladolid;23;;M;1990;20;Personas que se inyectan drogas
+2514;Valladolid;33;;H;1991;20;Personas que se inyectan drogas
+2515;Valladolid;31;;H;1991;20;Personas que se inyectan drogas
+2516;Valladolid;26;;M;1991;20;Personas que se inyectan drogas
+2517;Valladolid;27;;H;1991;20;Personas que se inyectan drogas
+2518;Burgos;5;;M;1992;60;Hijo de madre a riesgo
+2519;Valladolid;26;;H;1991;20;Personas que se inyectan drogas
+2520;Valladolid;26;;H;1992;20;Personas que se inyectan drogas
+2521;Valladolid;33;;H;1992;20;Personas que se inyectan drogas
+2522;Valladolid;26;;H;1992;20;Personas que se inyectan drogas
+2523;Valladolid;25;;H;1992;20;Personas que se inyectan drogas
+2524;Valladolid;25;;H;1991;40;Receptores de hemoderivados
+2525;Valladolid;39;;H;1992;40;Receptores de hemoderivados
+2526;Valladolid;28;;M;1992;20;Personas que se inyectan drogas
+2527;Valladolid;27;;H;1992;20;Personas que se inyectan drogas
+2528;Valladolid;29;;H;1992;20;Personas que se inyectan drogas
+2529;Valladolid;40;;H;1992;20;Personas que se inyectan drogas
+2530;Valladolid;6;;H;1992;60;Hijo de madre a riesgo
+2531;Valladolid;34;;H;1992;20;Personas que se inyectan drogas
+2532;Valladolid;32;;H;1990;10;Varones homosexuales / bisexuales
+2533;Valladolid;30;;H;1992;20;Personas que se inyectan drogas
+2534;Valladolid;28;;H;1990;20;Personas que se inyectan drogas
+2535;Valladolid;49;;H;1992;80;Grupo de riesgo desconocido
+2536;Valladolid;29;;H;1993;20;Personas que se inyectan drogas
+2537;Valladolid;30;;H;1991;20;Personas que se inyectan drogas
+2538;Valladolid;29;;H;1991;20;Personas que se inyectan drogas
+2539;Valladolid;35;;H;1990;20;Personas que se inyectan drogas
+2540;Valladolid;30;;M;1993;20;Personas que se inyectan drogas
+2541;Burgos;4;;H;1993;60;Hijo de madre a riesgo
+2542;Valladolid;33;;H;1993;10;Varones homosexuales / bisexuales
+2543;Valladolid;0;4;H;1993;60;Hijo de madre a riesgo
+2544;Valladolid;30;;H;1993;20;Personas que se inyectan drogas
+2545;Valladolid;27;;M;1991;20;Personas que se inyectan drogas
+2546;Valladolid;26;;M;1990;20;Personas que se inyectan drogas
+2547;Valladolid;30;;H;1992;70;Relaciones Heterosexuales
+2548;Valladolid;30;;H;1988;40;Receptores de hemoderivados
+2549;Palencia;30;;M;1990;70;Relaciones Heterosexuales
+2550;Palencia;28;;M;1991;20;Personas que se inyectan drogas
+2551;Valladolid;30;;H;1992;20;Personas que se inyectan drogas
+2552;Valladolid;27;;H;1989;20;Personas que se inyectan drogas
+2553;Valladolid;27;;M;1991;20;Personas que se inyectan drogas
+2554;Valladolid;30;;M;1991;70;Relaciones Heterosexuales
+2555;Valladolid;26;;H;1991;20;Personas que se inyectan drogas
+2556;Valladolid;31;;H;1990;20;Personas que se inyectan drogas
+2557;Valladolid;37;;H;1993;10;Varones homosexuales / bisexuales
+2558;Valladolid;28;;H;1992;10;Varones homosexuales / bisexuales
+2559;Valladolid;26;;H;1993;20;Personas que se inyectan drogas
+2560;Valladolid;32;;H;1990;20;Personas que se inyectan drogas
+2561;Valladolid;31;;H;1989;20;Personas que se inyectan drogas
+2562;Valladolid;26;;M;1991;20;Personas que se inyectan drogas
+2563;Valladolid;27;;H;1993;20;Personas que se inyectan drogas
+2564;Valladolid;41;;H;1992;70;Relaciones Heterosexuales
+2565;Valladolid;44;;M;1992;70;Relaciones Heterosexuales
+2566;Valladolid;34;;M;1990;20;Personas que se inyectan drogas
+2567;Valladolid;24;;H;1993;20;Personas que se inyectan drogas
+2568;Valladolid;28;;H;1988;20;Personas que se inyectan drogas
+2569;Valladolid;63;;M;1991;50;Receptores de transfusión
+2570;Valladolid;36;;H;1991;20;Personas que se inyectan drogas
+2571;León;24;;H;1990;20;Personas que se inyectan drogas
+2572;Valladolid;27;;H;1990;20;Personas que se inyectan drogas
+2573;Valladolid;22;;H;1987;20;Personas que se inyectan drogas
+2574;Valladolid;30;;H;1990;20;Personas que se inyectan drogas
+2575;Valladolid;26;;M;1992;20;Personas que se inyectan drogas
+2576;Valladolid;38;;H;1989;70;Relaciones Heterosexuales
+2577;Valladolid;30;;H;1992;20;Personas que se inyectan drogas
+2578;Valladolid;29;;M;1990;20;Personas que se inyectan drogas
+2579;Valladolid;31;;H;1993;20;Personas que se inyectan drogas
+2580;Valladolid;32;;H;1993;20;Personas que se inyectan drogas
+2581;Valladolid;31;;H;1991;20;Personas que se inyectan drogas
+2582;Valladolid;53;;M;1991;20;Personas que se inyectan drogas
+2583;Valladolid;38;;M;1992;70;Relaciones Heterosexuales
+2584;Valladolid;24;;H;1990;20;Personas que se inyectan drogas
+2585;Valladolid;21;;H;1992;20;Personas que se inyectan drogas
+2586;Valladolid;36;;M;1991;20;Personas que se inyectan drogas
+2587;Valladolid;44;;H;1993;70;Relaciones Heterosexuales
+2588;Valladolid;40;;M;1993;20;Personas que se inyectan drogas
+2589;Valladolid;29;;M;1993;20;Personas que se inyectan drogas
+2590;Valladolid;47;;H;1990;80;Grupo de riesgo desconocido
+2591;Valladolid;37;;H;1991;10;Varones homosexuales / bisexuales
+2592;Valladolid;43;;H;1992;80;Grupo de riesgo desconocido
+2593;Valladolid;41;;H;1991;10;Varones homosexuales / bisexuales
+2594;Valladolid;29;;H;1992;20;Personas que se inyectan drogas
+2595;Valladolid;28;;H;1990;20;Personas que se inyectan drogas
+2596;Valladolid;38;;M;1990;20;Personas que se inyectan drogas
+2597;Valladolid;36;;M;1991;20;Personas que se inyectan drogas
+2598;Valladolid;28;;M;1990;20;Personas que se inyectan drogas
+2599;Valladolid;32;;H;1990;20;Personas que se inyectan drogas
+2600;Valladolid;29;;H;1991;20;Personas que se inyectan drogas
+2601;Valladolid;21;;M;1990;20;Personas que se inyectan drogas
+2602;Valladolid;32;;H;1992;10;Varones homosexuales / bisexuales
+2603;Valladolid;36;;H;1993;20;Personas que se inyectan drogas
+2604;Valladolid;37;;H;1997;20;Personas que se inyectan drogas
+2605;Valladolid;34;;H;1987;10;Varones homosexuales / bisexuales
+2606;Valladolid;33;;H;1989;20;Personas que se inyectan drogas
+2607;Valladolid;31;;M;1990;20;Personas que se inyectan drogas
+2608;Valladolid;24;;M;1991;20;Personas que se inyectan drogas
+2609;Valladolid;24;;M;1992;70;Relaciones Heterosexuales
+2610;Valladolid;27;;H;1991;20;Personas que se inyectan drogas
+2611;Valladolid;26;;H;1989;20;Personas que se inyectan drogas
+2612;Valladolid;29;;M;1992;20;Personas que se inyectan drogas
+2613;Valladolid;36;;H;1991;30;Personas que se inyectan drogas / Varones homo/bisexuales
+2614;Valladolid;61;;H;1992;70;Relaciones Heterosexuales
+2615;Valladolid;29;;H;1991;10;Varones homosexuales / bisexuales
+2616;Valladolid;35;;M;1993;70;Relaciones Heterosexuales
+2617;Valladolid;30;;H;1992;20;Personas que se inyectan drogas
+2618;Valladolid;60;;H;1991;70;Relaciones Heterosexuales
+2619;Valladolid;33;;H;1990;20;Personas que se inyectan drogas
+2620;Valladolid;33;;H;1993;20;Personas que se inyectan drogas
+2621;Valladolid;43;;H;1993;20;Personas que se inyectan drogas
+2622;Valladolid;32;;H;1991;20;Personas que se inyectan drogas
+2623;Valladolid;37;;H;1992;20;Personas que se inyectan drogas
+2624;Valladolid;28;;M;1990;20;Personas que se inyectan drogas
+2625;Valladolid;33;;M;1992;20;Personas que se inyectan drogas
+2626;Valladolid;25;;M;1993;20;Personas que se inyectan drogas
+2627;Valladolid;38;;H;1992;10;Varones homosexuales / bisexuales
+2628;Valladolid;30;;M;1990;20;Personas que se inyectan drogas
+2629;Valladolid;31;;H;1993;20;Personas que se inyectan drogas
+2630;Valladolid;34;;H;1993;20;Personas que se inyectan drogas
+2631;Valladolid;60;;H;1994;80;Grupo de riesgo desconocido
+2632;Valladolid;31;;H;1994;20;Personas que se inyectan drogas
+2633;Valladolid;22;;H;1994;20;Personas que se inyectan drogas
+2634;Valladolid;33;;H;1994;20;Personas que se inyectan drogas
+2635;Valladolid;25;;M;1993;20;Personas que se inyectan drogas
+2636;Valladolid;30;;H;1991;20;Personas que se inyectan drogas
+2637;Valladolid;28;;M;1991;20;Personas que se inyectan drogas
+2638;Valladolid;25;;H;1993;20;Personas que se inyectan drogas
+2639;Palencia;31;;H;1990;20;Personas que se inyectan drogas
+2640;Valladolid;36;;H;1993;10;Varones homosexuales / bisexuales
+2641;Valladolid;29;;H;1994;20;Personas que se inyectan drogas
+2642;Valladolid;34;;H;1994;20;Personas que se inyectan drogas
+2643;Valladolid;30;;H;1992;20;Personas que se inyectan drogas
+2644;Valladolid;28;;M;1994;20;Personas que se inyectan drogas
+2645;Valladolid;38;;H;1989;20;Personas que se inyectan drogas
+2646;Valladolid;32;;H;1994;20;Personas que se inyectan drogas
+2647;Valladolid;46;;H;1994;20;Personas que se inyectan drogas
+2648;Valladolid;27;;H;1992;20;Personas que se inyectan drogas
+2649;Valladolid;35;;H;1994;20;Personas que se inyectan drogas
+2650;Valladolid;25;;M;1988;20;Personas que se inyectan drogas
+2651;Valladolid;32;;H;1994;20;Personas que se inyectan drogas
+2652;Valladolid;38;;H;1994;20;Personas que se inyectan drogas
+2653;Valladolid;26;;H;1991;20;Personas que se inyectan drogas
+2654;Valladolid;30;;M;1996;70;Relaciones Heterosexuales
+2655;Valladolid;24;;H;1994;20;Personas que se inyectan drogas
+2656;Valladolid;31;;H;1993;20;Personas que se inyectan drogas
+2657;Valladolid;27;;M;1994;20;Personas que se inyectan drogas
+2658;Valladolid;20;;H;1994;20;Personas que se inyectan drogas
+2659;Valladolid;35;;H;1994;20;Personas que se inyectan drogas
+2660;Valladolid;28;;H;1994;20;Personas que se inyectan drogas
+2661;Valladolid;30;;H;1994;20;Personas que se inyectan drogas
+2662;Valladolid;31;;M;1987;20;Personas que se inyectan drogas
+2663;Valladolid;26;;M;1994;20;Personas que se inyectan drogas
+2664;Segovia;58;;H;1995;70;Relaciones Heterosexuales
+2665;Valladolid;30;;H;1994;20;Personas que se inyectan drogas
+2666;Valladolid;35;;H;1995;20;Personas que se inyectan drogas
+2667;Valladolid;33;;H;1995;20;Personas que se inyectan drogas
+2668;Valladolid;25;;H;1995;20;Personas que se inyectan drogas
+2669;Valladolid;30;;H;1995;20;Personas que se inyectan drogas
+2670;Valladolid;34;;H;1995;10;Varones homosexuales / bisexuales
+2671;Valladolid;16;;M;1995;20;Personas que se inyectan drogas
+2672;Valladolid;35;;H;1994;20;Personas que se inyectan drogas
+2673;Valladolid;26;;H;1995;20;Personas que se inyectan drogas
+2674;Valladolid;32;;H;1994;20;Personas que se inyectan drogas
+2675;Valladolid;21;;H;1995;20;Personas que se inyectan drogas
+2676;Valladolid;28;;H;1995;10;Varones homosexuales / bisexuales
+2677;Valladolid;28;;H;1994;20;Personas que se inyectan drogas
+2678;Valladolid;20;;H;1995;20;Personas que se inyectan drogas
+2679;Valladolid;29;;H;1993;20;Personas que se inyectan drogas
+2680;Valladolid;24;;M;1988;20;Personas que se inyectan drogas
+2681;Valladolid;24;;H;1995;20;Personas que se inyectan drogas
+2682;Valladolid;30;;H;1994;20;Personas que se inyectan drogas
+2683;Valladolid;36;;H;1995;20;Personas que se inyectan drogas
+2684;Valladolid;34;;M;1995;20;Personas que se inyectan drogas
+2685;Valladolid;24;;H;1988;20;Personas que se inyectan drogas
+2686;Valladolid;27;;H;1995;20;Personas que se inyectan drogas
+2687;Valladolid;28;;H;1989;20;Personas que se inyectan drogas
+2688;Valladolid;30;;M;1995;20;Personas que se inyectan drogas
+2689;Valladolid;24;;H;1991;20;Personas que se inyectan drogas
+2690;Valladolid;28;;M;1995;20;Personas que se inyectan drogas
+2691;Valladolid;23;;H;1987;20;Personas que se inyectan drogas
+2692;Valladolid;23;;M;1990;20;Personas que se inyectan drogas
+2693;Valladolid;27;;H;1995;20;Personas que se inyectan drogas
+2694;Valladolid;36;;H;1995;20;Personas que se inyectan drogas
+2695;Valladolid;40;;H;1995;10;Varones homosexuales / bisexuales
+2696;Valladolid;32;;H;1995;10;Varones homosexuales / bisexuales
+2697;Valladolid;35;;H;1995;20;Personas que se inyectan drogas
+2698;Valladolid;28;;H;1995;20;Personas que se inyectan drogas
+2699;Valladolid;24;;H;1994;20;Personas que se inyectan drogas
+2700;Valladolid;28;;H;1995;20;Personas que se inyectan drogas
+2701;Valladolid;39;;H;1995;20;Personas que se inyectan drogas
+2702;Valladolid;25;;M;1995;20;Personas que se inyectan drogas
+2703;Valladolid;36;;M;1995;70;Relaciones Heterosexuales
+2704;Valladolid;30;;M;1995;20;Personas que se inyectan drogas
+2705;Valladolid;31;;H;1995;20;Personas que se inyectan drogas
+2706;Valladolid;36;;H;1995;20;Personas que se inyectan drogas
+2707;Valladolid;34;;M;1995;20;Personas que se inyectan drogas
+2708;Valladolid;61;;H;1995;80;Grupo de riesgo desconocido
+2709;Valladolid;34;;H;1995;20;Personas que se inyectan drogas
+2710;Valladolid;33;;H;1994;20;Personas que se inyectan drogas
+2711;Valladolid;29;;M;1995;20;Personas que se inyectan drogas
+2712;Valladolid;35;;H;1995;20;Personas que se inyectan drogas
+2713;Valladolid;30;;M;1996;70;Relaciones Heterosexuales
+2714;Valladolid;20;;M;1996;70;Relaciones Heterosexuales
+2715;Valladolid;33;;H;1995;20;Personas que se inyectan drogas
+2716;Valladolid;31;;H;1996;20;Personas que se inyectan drogas
+2717;Valladolid;30;;H;1996;20;Personas que se inyectan drogas
+2718;Valladolid;31;;H;1996;20;Personas que se inyectan drogas
+2719;Valladolid;31;;H;1996;20;Personas que se inyectan drogas
+2720;Valladolid;29;;H;1996;20;Personas que se inyectan drogas
+2721;Valladolid;44;;H;1996;70;Relaciones Heterosexuales
+2722;Valladolid;34;;H;1996;20;Personas que se inyectan drogas
+2723;Valladolid;50;;H;1994;70;Relaciones Heterosexuales
+2724;Valladolid;29;;H;1993;20;Personas que se inyectan drogas
+2725;Valladolid;32;;H;1996;20;Personas que se inyectan drogas
+2726;Valladolid;39;;H;1996;20;Personas que se inyectan drogas
+2727;Valladolid;34;;H;1993;10;Varones homosexuales / bisexuales
+2728;Valladolid;29;;H;1995;20;Personas que se inyectan drogas
+2729;Valladolid;33;;M;1993;20;Personas que se inyectan drogas
+2730;León;28;;H;1993;20;Personas que se inyectan drogas
+2731;Valladolid;42;;H;1990;10;Varones homosexuales / bisexuales
+2732;Valladolid;30;;H;1996;20;Personas que se inyectan drogas
+2733;Valladolid;31;;H;1996;20;Personas que se inyectan drogas
+2734;Valladolid;37;;H;1996;10;Varones homosexuales / bisexuales
+2735;Valladolid;40;;H;1996;20;Personas que se inyectan drogas
+2736;Valladolid;24;;M;1996;20;Personas que se inyectan drogas
+2737;Valladolid;33;;H;1993;20;Personas que se inyectan drogas
+2738;Valladolid;36;;M;1996;20;Personas que se inyectan drogas
+2739;Valladolid;35;;H;1991;30;Personas que se inyectan drogas / Varones homo/bisexuales
+2740;Valladolid;30;;M;1991;20;Personas que se inyectan drogas
+2741;Valladolid;27;;H;1992;10;Varones homosexuales / bisexuales
+2742;Valladolid;27;;H;1994;20;Personas que se inyectan drogas
+2743;Valladolid;39;;H;1992;70;Relaciones Heterosexuales
+2744;Valladolid;34;;H;1993;10;Varones homosexuales / bisexuales
+2745;Valladolid;24;;H;1995;20;Personas que se inyectan drogas
+2746;Valladolid;25;;H;1993;30;Personas que se inyectan drogas / Varones homo/bisexuales
+2747;Valladolid;27;;H;1993;20;Personas que se inyectan drogas
+2748;Valladolid;33;;H;1993;20;Personas que se inyectan drogas
+2749;Valladolid;26;;H;1989;20;Personas que se inyectan drogas
+2750;Valladolid;28;;H;1991;20;Personas que se inyectan drogas
+2751;Valladolid;28;;H;1994;10;Varones homosexuales / bisexuales
+2752;Valladolid;38;;H;1996;20;Personas que se inyectan drogas
+2753;Valladolid;31;;H;1996;20;Personas que se inyectan drogas
+2754;Valladolid;28;;M;1995;20;Personas que se inyectan drogas
+2755;Burgos;33;;H;1995;20;Personas que se inyectan drogas
+2756;Valladolid;20;;H;1992;20;Personas que se inyectan drogas
+2757;Valladolid;32;;H;1990;20;Personas que se inyectan drogas
+2758;Valladolid;31;;H;1995;20;Personas que se inyectan drogas
+2759;Valladolid;33;;H;1996;70;Relaciones Heterosexuales
+2760;Valladolid;37;;H;1995;20;Personas que se inyectan drogas
+2761;Valladolid;33;;M;1995;70;Relaciones Heterosexuales
+2762;Valladolid;45;;H;1994;10;Varones homosexuales / bisexuales
+2763;Valladolid;35;;H;1995;10;Varones homosexuales / bisexuales
+2764;Valladolid;37;;H;1995;20;Personas que se inyectan drogas
+2765;Valladolid;39;;M;1996;20;Personas que se inyectan drogas
+2766;Valladolid;30;;H;1990;20;Personas que se inyectan drogas
+2767;Valladolid;33;;H;1996;20;Personas que se inyectan drogas
+2768;Valladolid;27;;H;1994;20;Personas que se inyectan drogas
+2769;Valladolid;39;;H;1994;20;Personas que se inyectan drogas
+2770;Valladolid;50;;H;1996;70;Relaciones Heterosexuales
+2771;Valladolid;49;;H;1994;20;Personas que se inyectan drogas
+2772;Valladolid;47;;H;1994;70;Relaciones Heterosexuales
+2773;Valladolid;35;;H;1996;10;Varones homosexuales / bisexuales
+2774;Valladolid;38;;H;1994;10;Varones homosexuales / bisexuales
+2775;Valladolid;39;;H;1994;20;Personas que se inyectan drogas
+2776;Valladolid;41;;H;1996;30;Personas que se inyectan drogas / Varones homo/bisexuales
+2777;Valladolid;31;;M;1996;20;Personas que se inyectan drogas
+2778;Valladolid;36;;M;1996;20;Personas que se inyectan drogas
+2779;Valladolid;32;;M;1996;20;Personas que se inyectan drogas
+2780;Valladolid;36;;H;1996;20;Personas que se inyectan drogas
+2781;Valladolid;38;;H;1996;20;Personas que se inyectan drogas
+2782;Valladolid;37;;H;1996;10;Varones homosexuales / bisexuales
+2783;Valladolid;30;;H;1995;20;Personas que se inyectan drogas
+2784;Valladolid;29;;H;1994;20;Personas que se inyectan drogas
+2785;Valladolid;31;;M;1994;20;Personas que se inyectan drogas
+2786;Valladolid;28;;M;1996;20;Personas que se inyectan drogas
+2787;Valladolid;37;;M;1996;70;Relaciones Heterosexuales
+2788;Valladolid;63;;H;1993;70;Relaciones Heterosexuales
+2789;Valladolid;29;;H;1994;20;Personas que se inyectan drogas
+2790;Valladolid;39;;H;1994;20;Personas que se inyectan drogas
+2791;Valladolid;25;;H;1993;20;Personas que se inyectan drogas
+2792;Valladolid;29;;M;1993;70;Relaciones Heterosexuales
+2793;Valladolid;24;;M;1993;20;Personas que se inyectan drogas
+2794;Valladolid;43;;H;1994;20;Personas que se inyectan drogas
+2795;Valladolid;29;;H;1996;20;Personas que se inyectan drogas
+2796;Valladolid;34;;H;1995;20;Personas que se inyectan drogas
+2797;Valladolid;32;;H;1993;20;Personas que se inyectan drogas
+2798;Valladolid;47;;H;1996;10;Varones homosexuales / bisexuales
+2799;Valladolid;30;;H;1996;20;Personas que se inyectan drogas
+2800;Valladolid;37;;H;1996;20;Personas que se inyectan drogas
+2801;Valladolid;43;;H;1995;10;Varones homosexuales / bisexuales
+2802;Valladolid;39;;H;1996;80;Grupo de riesgo desconocido
+2803;Valladolid;31;;H;1995;20;Personas que se inyectan drogas
+2804;Valladolid;22;;M;1992;20;Personas que se inyectan drogas
+2805;Valladolid;36;;H;1992;20;Personas que se inyectan drogas
+2806;Valladolid;32;;M;1996;20;Personas que se inyectan drogas
+2807;Valladolid;38;;M;1995;20;Personas que se inyectan drogas
+2808;Valladolid;31;;H;1996;20;Personas que se inyectan drogas
+2809;Valladolid;24;;H;1995;20;Personas que se inyectan drogas
+2810;Valladolid;40;;H;1996;20;Personas que se inyectan drogas
+2811;Valladolid;56;;H;1996;70;Relaciones Heterosexuales
+2812;Palencia;39;;H;1989;20;Personas que se inyectan drogas
+2813;Valladolid;27;;H;1990;20;Personas que se inyectan drogas
+2814;Valladolid;35;;M;1996;20;Personas que se inyectan drogas
+2815;Valladolid;26;;M;1996;20;Personas que se inyectan drogas
+2816;Valladolid;38;;H;1994;30;Personas que se inyectan drogas / Varones homo/bisexuales
+2817;Valladolid;35;;H;1996;20;Personas que se inyectan drogas
+2818;Valladolid;27;;H;1993;20;Personas que se inyectan drogas
+2819;Palencia;29;;H;1994;20;Personas que se inyectan drogas
+2820;Valladolid;27;;M;1996;70;Relaciones Heterosexuales
+2821;Valladolid;31;;M;1995;70;Relaciones Heterosexuales
+2822;Valladolid;27;;H;1995;20;Personas que se inyectan drogas
+2823;Valladolid;32;;H;1996;20;Personas que se inyectan drogas
+2824;Valladolid;21;;H;1996;20;Personas que se inyectan drogas
+2825;Valladolid;33;;H;1996;20;Personas que se inyectan drogas
+2826;Valladolid;46;;H;1996;20;Personas que se inyectan drogas
+2827;Valladolid;28;;H;1995;20;Personas que se inyectan drogas
+2828;Valladolid;28;;H;1994;20;Personas que se inyectan drogas
+2829;Valladolid;32;;H;1996;20;Personas que se inyectan drogas
+2830;Valladolid;39;;H;1995;20;Personas que se inyectan drogas
+2831;Valladolid;34;;H;1996;70;Relaciones Heterosexuales
+2832;Valladolid;37;;H;1996;70;Relaciones Heterosexuales
+2833;Valladolid;37;;H;1996;20;Personas que se inyectan drogas
+2834;Valladolid;31;;H;1993;20;Personas que se inyectan drogas
+2835;Valladolid;24;;H;1995;20;Personas que se inyectan drogas
+2836;Valladolid;34;;H;1994;70;Relaciones Heterosexuales
+2837;Valladolid;39;;H;1995;20;Personas que se inyectan drogas
+2838;Valladolid;29;;H;1995;10;Varones homosexuales / bisexuales
+2839;Valladolid;33;;M;1993;20;Personas que se inyectan drogas
+2840;Valladolid;45;;H;1994;80;Grupo de riesgo desconocido
+2841;Valladolid;30;;H;1995;20;Personas que se inyectan drogas
+2842;Valladolid;38;;H;1996;20;Personas que se inyectan drogas
+2843;Valladolid;34;;H;1994;20;Personas que se inyectan drogas
+2844;Valladolid;30;;H;1995;20;Personas que se inyectan drogas
+2845;Valladolid;30;;H;1993;20;Personas que se inyectan drogas
+2846;Valladolid;29;;H;1991;20;Personas que se inyectan drogas
+2847;Valladolid;29;;H;1997;20;Personas que se inyectan drogas
+2848;Valladolid;30;;H;1996;70;Relaciones Heterosexuales
+2849;Valladolid;33;;H;1996;20;Personas que se inyectan drogas
+2850;Valladolid;27;;M;1997;20;Personas que se inyectan drogas
+2851;Valladolid;35;;H;1997;20;Personas que se inyectan drogas
+2852;Valladolid;32;;H;1996;20;Personas que se inyectan drogas
+2853;Valladolid;39;;H;1996;20;Personas que se inyectan drogas
+2854;Valladolid;39;;M;1997;70;Relaciones Heterosexuales
+2855;Valladolid;33;;M;1997;20;Personas que se inyectan drogas
+2856;Valladolid;28;;H;1997;20;Personas que se inyectan drogas
+2857;Valladolid;36;;H;1997;20;Personas que se inyectan drogas
+2858;Valladolid;28;;M;1996;20;Personas que se inyectan drogas
+2859;Valladolid;44;;M;1997;70;Relaciones Heterosexuales
+2860;Valladolid;68;;H;1997;40;Receptores de hemoderivados
+2861;Valladolid;21;;H;1997;30;Personas que se inyectan drogas / Varones homo/bisexuales
+2862;Valladolid;30;;H;1997;20;Personas que se inyectan drogas
+2863;Valladolid;44;;H;1997;70;Relaciones Heterosexuales
+2864;Valladolid;29;;H;1996;20;Personas que se inyectan drogas
+2865;Valladolid;28;;H;1997;20;Personas que se inyectan drogas
+2866;Valladolid;34;;H;1997;20;Personas que se inyectan drogas
+2867;Valladolid;31;;M;1997;20;Personas que se inyectan drogas
+2868;Valladolid;31;;H;1997;70;Relaciones Heterosexuales
+2869;Valladolid;28;;M;1997;20;Personas que se inyectan drogas
+2870;Valladolid;34;;H;1997;20;Personas que se inyectan drogas
+2871;Valladolid;17;;H;1997;20;Personas que se inyectan drogas
+2872;Valladolid;37;;H;1997;20;Personas que se inyectan drogas
+2873;Valladolid;29;;H;1995;10;Varones homosexuales / bisexuales
+2874;Valladolid;25;;H;1997;70;Relaciones Heterosexuales
+2875;Valladolid;22;;M;1997;20;Personas que se inyectan drogas
+2876;Valladolid;30;;H;1991;20;Personas que se inyectan drogas
+2877;Valladolid;31;;H;1997;70;Relaciones Heterosexuales
+2878;Valladolid;29;;H;1997;70;Relaciones Heterosexuales
+2879;Valladolid;37;;H;1991;20;Personas que se inyectan drogas
+2880;Valladolid;38;;H;1997;20;Personas que se inyectan drogas
+2881;Valladolid;32;;H;1997;20;Personas que se inyectan drogas
+2882;Valladolid;29;;M;1998;20;Personas que se inyectan drogas
+2883;Valladolid;28;;H;1998;20;Personas que se inyectan drogas
+2884;Valladolid;26;;H;1998;20;Personas que se inyectan drogas
+2885;Valladolid;34;;H;1995;20;Personas que se inyectan drogas
+2886;Valladolid;18;;H;1997;20;Personas que se inyectan drogas
+2887;Valladolid;32;;M;1997;20;Personas que se inyectan drogas
+2888;Valladolid;24;;H;1997;20;Personas que se inyectan drogas
+2889;Valladolid;27;;M;1997;20;Personas que se inyectan drogas
+2890;Valladolid;33;;H;1990;20;Personas que se inyectan drogas
+2891;Valladolid;36;;H;1998;20;Personas que se inyectan drogas
+2892;Valladolid;37;;H;1998;20;Personas que se inyectan drogas
+2893;Valladolid;38;;H;1998;10;Varones homosexuales / bisexuales
+2894;Valladolid;32;;M;1998;20;Personas que se inyectan drogas
+2895;Valladolid;36;;H;1998;10;Varones homosexuales / bisexuales
+2896;Valladolid;63;;H;1998;70;Relaciones Heterosexuales
+2897;Valladolid;28;;M;1995;20;Personas que se inyectan drogas
+2898;Valladolid;31;;M;1997;20;Personas que se inyectan drogas
+2899;Valladolid;38;;H;1998;20;Personas que se inyectan drogas
+2900;Valladolid;26;;M;1998;20;Personas que se inyectan drogas
+2901;Valladolid;35;;H;1998;20;Personas que se inyectan drogas
+2902;Valladolid;35;;H;1998;20;Personas que se inyectan drogas
+2903;Valladolid;28;;H;1998;20;Personas que se inyectan drogas
+2904;Valladolid;34;;H;1998;20;Personas que se inyectan drogas
+2905;Valladolid;41;;H;1998;10;Varones homosexuales / bisexuales
+2906;Valladolid;69;;H;1998;70;Relaciones Heterosexuales
+2907;Valladolid;28;;M;1995;20;Personas que se inyectan drogas
+2908;Valladolid;38;;H;1998;20;Personas que se inyectan drogas
+2909;Valladolid;40;;M;1998;20;Personas que se inyectan drogas
+2910;Valladolid;36;;H;1998;20;Personas que se inyectan drogas
+2911;Valladolid;37;;H;1998;20;Personas que se inyectan drogas
+2912;Valladolid;35;;H;1998;20;Personas que se inyectan drogas
+2913;Zamora;38;;M;1998;20;Personas que se inyectan drogas
+2914;Valladolid;40;;H;1998;20;Personas que se inyectan drogas
+2915;Valladolid;26;;M;1996;20;Personas que se inyectan drogas
+2916;Valladolid;34;;H;1995;20;Personas que se inyectan drogas
+2917;Valladolid;29;;H;1999;20;Personas que se inyectan drogas
+2918;Valladolid;32;;M;1999;20;Personas que se inyectan drogas
+2919;Valladolid;27;;H;1999;20;Personas que se inyectan drogas
+2920;Valladolid;21;;M;1994;20;Personas que se inyectan drogas
+2921;Valladolid;41;;M;1999;70;Relaciones Heterosexuales
+2922;Valladolid;34;;H;1999;20;Personas que se inyectan drogas
+2923;Valladolid;35;;H;1999;20;Personas que se inyectan drogas
+2924;Valladolid;41;;H;1999;20;Personas que se inyectan drogas
+2925;Valladolid;42;;H;1999;10;Varones homosexuales / bisexuales
+2926;Valladolid;31;;H;1999;20;Personas que se inyectan drogas
+2927;Valladolid;26;;M;1999;70;Relaciones Heterosexuales
+2928;Valladolid;29;;M;1999;70;Relaciones Heterosexuales
+2929;Valladolid;35;;H;1999;20;Personas que se inyectan drogas
+2930;Valladolid;33;;H;1999;20;Personas que se inyectan drogas
+2931;Valladolid;54;;H;1999;80;Grupo de riesgo desconocido
+2932;Valladolid;52;;H;1999;70;Relaciones Heterosexuales
+2933;Burgos;36;;H;1999;20;Personas que se inyectan drogas
+2934;Valladolid;42;;H;1999;70;Relaciones Heterosexuales
+2935;Valladolid;34;;M;1999;70;Relaciones Heterosexuales
+2936;Valladolid;51;;H;1999;10;Varones homosexuales / bisexuales
+2937;Zamora;28;;H;1991;20;Personas que se inyectan drogas
+2938;Zamora;21;;H;1986;40;Receptores de hemoderivados
+2939;Zamora;27;;H;1988;20;Personas que se inyectan drogas
+2940;Zamora;30;;H;1987;20;Personas que se inyectan drogas
+2941;Zamora;31;;H;1990;20;Personas que se inyectan drogas
+2942;Zamora;30;;H;1990;20;Personas que se inyectan drogas
+2943;Zamora;26;;H;1990;20;Personas que se inyectan drogas
+2944;Zamora;31;;H;1987;20;Personas que se inyectan drogas
+2945;Zamora;38;;H;1991;20;Personas que se inyectan drogas
+2946;Zamora;26;;H;1991;20;Personas que se inyectan drogas
+2947;Zamora;29;;H;1992;20;Personas que se inyectan drogas
+2948;Zamora;27;;H;1992;20;Personas que se inyectan drogas
+2949;Zamora;29;;H;1989;20;Personas que se inyectan drogas
+2950;Zamora;39;;H;1990;30;Personas que se inyectan drogas / Varones homo/bisexuales
+2951;Zamora;29;;H;1992;20;Personas que se inyectan drogas
+2952;Zamora;28;;H;1991;20;Personas que se inyectan drogas
+2953;Zamora;28;;H;1992;20;Personas que se inyectan drogas
+2954;Zamora;38;;H;1992;20;Personas que se inyectan drogas
+2955;Zamora;27;;H;1993;20;Personas que se inyectan drogas
+2956;Zamora;25;;H;1992;20;Personas que se inyectan drogas
+2957;Zamora;29;;H;1994;20;Personas que se inyectan drogas
+2958;Zamora;24;;H;1994;20;Personas que se inyectan drogas
+2959;Zamora;32;;H;1994;20;Personas que se inyectan drogas
+2960;Zamora;39;;H;1994;20;Personas que se inyectan drogas
+2961;Zamora;31;;H;1994;20;Personas que se inyectan drogas
+2962;Zamora;33;;H;1994;20;Personas que se inyectan drogas
+2963;Zamora;31;;H;1992;20;Personas que se inyectan drogas
+2964;Zamora;30;;H;1994;20;Personas que se inyectan drogas
+2965;Zamora;35;;H;1994;20;Personas que se inyectan drogas
+2966;Zamora;30;;H;1995;20;Personas que se inyectan drogas
+2967;Zamora;28;;H;;20;Personas que se inyectan drogas
+2968;Zamora;30;;H;1993;20;Personas que se inyectan drogas
+2969;Zamora;33;;H;1994;20;Personas que se inyectan drogas
+2970;Zamora;26;;H;1994;20;Personas que se inyectan drogas
+2971;Zamora;31;;M;1993;20;Personas que se inyectan drogas
+2972;Zamora;26;;H;1994;20;Personas que se inyectan drogas
+2973;Zamora;26;;H;1994;20;Personas que se inyectan drogas
+2974;Zamora;30;;H;1994;20;Personas que se inyectan drogas
+2975;Zamora;44;;H;1993;10;Varones homosexuales / bisexuales
+2976;Zamora;32;;H;1995;10;Varones homosexuales / bisexuales
+2977;Zamora;27;;H;1994;20;Personas que se inyectan drogas
+2978;Zamora;30;;H;1993;20;Personas que se inyectan drogas
+2979;Zamora;27;;H;1995;20;Personas que se inyectan drogas
+2980;Zamora;29;;H;1994;20;Personas que se inyectan drogas
+2981;Zamora;27;;M;1995;20;Personas que se inyectan drogas
+2982;Zamora;35;;H;1995;10;Varones homosexuales / bisexuales
+2983;Zamora;29;;H;1995;50;Receptores de transfusión
+2984;Zamora;30;;H;1996;20;Personas que se inyectan drogas
+2985;Zamora;34;;H;1996;20;Personas que se inyectan drogas
+2986;Zamora;24;;M;1994;20;Personas que se inyectan drogas
+2987;Zamora;30;;H;1996;20;Personas que se inyectan drogas
+2988;Zamora;32;;H;1996;20;Personas que se inyectan drogas
+2989;Zamora;48;;H;1996;70;Relaciones Heterosexuales
+2990;Zamora;23;;H;1988;20;Personas que se inyectan drogas
+2991;Zamora;29;;H;1988;20;Personas que se inyectan drogas
+2992;Zamora;54;;M;1991;70;Relaciones Heterosexuales
+2993;Zamora;27;;H;1991;20;Personas que se inyectan drogas
+2994;Zamora;32;;H;1991;20;Personas que se inyectan drogas
+2995;Zamora;35;;H;1992;20;Personas que se inyectan drogas
+2996;Zamora;25;;H;1992;20;Personas que se inyectan drogas
+2997;Zamora;33;;H;1992;20;Personas que se inyectan drogas
+2998;Zamora;34;;M;1992;70;Relaciones Heterosexuales
+2999;Zamora;29;;H;1993;20;Personas que se inyectan drogas
+3000;Zamora;24;;M;1993;20;Personas que se inyectan drogas
+3001;Zamora;31;;H;1993;20;Personas que se inyectan drogas
+3002;Zamora;25;;H;1993;20;Personas que se inyectan drogas
+3003;Zamora;29;;H;1993;20;Personas que se inyectan drogas
+3004;Zamora;29;;H;1993;20;Personas que se inyectan drogas
+3005;Zamora;32;;H;1993;20;Personas que se inyectan drogas
+3006;Zamora;28;;M;1993;70;Relaciones Heterosexuales
+3007;Zamora;33;;H;1993;20;Personas que se inyectan drogas
+3008;Zamora;31;;H;1994;20;Personas que se inyectan drogas
+3009;Zamora;35;;H;1994;20;Personas que se inyectan drogas
+3010;Zamora;32;;H;1994;20;Personas que se inyectan drogas
+3011;Zamora;35;;M;1994;70;Relaciones Heterosexuales
+3012;Zamora;35;;H;1994;10;Varones homosexuales / bisexuales
+3013;Zamora;34;;H;1994;20;Personas que se inyectan drogas
+3014;Zamora;26;;H;1994;20;Personas que se inyectan drogas
+3015;Zamora;35;;H;1994;20;Personas que se inyectan drogas
+3016;Zamora;33;;H;1995;20;Personas que se inyectan drogas
+3017;Zamora;28;;H;1995;20;Personas que se inyectan drogas
+3018;Zamora;35;;H;1995;70;Relaciones Heterosexuales
+3019;Zamora;57;;H;1995;20;Personas que se inyectan drogas
+3020;Zamora;34;;H;1995;70;Relaciones Heterosexuales
+3021;Zamora;28;;H;1995;20;Personas que se inyectan drogas
+3022;Salamanca;32;;H;1995;20;Personas que se inyectan drogas
+3023;Zamora;34;;H;1995;20;Personas que se inyectan drogas
+3024;Zamora;26;;H;1995;20;Personas que se inyectan drogas
+3025;Zamora;38;;H;1995;20;Personas que se inyectan drogas
+3026;Zamora;36;;H;1995;20;Personas que se inyectan drogas
+3027;León;22;;M;1996;20;Personas que se inyectan drogas
+3028;Zamora;27;;H;1996;20;Personas que se inyectan drogas
+3029;Zamora;30;;H;1996;20;Personas que se inyectan drogas
+3030;Zamora;37;;H;1996;20;Personas que se inyectan drogas
+3031;Zamora;34;;H;1996;20;Personas que se inyectan drogas
+3032;Zamora;38;;H;1996;70;Relaciones Heterosexuales
+3033;Zamora;30;;H;1996;20;Personas que se inyectan drogas
+3034;Zamora;30;;M;1996;70;Relaciones Heterosexuales
+3035;Zamora;31;;M;1996;20;Personas que se inyectan drogas
+3036;Zamora;38;;H;1996;20;Personas que se inyectan drogas
+3037;Zamora;37;;H;1996;20;Personas que se inyectan drogas
+3038;Zamora;34;;M;1996;20;Personas que se inyectan drogas
+3039;Zamora;25;;H;1996;20;Personas que se inyectan drogas
+3040;Zamora;25;;M;1996;70;Relaciones Heterosexuales
+3041;Zamora;29;;H;1997;20;Personas que se inyectan drogas
+3042;Zamora;26;;M;1997;70;Relaciones Heterosexuales
+3043;Zamora;26;;H;1997;20;Personas que se inyectan drogas
+3044;Zamora;35;;M;1997;70;Relaciones Heterosexuales
+3045;Zamora;41;;H;1997;20;Personas que se inyectan drogas
+3046;Zamora;35;;H;1997;20;Personas que se inyectan drogas
+3047;Zamora;35;;H;1997;20;Personas que se inyectan drogas
+3048;Zamora;32;;H;1998;20;Personas que se inyectan drogas
+3049;Zamora;37;;H;1997;20;Personas que se inyectan drogas
+3050;Zamora;35;;H;1998;20;Personas que se inyectan drogas
+3051;Zamora;33;;H;1998;70;Relaciones Heterosexuales
+3052;Zamora;32;;H;1998;10;Varones homosexuales / bisexuales
+3053;Zamora;29;;H;1998;20;Personas que se inyectan drogas
+3054;Zamora;52;;H;1998;70;Relaciones Heterosexuales
+3055;Zamora;24;;M;1998;20;Personas que se inyectan drogas
+3056;Zamora;47;;H;1998;20;Personas que se inyectan drogas
+3057;Zamora;20;;H;1998;20;Personas que se inyectan drogas
+3058;Zamora;68;;H;1999;70;Relaciones Heterosexuales
+3059;Zamora;41;;H;1999;20;Personas que se inyectan drogas
+3060;Zamora;38;;H;1999;20;Personas que se inyectan drogas
+3061;Valladolid;26;;M;1989;70;Relaciones Heterosexuales
+3062;León;64;;M;1990;50;Receptores de transfusión
+3063;Avila;28;;H;1990;30;Personas que se inyectan drogas / Varones homo/bisexuales
+3064;Valladolid;34;;M;1990;20;Personas que se inyectan drogas
+3065;Burgos;30;;H;1990;20;Personas que se inyectan drogas
+3066;Segovia;26;;H;1990;20;Personas que se inyectan drogas
+3067;Segovia;40;;H;1991;10;Varones homosexuales / bisexuales
+3068;Salamanca;31;;H;1993;20;Personas que se inyectan drogas
+3069;Avila;26;;H;1989;20;Personas que se inyectan drogas
+3070;Burgos;48;;H;1993;10;Varones homosexuales / bisexuales
+3071;Burgos;31;;M;1991;20;Personas que se inyectan drogas
+3072;León;69;;M;1996;80;Grupo de riesgo desconocido
+3073;Burgos;37;;M;1997;20;Personas que se inyectan drogas
+3074;Valladolid;28;;H;1997;20;Personas que se inyectan drogas
+3075;Salamanca;26;;H;1990;20;Personas que se inyectan drogas
+3076;León;31;;H;1993;20;Personas que se inyectan drogas
+3077;Burgos;34;;H;1997;70;Relaciones Heterosexuales
+3078;Valladolid;34;;M;1989;20;Personas que se inyectan drogas
+3079;Segovia;59;;H;1990;10;Varones homosexuales / bisexuales
+3080;Palencia;35;;M;1986;20;Personas que se inyectan drogas
+3081;Palencia;10;;H;1987;40;Receptores de hemoderivados
+3082;Segovia;18;;H;1986;40;Receptores de hemoderivados
+3083;Zamora;4;;M;1987;40;Receptores de hemoderivados
+3084;León;20;;H;1987;40;Receptores de hemoderivados
+3085;León;29;;H;1988;20;Personas que se inyectan drogas
+3086;Valladolid;35;;H;1987;10;Varones homosexuales / bisexuales
+3087;Burgos;16;;H;1985;40;Receptores de hemoderivados
+3088;León;33;;M;1988;20;Personas que se inyectan drogas
+3089;Zamora;56;;H;1988;40;Receptores de hemoderivados
+3090;Segovia;37;;H;1988;20;Personas que se inyectan drogas
+3091;Segovia;28;;M;1987;20;Personas que se inyectan drogas
+3092;Salamanca;32;;H;1988;70;Relaciones Heterosexuales
+3093;Segovia;34;;H;1988;20;Personas que se inyectan drogas
+3094;Segovia;50;;H;1988;10;Varones homosexuales / bisexuales
+3095;Avila;9;;M;1988;50;Receptores de transfusión
+3096;Zamora;27;;H;1989;10;Varones homosexuales / bisexuales
+3097;Burgos;29;;H;1988;20;Personas que se inyectan drogas
+3098;Soria;30;;H;1988;40;Receptores de hemoderivados
+3099;Soria;24;;H;1988;40;Receptores de hemoderivados
+3100;Palencia;50;;H;1989;40;Receptores de hemoderivados
+3101;León;35;;H;1989;20;Personas que se inyectan drogas
+3102;León;30;;M;1988;20;Personas que se inyectan drogas
+3103;Segovia;23;;H;1990;20;Personas que se inyectan drogas
+3104;Segovia;51;;H;1988;10;Varones homosexuales / bisexuales
+3105;Salamanca;11;;H;1984;40;Receptores de hemoderivados
+3106;León;28;;M;1990;20;Personas que se inyectan drogas
+3107;Salamanca;29;;M;1988;20;Personas que se inyectan drogas
+3108;Valladolid;34;;H;1984;80;Grupo de riesgo desconocido
+3109;Burgos;30;;H;1990;20;Personas que se inyectan drogas
+3110;Valladolid;26;;M;1989;20;Personas que se inyectan drogas
+3111;Avila;28;;M;1988;70;Relaciones Heterosexuales
+3112;Segovia;22;;M;1990;20;Personas que se inyectan drogas
+3113;León;23;;M;1991;20;Personas que se inyectan drogas
+3114;León;30;;H;1988;20;Personas que se inyectan drogas
+3115;Avila;35;;H;1991;10;Varones homosexuales / bisexuales
+3116;Valladolid;35;;H;1991;20;Personas que se inyectan drogas
+3117;Palencia;35;;H;1991;20;Personas que se inyectan drogas
+3118;Valladolid;31;;H;1989;20;Personas que se inyectan drogas
+3119;Burgos;28;;M;1991;20;Personas que se inyectan drogas
+3120;Segovia;32;;H;1992;30;Personas que se inyectan drogas / Varones homo/bisexuales
+3121;Zamora;28;;H;1992;40;Receptores de hemoderivados
+3122;Segovia;19;;H;1991;20;Personas que se inyectan drogas
+3123;Avila;36;;H;1992;20;Personas que se inyectan drogas
+3124;Valladolid;25;;H;1992;20;Personas que se inyectan drogas
+3125;Burgos;34;;H;1991;10;Varones homosexuales / bisexuales
+3126;Avila;39;;H;1992;10;Varones homosexuales / bisexuales
+3127;León;50;;H;1992;10;Varones homosexuales / bisexuales
+3128;Burgos;23;;H;1992;20;Personas que se inyectan drogas
+3129;Valladolid;29;;H;1992;10;Varones homosexuales / bisexuales
+3130;Zamora;31;;H;1993;20;Personas que se inyectan drogas
+3131;Zamora;28;;M;1991;20;Personas que se inyectan drogas
+3132;Avila;9;;M;1990;50;Receptores de transfusión
+3133;León;5;;M;1993;60;Hijo de madre a riesgo
+3134;Segovia;29;;H;1993;40;Receptores de hemoderivados
+3135;Palencia;45;;M;1993;20;Personas que se inyectan drogas
+3136;Segovia;39;;H;1993;10;Varones homosexuales / bisexuales
+3137;Burgos;52;;H;1993;80;Grupo de riesgo desconocido
+3138;León;28;;H;1994;10;Varones homosexuales / bisexuales
+3139;Valladolid;51;;H;1991;40;Receptores de hemoderivados
+3140;Soria;35;;H;1993;40;Receptores de hemoderivados
+3141;Avila;32;;H;1994;20;Personas que se inyectan drogas
+3142;León;23;;M;1994;20;Personas que se inyectan drogas
+3143;Segovia;33;;H;1994;10;Varones homosexuales / bisexuales
+3144;Valladolid;41;;H;1994;20;Personas que se inyectan drogas
+3145;Burgos;0;3;H;1993;60;Hijo de madre a riesgo
+3146;Avila;34;;H;1994;20;Personas que se inyectan drogas
+3147;Palencia;25;;H;1993;20;Personas que se inyectan drogas
+3148;Zamora;23;;H;1994;40;Receptores de hemoderivados
+3149;Valladolid;25;;M;1994;20;Personas que se inyectan drogas
+3150;Zamora;30;;H;1995;20;Personas que se inyectan drogas
+3151;León;18;;H;1995;20;Personas que se inyectan drogas
+3152;Valladolid;38;;H;1995;20;Personas que se inyectan drogas
+3153;Salamanca;41;;H;1995;20;Personas que se inyectan drogas
+3154;León;35;;H;1995;20;Personas que se inyectan drogas
+3155;Palencia;0;7;M;1993;60;Hijo de madre a riesgo
+3156;León;33;;H;1996;40;Receptores de hemoderivados
+3157;Burgos;34;;H;1996;20;Personas que se inyectan drogas
+3158;Avila;40;;H;1996;20;Personas que se inyectan drogas
+3159;Segovia;33;;H;1996;10;Varones homosexuales / bisexuales
+3160;Valladolid;2;;M;1996;60;Hijo de madre a riesgo
+3161;Segovia;34;;H;1989;20;Personas que se inyectan drogas
+3162;Avila;33;;H;1996;40;Receptores de hemoderivados
+3163;Avila;45;;H;1994;70;Relaciones Heterosexuales
+3164;Salamanca;35;;H;1997;20;Personas que se inyectan drogas
+3165;León;31;;M;1996;70;Relaciones Heterosexuales
+3166;Segovia;41;;H;1997;20;Personas que se inyectan drogas
+3167;Avila;32;;M;1992;20;Personas que se inyectan drogas
+3168;Valladolid;47;;H;1997;10;Varones homosexuales / bisexuales
+3169;Valladolid;22;;H;1985;20;Personas que se inyectan drogas
+3170;Palencia;26;;H;1997;40;Receptores de hemoderivados
+3171;Avila;32;;H;1996;20;Personas que se inyectan drogas
+3172;Palencia;37;;M;1998;70;Relaciones Heterosexuales
+3173;Soria;33;;H;1999;10;Varones homosexuales / bisexuales
+3174;Segovia;24;;H;1998;40;Receptores de hemoderivados
+3175;Avila;21;;M;1999;70;Relaciones Heterosexuales
+3176;León;35;;H;1997;20;Personas que se inyectan drogas
+3177;Segovia;38;;H;1988;20;Personas que se inyectan drogas
+3178;Avila;30;;H;1990;20;Personas que se inyectan drogas
+3179;León;5;;M;1997;60;Hijo de madre a riesgo
+3180;Palencia;1;;M;1999;60;Hijo de madre a riesgo
+3181;León;25;;H;1999;20;Personas que se inyectan drogas
+3182;Zamora;66;;H;1985;70;Relaciones Heterosexuales
+3183;Burgos;53;;H;2000;70;Relaciones Heterosexuales
+3184;Segovia;28;;H;2002;10;Varones homosexuales / bisexuales
+3185;Salamanca;36;;H;2003;20;Personas que se inyectan drogas
+3186;León;50;;M;2002;70;Relaciones Heterosexuales
+3187;León;25;;H;2003;10;Varones homosexuales / bisexuales
+3188;Avila;8;;H;2003;60;Hijo de madre a riesgo
+3189;Segovia;79;;H;2003;70;Relaciones Heterosexuales
+3190;Zamora;39;;H;2005;20;Personas que se inyectan drogas
+3191;Valladolid;42;;H;2005;20;Personas que se inyectan drogas
+3192;Avila;35;;M;2005;80;Grupo de riesgo desconocido
+3193;León;42;;H;2008;80;Grupo de riesgo desconocido
+3194;León;38;;H;2010;10;Varones homosexuales / bisexuales
+3195;Soria;30;;M;2001;70;Relaciones Heterosexuales
+3196;León;46;;H;2009;40;Receptores de hemoderivados
+3197;Palencia;40;;M;2015;70;Relaciones Heterosexuales
+3198;Avila;37;;H;2008;20;Personas que se inyectan drogas
+3199;Salamanca;10;;H;2015;60;Hijo de madre a riesgo
+3200;Palencia;32;;H;1989;10;Varones homosexuales / bisexuales
+3201;Salamanca;34;;H;1989;20;Personas que se inyectan drogas
+3202;Soria;31;;H;1993;70;Relaciones Heterosexuales
+3203;Segovia;37;;H;1995;20;Personas que se inyectan drogas
+3204;Valladolid;42;;H;2007;80;Grupo de riesgo desconocido
+3205;Burgos;31;;H;1989;20;Personas que se inyectan drogas
+3206;Burgos;31;;H;1993;20;Personas que se inyectan drogas
+3207;Palencia;36;;H;1994;20;Personas que se inyectan drogas
+3208;Burgos;37;;H;1997;30;Personas que se inyectan drogas / Varones homo/bisexuales
+3209;Burgos;26;;M;1993;20;Personas que se inyectan drogas
+3210;Salamanca;27;;H;1986;20;Personas que se inyectan drogas
+3211;Burgos;27;;H;1989;20;Personas que se inyectan drogas
+3212;Palencia;24;;H;1990;20;Personas que se inyectan drogas
+3213;Burgos;29;;H;1987;20;Personas que se inyectan drogas
+3214;Burgos;31;;H;1988;20;Personas que se inyectan drogas
+3215;Burgos;34;;M;1990;20;Personas que se inyectan drogas
+3216;Burgos;34;;H;1991;20;Personas que se inyectan drogas
+3217;Burgos;57;;M;1992;70;Relaciones Heterosexuales
+3218;Valladolid;32;;M;1992;20;Personas que se inyectan drogas
+3219;Burgos;59;;H;1995;70;Relaciones Heterosexuales
+3220;Burgos;33;;M;1996;70;Relaciones Heterosexuales
+3221;Burgos;7;;M;1992;60;Hijo de madre a riesgo
+3222;Burgos;41;;H;2009;20;Personas que se inyectan drogas
+3223;Burgos;44;;H;2014;10;Varones homosexuales / bisexuales
+3224;Salamanca;31;;M;2000;20;Personas que se inyectan drogas
+3225;Avila;40;;H;2017;20;Personas que se inyectan drogas
+3226;Burgos;50;;H;2022;70;Relaciones Heterosexuales
+3227;Valladolid;37;;H;2022;10;Varones homosexuales / bisexuales
+3228;Palencia;52;;H;2022;70;Relaciones Heterosexuales
+3229;Burgos;44;;H;2022;80;Grupo de riesgo desconocido
+3230;Salamanca;67;;H;2022;70;Relaciones Heterosexuales
+3231;Valladolid;58;;H;2022;80;Grupo de riesgo desconocido
+3232;Valladolid;30;;H;2022;70;Relaciones Heterosexuales
+3233;Valladolid;54;;H;2022;70;Relaciones Heterosexuales
+3234;Leon;43;;H;2022;70;Relaciones Heterosexuales
+3235;Palencia;22;;H;2022;10;Varones homosexuales / bisexuales
+3236;Leon;51;;H;2022;70;Relaciones Heterosexuales
+3237;Burgos;41;;H;2022;70;Relaciones Heterosexuales
+3238;Salamanca;65;;H;2022;70;Relaciones Heterosexuales
+3239;Valladolid;40;;M;2023;70;Relaciones Heterosexuales
+3240;Leon;48;;H;2021;10;Varones homosexuales / bisexuales
+3241;Valladolid;55;;H;2023;70;Relaciones Heterosexuales
+3242;Segovia;56;;H;2023;10;Varones homosexuales / bisexuales
